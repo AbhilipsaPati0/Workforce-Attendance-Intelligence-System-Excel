@@ -1,0 +1,2576 @@
+Employee_ID,Employee_Name,Department,Attendance_Date,Check_In_Time,Check_Out_Time,Attendance_Status,Shift_Type,Location
+E1056,Employee_56,HR  ,2024-03-15,11:53,16:29,Work From Home,Evening,Office
+E1048,Employee_48,IT,11/03/2024,10:11,19:17,Present,Evening,Remote
+E1012,Employee_12,HR,2024-02-03,10:22,20:56,Late,Morning,Office
+E1023,Employee_23,HR,18/01/2024,10:39,17:24,Late,Evening,Office
+E1040,Employee_40,IT,2024-02-09,9:17,16:22,Work From Home,Evening,Remote
+E1041,Employee_41,IT,2024-03-07,11:47,20:6,Late,Evening,Remote
+E1031,Employee_31,IT,02/01/2024,10:12,16:19,Late,Morning,Office
+E1002,Employee_2,Operations,02-10-2024,,,Absent,Evening,Remote
+E1015,Employee_15,Operations,19/03/2024,9:35,20:37,Present,Evening,Remote
+E1014,Employee_14,IT,01-31-2024,,,absent,Evening,Office
+E1049,Employee_49,HR,24/01/2024,9:35,18:54,Work From Home,Morning,Remote
+E1024,Employee_24,Operations,05/02/2024,8:30,17:43,Present,Morning,Office
+E1018,Employee_18,Sales,03-09-2024,9:16,18:41,Present,Evening,Office
+E1059,Employee_59,Finance,24/03/2024,10:57,16:55,Late,Evening,Remote
+E1036,Employee_36,IT,26/01/2024,,,Absent,Morning,Office
+E1058,Employee_58,Operations,2024-02-10,11:4,20:1,Present,Morning,Remote
+E1035,Employee_35,Finance,02-09-2024,8:38,19:47,Present,Morning,Remote
+E1043,Employee_43,IT,28/02/2024,,,Absent,Morning,Remote
+E1042,Employee_42,Sales,2024-01-01,,,absent,Evening,Office
+E1047,Employee_47,Sales,09/03/2024,11:3,20:46,Work From Home,Evening,Office
+E1038,Employee_38,Finance,2024-02-01,9:40,16:6,Work From Home,Morning,Office
+E1011,Employee_11,Sales,2024-01-19,9:45,20:33,Present,Morning,Remote
+E1032,Employee_32,IT,2024-01-15,9:48,20:12,Present,Morning,Office
+E1026,Employee_26,HR,2024-03-10,11:26,19:39,Present,Evening,Office
+E1037,Employee_37,Operations,2024-01-17,,,Absent,Evening,Remote
+E1022,Employee_22,Sales,2024-02-13,11:15,17:37,Present,Evening,Remote
+E1045,Employee_45,IT,12/02/2024,9:14,18:8,Present,Morning,Office
+E1056,Employee_56,IT,18/03/2024,10:24,18:49,Late,Evening,Remote
+E1049,Employee_49,HR,02-28-2024,10:59,17:38,Present,Morning,Remote
+E1026,Employee_26,HR,2024-01-12,,,Absent,Evening,Office
+E1035,Employee_35,Finance,03-08-2024,10:16,20:21,Work From Home,Evening,Office
+E1016,Employee_16,HR,03-30-2024,9:44,19:5,Present,Evening,Remote
+E1054,Employee_54,Sales,2024-03-07,11:45,17:38,Present,Evening,Office
+E1056,Employee_56,Finance,01-07-2024,11:35,18:23,Late,Evening,Office
+E1030,Employee_30,Finance,2024-03-23,10:20,17:36,Present,Morning,Office
+E1030,Employee_30,Sales,15/02/2024,,,Absent,Evening,Office
+E1033,Employee_33,IT,2024-02-09,,,Absent,Morning,Office
+E1024,Employee_24,IT,30/03/2024,8:41,16:52,Present,Evening,Remote
+E1010,Employee_10,IT,08/01/2024,11:26,18:56,,Evening,Office
+E1026,Employee_26,Finance,27/02/2024,10:54,20:28,Late,Evening,Office
+E1045,Employee_45,IT,2024-02-13,11:33,20:36,Work From Home,Evening,Office
+E1002,Employee_2,IT  ,2024-02-19,9:56,17:30,Late,Evening,Remote
+E1032,Employee_32,Operations,11/01/2024,11:32,17:16,,Evening,Office
+E1025,Employee_25,Operations,2024-01-31,9:39,17:20,Work From Home,Evening,Remote
+E1045,Employee_45,Sales,2024-02-02,11:29,19:53,Work From Home,Morning,Remote
+E1003,Employee_3,Sales,2024-03-10,8:14,16:3,Present,Evening,Office
+E1048,Employee_48,IT,01-29-2024,11:39,20:41,Present,Evening,Office
+E1025,Employee_25,Finance,04/02/2024,10:35,20:53,Present,Morning,Office
+E1008,Employee_8,HR,02/02/2024,8:5,18:58,Late,Evening,Remote
+E1041,Employee_41,Finance,2024-02-13,11:15,19:0,Work From Home,Evening,Office
+E1034,Employee_34,Finance  ,25/01/2024,8:34,16:58,Work From Home,Morning,Remote
+E1016,Employee_16,Operations,09/01/2024,11:23,17:53,,Evening,Office
+E1052,Employee_52,Sales,01-30-2024,10:10,19:0,late,Morning,Remote
+E1039,Employee_39,HR,02-21-2024,8:41,19:53,Present,Evening,Remote
+E1042,Employee_42,Sales,14/02/2024,9:49,19:21,Work From Home,Morning,Office
+E1005,Employee_5,HR,14/02/2024,10:45,17:22,Present,Evening,Office
+E1034,Employee_34,IT,02-16-2024,,,Absent,Morning,Remote
+E1006,Employee_6,Finance,02-16-2024,9:13,19:2,Present,Evening,Office
+E1042,Employee_42,Finance  ,2024-01-29,9:56,20:24,,Morning,Remote
+E1005,Employee_5,Finance,2024-03-02,9:58,19:25,Late,Evening,Remote
+E1005,Employee_5,Operations,2024-01-08,10:42,20:13,Work From Home,Morning,Office
+E1032,Employee_32,Operations,06/02/2024,9:47,17:41,Present,Evening,Office
+E1033,Employee_33,Finance,08/02/2024,8:19,19:29,Late,Evening,Remote
+E1033,Employee_33,Finance,14/03/2024,,,Absent,Morning,Remote
+E1051,Employee_51,Operations  ,03-25-2024,11:49,18:26,Late,Morning,Office
+E1012,Employee_12,IT,21/01/2024,11:27,16:31,present,Morning,Office
+E1013,Employee_13,Finance,03-04-2024,,,Absent,Evening,Remote
+E1026,Employee_26,Operations,09/03/2024,9:37,17:10,Late,Morning,Office
+E1013,Employee_13,Finance,2024-03-01,10:1,17:54,Work From Home,Morning,Remote
+E1055,Employee_55,Sales,07/02/2024,8:28,19:27,Present,Evening,Remote
+E1008,Employee_8,IT,03-04-2024,9:3,20:13,Present,Evening,Remote
+E1056,Employee_56,IT,26/02/2024,11:57,16:37,Present,Morning,Remote
+E1012,Employee_12,Finance,2024-01-11,11:23,17:31,Present,Morning,Office
+E1015,Employee_15,HR,03-27-2024,8:6,20:44,Late,Morning,Remote
+E1038,Employee_38,Finance,2024-02-24,8:24,20:28,Late,Morning,Remote
+E1008,Employee_8,Finance,15/01/2024,,,,Morning,Remote
+E1045,Employee_45,IT,01/02/2024,8:22,20:3,Present,Evening,Office
+E1036,Employee_36,Finance,29/03/2024,,,Absent,Evening,Remote
+E1025,Employee_25,Operations,01-06-2024,9:51,20:43,Late,Evening,Office
+E1059,Employee_59,HR,01-10-2024,8:6,19:38,,Evening,Office
+E1001,Employee_1,IT,2024-01-01,,,Absent,Evening,Remote
+E1008,Employee_8,Sales,01-23-2024,11:41,18:58,Work From Home,Morning,Office
+E1014,Employee_14,Finance,03-12-2024,8:12,20:47,Late,Evening,Remote
+E1017,Employee_17,IT,11/02/2024,,,Absent,Morning,Office
+E1015,Employee_15,Sales,14/03/2024,9:46,18:58,Work From Home,Evening,Remote
+E1046,Employee_46,HR,2024-01-16,,,Absent,Morning,Office
+E1032,Employee_32,IT,29/03/2024,8:14,18:45,Work From Home,Evening,Remote
+E1028,Employee_28,Finance,02-09-2024,,,Absent,Evening,Office
+E1002,Employee_2,HR,2024-02-22,8:29,19:11,Work From Home,Evening,Remote
+E1044,Employee_44,Operations,02-03-2024,11:1,18:7,Late,Evening,Office
+E1042,Employee_42,Finance,02-05-2024,,,Absent,Morning,Office
+E1014,Employee_14,Sales,02-03-2024,8:45,19:52,Present,Evening,Remote
+E1035,Employee_35,IT,01-10-2024,9:8,16:4,Work From Home,Morning,Remote
+E1020,Employee_20,Sales,09/02/2024,,,,Evening,Remote
+E1040,Employee_40,Finance,01-05-2024,11:3,19:12,Present,Morning,Remote
+E1032,Employee_32,IT,2024-02-25,,,Absent,Morning,Office
+E1048,Employee_48,IT,02-08-2024,,,Absent,Evening,Office
+E1049,Employee_49,Operations,03-09-2024,8:31,18:4,Late,Evening,Office
+E1001,Employee_1,Operations,2024-02-10,,,Absent,Morning,Remote
+E1022,Employee_22,Finance,2024-03-09,,,Absent,Evening,Office
+E1030,Employee_30,IT,2024-03-30,9:58,17:44,Late,Evening,Office
+E1018,Employee_18,IT,01-11-2024,10:30,16:35,,Evening,Remote
+E1053,Employee_53,IT,17/03/2024,8:56,16:18,Work From Home,Evening,Remote
+E1019,Employee_19,Sales,23/01/2024,10:50,20:51,Work From Home,Evening,Remote
+E1037,Employee_37,IT  ,23/01/2024,10:33,16:13,Late,Evening,Office
+E1003,Employee_3,Operations,02-02-2024,11:35,19:57,Work From Home,Morning,Office
+E1023,Employee_23,Operations,17/02/2024,8:34,18:7,Present,Morning,Remote
+E1059,Employee_59,IT,2024-03-20,11:53,18:24,Work From Home,Morning,Remote
+E1020,Employee_20,Operations,2024-01-31,8:33,20:40,Present,Evening,Remote
+E1038,Employee_38,IT,14/03/2024,11:7,20:30,Work From Home,Evening,Remote
+E1013,Employee_13,IT,2024-02-13,11:7,19:1,Work From Home,Evening,Remote
+E1018,Employee_18,HR,2024-01-03,10:22,16:28,Work From Home,Morning,Office
+E1037,Employee_37,HR,2024-02-20,11:33,17:15,Work From Home,Evening,Office
+E1009,Employee_9,Operations,08/03/2024,11:7,16:39,Work From Home,Morning,Office
+E1028,Employee_28,IT,2024-01-01,11:22,19:32,Late,Evening,Office
+E1052,Employee_52,IT,03/01/2024,8:42,19:59,,Evening,Office
+E1053,Employee_53,Operations,02-17-2024,9:2,19:19,Present,Morning,Office
+E1035,Employee_35,IT,2024-01-30,11:20,16:42,Work From Home,Morning,Office
+E1040,Employee_40,Sales,2024-03-24,10:20,17:16,Work From Home,Evening,Remote
+E1019,Employee_19,Operations,03-26-2024,8:21,17:4,Present,Evening,Office
+E1014,Employee_14,IT,05/01/2024,10:17,17:11,Late,Evening,Office
+E1055,Employee_55,Sales,10/02/2024,10:52,19:59,Late,Evening,Office
+E1059,Employee_59,Sales,22/01/2024,11:45,18:9,Work From Home,Morning,Remote
+E1011,Employee_11,IT,19/02/2024,9:4,20:27,Work From Home,Evening,Office
+E1004,Employee_4,IT,03-10-2024,11:0,16:29,Present,Morning,Remote
+E1032,Employee_32,IT,02-16-2024,9:11,18:23,Work From Home,Evening,Office
+E1019,Employee_19,IT,2024-01-29,8:7,16:54,Late,Morning,Office
+E1046,Employee_46,Sales  ,03-22-2024,,,Absent,Morning,Office
+E1019,Employee_19,HR,01-30-2024,11:58,18:35,Work From Home,Evening,Office
+E1022,Employee_22,HR,02-28-2024,,,Absent,Evening,Remote
+E1038,Employee_38,Finance,01-07-2024,,,,Morning,Office
+E1003,Employee_3,Finance,01-18-2024,9:28,18:0,Present,Evening,Office
+E1041,Employee_41,HR,02-07-2024,,,Absent,Morning,Office
+E1014,Employee_14,Operations,2024-01-30,11:32,16:29,Late,Morning,Office
+E1043,Employee_43,Sales,01-31-2024,10:15,16:32,Late,Morning,Remote
+E1040,Employee_40,Finance,2024-03-22,8:38,16:56,Present,Evening,Office
+E1036,Employee_36,HR,06/01/2024,,,Absent,Morning,Office
+E1046,Employee_46,Finance,02-28-2024,,,Absent,Evening,Remote
+E1030,Employee_30,IT,05/01/2024,10:53,17:44,Work From Home,Evening,Remote
+E1022,Employee_22,IT,03-04-2024,9:14,18:28,Work From Home,Morning,Remote
+E1013,Employee_13,IT,2024-03-15,,,Absent,Morning,Remote
+E1046,Employee_46,Finance,10/03/2024,9:22,20:29,Present,Evening,Remote
+E1027,Employee_27,Operations,02-12-2024,9:1,20:20,Work From Home,Morning,Office
+E1049,Employee_49,HR,2024-01-16,11:17,18:50,Present,Evening,Office
+E1048,Employee_48,IT,2024-02-27,11:31,16:11,Late,Evening,Remote
+E1016,Employee_16,Sales,03/01/2024,10:1,16:35,Present,Morning,Remote
+E1006,Employee_6,IT,01-11-2024,10:13,19:49,Present,Morning,Office
+E1008,Employee_8,HR,17/03/2024,10:53,18:30,Late,Evening,Remote
+E1044,Employee_44,IT,24/01/2024,10:8,19:34,Work From Home,Morning,Office
+E1050,Employee_50,Sales,24/02/2024,,,Absent,Evening,Remote
+E1050,Employee_50,Sales,12/02/2024,10:33,18:7,Present,Evening,Office
+E1044,Employee_44,Operations,02-03-2024,10:37,19:57,Late,Evening,Office
+E1050,Employee_50,Operations,03-10-2024,10:20,17:46,Late,Morning,Remote
+E1052,Employee_52,IT,2024-01-16,11:35,20:20,Late,Morning,Remote
+E1056,Employee_56,HR,2024-01-15,11:20,20:28,Work From Home,Evening,Office
+E1005,Employee_5,IT  ,2024-01-09,11:26,19:54,Work From Home,Evening,Office
+E1003,Employee_3,HR,2024-01-02,11:23,20:38,Present,Morning,Office
+E1052,Employee_52,Sales,2024-01-24,9:17,19:31,Work From Home,Evening,Office
+E1012,Employee_12,Operations,2024-02-10,9:23,16:33,Present,Morning,Remote
+E1032,Employee_32,HR,2024-01-29,8:49,17:36,Late,Evening,Office
+E1027,Employee_27,Operations,03-03-2024,11:42,18:56,Present,Morning,Office
+E1022,Employee_22,HR,2024-01-08,8:39,18:38,Late,Morning,Office
+E1058,Employee_58,Operations,26/01/2024,9:39,18:58,Late,Morning,Office
+E1052,Employee_52,Sales,02-24-2024,10:29,17:59,Late,Morning,Office
+E1015,Employee_15,Operations,30/01/2024,,,Absent,Morning,Office
+E1048,Employee_48,IT,15/02/2024,11:32,17:0,Present,Evening,Remote
+E1044,Employee_44,Finance,2024-01-27,,,Absent,Evening,Remote
+E1055,Employee_55,Finance,2024-03-17,10:44,20:21,Late,Morning,Remote
+E1017,Employee_17,Finance,2024-01-18,,,Absent,Evening,Remote
+E1039,Employee_39,Finance,01-17-2024,10:11,20:49,Present,Morning,Office
+E1045,Employee_45,Operations,30/01/2024,11:6,18:18,Work From Home,Evening,Office
+E1006,Employee_6,Sales,01-28-2024,,,Absent,Evening,Office
+E1045,Employee_45,IT,02-12-2024,11:41,18:20,Late,Morning,Remote
+E1037,Employee_37,Operations,2024-01-09,10:48,17:10,Present,Morning,Remote
+E1024,Employee_24,HR,2024-02-27,11:41,18:5,Work From Home,Evening,Remote
+E1059,Employee_59,HR,2024-02-03,9:31,17:18,Work From Home,Morning,Office
+E1036,Employee_36,Operations,2024-02-10,11:20,17:1,Late,Morning,Office
+E1054,Employee_54,Sales,03-17-2024,11:12,20:28,Late,Morning,Remote
+E1046,Employee_46,IT,02-23-2024,11:29,19:30,Present,Morning,Office
+E1036,Employee_36,Sales,01-24-2024,10:11,17:21,Present,Morning,Office
+E1050,Employee_50,Finance,2024-02-14,10:45,17:36,Work From Home,Evening,Remote
+E1025,Employee_25,HR,08/02/2024,,,Absent,Morning,Office
+E1006,Employee_6,Finance,30/01/2024,10:40,17:51,Late,Morning,Remote
+E1052,Employee_52,Finance,01-08-2024,8:52,18:44,Work From Home,Morning,Remote
+E1007,Employee_7,Operations,10/02/2024,,,Absent,Evening,Office
+E1043,Employee_43,HR,2024-03-12,10:27,19:18,Present,Evening,Remote
+E1009,Employee_9,Finance,20/02/2024,8:55,16:44,Present,Evening,Office
+E1007,Employee_7,Finance,27/03/2024,8:41,18:35,work from home,Morning,Office
+E1014,Employee_14,HR,2024-02-08,8:47,18:2,Late,Evening,Office
+E1055,Employee_55,Operations,23/02/2024,9:0,17:43,Late,Evening,Remote
+E1047,Employee_47,Sales,2024-01-31,8:17,16:28,Late,Morning,Office
+E1053,Employee_53,Operations,03/03/2024,10:33,18:27,Late,Evening,Remote
+E1026,Employee_26,Finance,2024-03-06,,,Absent,Evening,Remote
+E1003,Employee_3,Finance,24/03/2024,11:21,20:31,Late,Evening,Remote
+E1017,Employee_17,Finance,2024-01-10,11:43,18:27,late,Evening,Remote
+E1016,Employee_16,Operations,01-13-2024,,,Absent,Evening,Office
+E1013,Employee_13,HR,01-22-2024,9:23,16:10,Late,Morning,Office
+E1045,Employee_45,IT,03-01-2024,,,Absent,Evening,Office
+E1011,Employee_11,Finance,29/03/2024,,,Absent,Morning,Remote
+E1018,Employee_18,IT,22/01/2024,9:14,18:58,Present,Morning,Remote
+E1058,Employee_58,Operations,03-17-2024,10:14,16:35,Late,Evening,Remote
+E1030,Employee_30,IT,02-13-2024,11:14,16:16,Late,Evening,Remote
+E1006,Employee_6,Sales,19/03/2024,8:16,19:26,Work From Home,Morning,Remote
+E1048,Employee_48,Sales,2024-03-11,8:16,17:9,Work From Home,Evening,Remote
+E1022,Employee_22,IT,03-16-2024,,,Absent,Morning,Remote
+E1027,Employee_27,Finance  ,16/03/2024,,,Absent,Morning,Remote
+E1004,Employee_4,Operations,10/02/2024,10:29,17:25,Present,Evening,Remote
+E1045,Employee_45,Finance,03-21-2024,11:29,18:24,Late,Evening,Remote
+E1028,Employee_28,IT,02-18-2024,11:8,16:11,Late,Evening,Remote
+E1033,Employee_33,Operations,2024-02-26,,,Absent,Morning,Office
+E1026,Employee_26,Operations,03-08-2024,11:46,16:35,Work From Home,Evening,Remote
+E1024,Employee_24,IT  ,2024-03-21,,,Absent,Evening,Remote
+E1020,Employee_20,Finance  ,02-10-2024,9:59,17:40,,Evening,Remote
+E1001,Employee_1,Finance,15/01/2024,11:30,16:59,Present,Evening,Remote
+E1021,Employee_21,Operations,06/03/2024,,,Absent,Evening,Office
+E1010,Employee_10,IT,03-27-2024,,,Absent,Morning,Office
+E1050,Employee_50,Sales,01-09-2024,10:17,20:31,Late,Morning,Office
+E1058,Employee_58,Operations,02-13-2024,11:36,18:7,Present,Evening,Remote
+E1003,Employee_3,Operations,01-20-2024,,,Absent,Morning,Office
+E1045,Employee_45,IT,12/03/2024,,,Absent,Morning,Office
+E1058,Employee_58,Operations,06/02/2024,9:22,19:29,Late,Evening,Remote
+E1040,Employee_40,Sales,02-24-2024,11:0,18:1,work from home,Morning,Remote
+E1015,Employee_15,Operations,2024-01-20,,,Absent,Morning,Office
+E1046,Employee_46,Sales,2024-02-16,,,Absent,Evening,Office
+E1008,Employee_8,IT  ,06/03/2024,,,Absent,Morning,Office
+E1022,Employee_22,IT,02-21-2024,11:57,19:35,Late,Morning,Remote
+E1023,Employee_23,Operations,01-15-2024,,,Absent,Morning,Office
+E1046,Employee_46,Operations,11/03/2024,11:32,19:11,Late,Morning,Remote
+E1033,Employee_33,Operations,2024-01-16,11:45,16:57,Work From Home,Evening,Remote
+E1023,Employee_23,Operations,21/03/2024,8:35,17:21,Work From Home,Morning,Office
+E1024,Employee_24,Sales,17/03/2024,11:19,19:17,Present,Morning,Office
+E1014,Employee_14,HR,02-10-2024,10:4,20:2,Work From Home,Evening,Remote
+E1043,Employee_43,Finance,29/02/2024,10:40,18:46,Late,Evening,Remote
+E1047,Employee_47,HR,24/03/2024,11:2,18:6,Late,Evening,Remote
+E1009,Employee_9,Sales,24/02/2024,8:54,19:41,,Morning,Remote
+E1043,Employee_43,Sales,04/02/2024,,,Absent,Morning,Office
+E1038,Employee_38,HR,2024-02-23,10:48,16:44,Late,Morning,Office
+E1035,Employee_35,Operations,01-06-2024,9:2,16:12,Late,Morning,Remote
+E1020,Employee_20,Finance,16/01/2024,8:29,20:50,present,Morning,Office
+E1016,Employee_16,Finance,2024-03-10,11:1,17:4,Work From Home,Morning,Office
+E1045,Employee_45,IT,28/03/2024,10:9,19:0,Present,Evening,Office
+E1032,Employee_32,Operations,01-24-2024,,,Absent,Evening,Office
+E1023,Employee_23,HR,02-13-2024,11:35,18:25,Present,Evening,Office
+E1052,Employee_52,Sales,02-04-2024,10:6,19:31,Work From Home,Morning,Remote
+E1036,Employee_36,Operations,2024-01-25,,,Absent,Morning,Office
+E1001,Employee_1,Operations,14/01/2024,8:19,17:23,Late,Morning,Office
+E1022,Employee_22,Sales,07/01/2024,11:47,20:16,Present,Morning,Remote
+E1037,Employee_37,IT,20/01/2024,10:22,19:2,Present,Evening,Remote
+E1047,Employee_47,HR,01-02-2024,,,Absent,Evening,Office
+E1017,Employee_17,IT,2024-02-19,10:40,20:50,Present,Morning,Office
+E1039,Employee_39,IT,01-08-2024,11:10,16:43,Work From Home,Morning,Remote
+E1019,Employee_19,Sales,02-19-2024,8:17,19:57,Present,Morning,Office
+E1027,Employee_27,IT,2024-02-04,10:57,18:46,Work From Home,Morning,Remote
+E1017,Employee_17,Finance,01-15-2024,9:50,16:44,Present,Evening,Remote
+E1056,Employee_56,Operations,02-11-2024,8:52,17:34,Present,Evening,Remote
+E1030,Employee_30,Sales,21/02/2024,10:51,19:47,Work From Home,Morning,Remote
+E1057,Employee_57,Operations,09/03/2024,,,Absent,Evening,Office
+E1014,Employee_14,HR,19/02/2024,10:50,20:30,Present,Morning,Remote
+E1036,Employee_36,Sales,2024-02-13,,,Absent,Evening,Remote
+E1041,Employee_41,Operations,2024-01-13,9:0,19:16,Work From Home,Evening,Remote
+E1003,Employee_3,Operations,01/01/2024,11:53,16:38,Late,Evening,Remote
+E1042,Employee_42,IT,01-01-2024,9:19,20:56,Work From Home,Evening,Office
+E1001,Employee_1,Sales,14/01/2024,8:11,18:22,Work From Home,Evening,Office
+E1011,Employee_11,IT,02-22-2024,11:30,16:54,Work From Home,Morning,Office
+E1033,Employee_33,Finance,18/02/2024,8:29,16:17,Work From Home,Morning,Remote
+E1040,Employee_40,Finance,03-09-2024,8:0,19:37,Work From Home,Evening,Office
+E1048,Employee_48,HR,03-06-2024,,,Absent,Evening,Office
+E1003,Employee_3,Finance,01-18-2024,9:58,17:20,Work From Home,Evening,Remote
+E1016,Employee_16,Finance,13/03/2024,,,Absent,Morning,Office
+E1048,Employee_48,Finance,27/03/2024,8:58,19:35,Work From Home,Evening,Remote
+E1026,Employee_26,Operations,09/02/2024,11:43,19:49,Late,Morning,Office
+E1037,Employee_37,HR,02-20-2024,9:18,19:34,Late,Evening,Remote
+E1041,Employee_41,Sales,2024-03-05,8:5,20:58,Late,Evening,Remote
+E1035,Employee_35,IT,01/03/2024,8:19,16:20,Late,Morning,Remote
+E1043,Employee_43,IT,03-17-2024,9:39,18:1,Late,Evening,Remote
+E1021,Employee_21,Operations,02/02/2024,10:24,18:27,Work From Home,Evening,Office
+E1012,Employee_12,IT,03-03-2024,10:47,16:16,Present,Evening,Remote
+E1014,Employee_14,HR,03-20-2024,,,Absent,Morning,Office
+E1045,Employee_45,Operations,2024-02-15,,,Absent,Morning,Remote
+E1036,Employee_36,Sales  ,2024-01-24,9:29,18:50,Work From Home,Morning,Remote
+E1042,Employee_42,Sales,01-13-2024,10:18,18:32,Work From Home,Morning,Office
+E1005,Employee_5,Sales,28/03/2024,9:11,16:10,Late,Evening,Office
+E1046,Employee_46,IT,01-14-2024,,,Absent,Morning,Office
+E1009,Employee_9,Sales,02/03/2024,11:19,19:21,Present,Morning,Remote
+E1001,Employee_1,Operations,02-04-2024,,,Absent,Morning,Remote
+E1042,Employee_42,Finance,30/03/2024,9:34,20:36,Late,Evening,Office
+E1016,Employee_16,Finance,01-07-2024,11:25,20:29,Work From Home,Morning,Remote
+E1010,Employee_10,Operations,01-23-2024,11:37,19:52,Present,Morning,Office
+E1035,Employee_35,Sales,03-09-2024,,,Absent,Morning,Office
+E1019,Employee_19,Finance,01/03/2024,8:25,20:37,Work From Home,Morning,Office
+E1052,Employee_52,Operations,2024-01-17,11:46,19:55,Work From Home,Morning,Remote
+E1015,Employee_15,Operations,02-18-2024,10:16,17:15,Work From Home,Evening,Remote
+E1022,Employee_22,Sales,09/02/2024,9:44,20:53,Late,Evening,Remote
+E1030,Employee_30,Finance,14/02/2024,9:59,17:38,Late,Morning,Office
+E1032,Employee_32,Sales,02-10-2024,10:26,17:46,Present,Morning,Office
+E1055,Employee_55,IT,01-06-2024,9:57,19:4,Work From Home,Morning,Office
+E1030,Employee_30,IT,01-12-2024,10:8,16:17,Present,Evening,Office
+E1025,Employee_25,Finance,01-09-2024,10:30,17:13,Present,Evening,Office
+E1026,Employee_26,Finance,03/01/2024,11:23,16:58,Work From Home,Evening,Remote
+E1008,Employee_8,Finance,24/01/2024,,,Absent,Evening,Remote
+E1004,Employee_4,Sales  ,03-18-2024,9:10,19:47,Work From Home,Morning,Remote
+E1020,Employee_20,Sales,21/01/2024,8:55,19:21,Late,Evening,Remote
+E1032,Employee_32,Operations,2024-03-11,,,Absent,Morning,Office
+E1016,Employee_16,Finance,06/03/2024,10:3,20:41,Late,Morning,Remote
+E1036,Employee_36,Operations,25/02/2024,11:57,18:13,Late,Evening,Remote
+E1016,Employee_16,HR,03-18-2024,9:32,20:33,Work From Home,Morning,Remote
+E1052,Employee_52,Operations,02-24-2024,11:26,19:54,Work From Home,Evening,Remote
+E1024,Employee_24,Sales,2024-01-12,10:20,18:11,Late,Evening,Office
+E1043,Employee_43,Sales,09/02/2024,9:52,20:36,Present,Morning,Office
+E1027,Employee_27,HR,01-19-2024,8:24,18:17,Late,Evening,Office
+E1006,Employee_6,IT,14/01/2024,9:39,17:13,Late,Evening,Remote
+E1018,Employee_18,Sales,03-18-2024,9:1,18:53,Late,Evening,Remote
+E1039,Employee_39,HR,2024-03-26,9:22,17:24,Work From Home,Evening,Office
+E1046,Employee_46,Sales,19/03/2024,,,Absent,Morning,Office
+E1015,Employee_15,HR,01-03-2024,11:22,20:21,Late,Evening,Remote
+E1026,Employee_26,IT,2024-01-03,,,Absent,Evening,Office
+E1041,Employee_41,HR,02-02-2024,9:28,17:3,Work From Home,Evening,Office
+E1020,Employee_20,Operations,08/01/2024,8:43,17:24,Work From Home,Evening,Remote
+E1011,Employee_11,Sales,01-27-2024,8:19,18:10,Late,Morning,Remote
+E1009,Employee_9,Sales,03-21-2024,8:45,19:32,Work From Home,Evening,Remote
+E1025,Employee_25,Sales,02-02-2024,9:56,19:16,Late,Morning,Office
+E1016,Employee_16,Finance,02-28-2024,11:31,20:22,Work From Home,Evening,Office
+E1034,Employee_34,Sales,2024-03-22,8:34,17:49,Work From Home,Evening,Office
+E1008,Employee_8,Finance,2024-02-03,8:59,17:12,Present,Morning,Remote
+E1002,Employee_2,Sales,2024-01-09,,,Absent,Morning,Office
+E1046,Employee_46,Operations,2024-01-08,,,Absent,Evening,Office
+E1000,Employee_0,Sales,2024-02-05,9:23,16:50,Work From Home,Morning,Office
+E1009,Employee_9,IT,27/03/2024,,,Absent,Evening,Office
+E1008,Employee_8,Finance,02-13-2024,11:20,19:7,Work From Home,Evening,Office
+E1041,Employee_41,IT,21/02/2024,,,Absent,Evening,Office
+E1035,Employee_35,HR,03-01-2024,,,Absent,Evening,Office
+E1021,Employee_21,Finance,02-10-2024,,,Absent,Evening,Office
+E1012,Employee_12,Finance,24/01/2024,8:39,17:5,Work From Home,Morning,Office
+E1053,Employee_53,Sales,06/02/2024,9:39,16:45,Work From Home,Evening,Remote
+E1030,Employee_30,HR,2024-01-20,8:31,17:0,Present,Morning,Office
+E1046,Employee_46,Sales,06/02/2024,9:7,16:38,Late,Evening,Office
+E1010,Employee_10,IT,06/03/2024,11:37,16:12,Present,Evening,Office
+E1026,Employee_26,Sales,03-29-2024,9:25,19:33,work from home,Morning,Remote
+E1003,Employee_3,Sales,2024-02-29,8:23,19:31,Work From Home,Evening,Office
+E1032,Employee_32,Finance,02-25-2024,9:2,19:52,Present,Evening,Office
+E1043,Employee_43,Sales,27/01/2024,9:37,17:40,Present,Evening,Office
+E1013,Employee_13,Finance,22/03/2024,,,Absent,Evening,Remote
+E1048,Employee_48,Operations,2024-02-05,11:19,16:24,Present,Evening,Remote
+E1014,Employee_14,HR,22/01/2024,10:23,20:49,Late,Morning,Remote
+E1023,Employee_23,Finance,01-14-2024,,,Absent,Evening,Remote
+E1022,Employee_22,Sales,2024-03-17,,,Absent,Evening,Remote
+E1042,Employee_42,Operations,10/01/2024,11:34,17:52,Late,Evening,Remote
+E1022,Employee_22,Sales,01-13-2024,10:6,19:29,Late,Morning,Remote
+E1003,Employee_3,HR,2024-03-15,,,Absent,Morning,Remote
+E1016,Employee_16,IT,02-22-2024,10:19,19:32,Work From Home,Evening,Remote
+E1013,Employee_13,IT,02-24-2024,,,Absent,Evening,Remote
+E1000,Employee_0,HR,18/03/2024,8:2,18:5,Late,Evening,Office
+E1052,Employee_52,Operations,2024-02-23,10:37,19:15,Late,Evening,Office
+E1025,Employee_25,Finance,03-30-2024,10:10,18:53,Work From Home,Morning,Office
+E1048,Employee_48,Sales,2024-03-03,10:0,19:8,Present,Morning,Office
+E1041,Employee_41,HR,01-10-2024,10:0,20:34,Work From Home,Evening,Office
+E1009,Employee_9,Finance,08/03/2024,,,Absent,Morning,Remote
+E1028,Employee_28,Operations,2024-01-22,,,Absent,Evening,Remote
+E1036,Employee_36,HR,23/01/2024,11:13,17:20,Late,Morning,Remote
+E1007,Employee_7,Operations,2024-01-30,11:53,20:35,Late,Evening,Office
+E1018,Employee_18,Sales,03-17-2024,11:8,17:57,Late,Morning,Remote
+E1048,Employee_48,Sales,15/03/2024,10:45,17:19,Late,Evening,Office
+E1030,Employee_30,Sales,01-21-2024,,,Absent,Evening,Office
+E1051,Employee_51,Finance,03-20-2024,,,Absent,Evening,Remote
+E1011,Employee_11,Finance,02-23-2024,9:40,19:50,Present,Morning,Office
+E1016,Employee_16,HR,04/01/2024,,,Absent,Morning,Remote
+E1043,Employee_43,Sales,03-28-2024,10:11,18:14,Late,Evening,Remote
+E1008,Employee_8,Operations,01-17-2024,,,Absent,Evening,Remote
+E1056,Employee_56,Sales,2024-01-09,11:4,18:16,Late,Morning,Remote
+E1035,Employee_35,HR,2024-03-01,,,absent,Morning,Remote
+E1001,Employee_1,Finance,2024-01-10,,,Absent,Evening,Remote
+E1053,Employee_53,Finance,02-18-2024,8:39,18:8,Present,Evening,Remote
+E1004,Employee_4,HR,02-10-2024,8:46,20:58,Late,Evening,Office
+E1037,Employee_37,Finance,2024-01-12,8:52,17:40,Late,Evening,Office
+E1004,Employee_4,Sales,03/01/2024,10:52,20:4,Work From Home,Evening,Office
+E1015,Employee_15,Finance,02-21-2024,10:6,16:26,Work From Home,Morning,Office
+E1027,Employee_27,IT,25/01/2024,9:17,17:47,Late,Morning,Remote
+E1055,Employee_55,IT,03-16-2024,8:57,16:15,Late,Morning,Remote
+E1056,Employee_56,Sales,02-18-2024,10:0,17:34,Present,Evening,Remote
+E1006,Employee_6,HR,2024-03-06,8:25,18:31,Work From Home,Evening,Office
+E1054,Employee_54,HR,02/03/2024,11:56,20:10,Work From Home,Evening,Remote
+E1021,Employee_21,Operations,23/01/2024,8:23,19:8,,Morning,Office
+E1022,Employee_22,Operations,2024-01-15,8:23,18:38,Work From Home,Morning,Office
+E1026,Employee_26,Operations,2024-02-22,,,Absent,Morning,Office
+E1022,Employee_22,Finance  ,03-02-2024,11:31,18:42,Work From Home,Evening,Office
+E1047,Employee_47,Sales,01-12-2024,8:40,20:19,Work From Home,Morning,Remote
+E1003,Employee_3,Finance,2024-03-23,9:48,16:38,Work From Home,Evening,Remote
+E1001,Employee_1,Operations,08/03/2024,10:1,19:22,Late,Evening,Remote
+E1013,Employee_13,Sales,21/01/2024,8:22,17:52,Late,Morning,Office
+E1050,Employee_50,HR,02-12-2024,8:39,17:37,Work From Home,Morning,Remote
+E1007,Employee_7,Finance,2024-03-23,10:4,16:6,Present,Morning,Remote
+E1052,Employee_52,Sales,2024-02-20,10:16,18:31,Present,Evening,Remote
+E1030,Employee_30,Operations,25/01/2024,8:43,19:27,Present,Morning,Remote
+E1030,Employee_30,HR,18/02/2024,8:31,16:14,Late,Evening,Office
+E1000,Employee_0,Operations,2024-02-04,10:42,16:48,Present,Evening,Remote
+E1034,Employee_34,Sales,02-05-2024,9:36,18:31,Late,Evening,Remote
+E1031,Employee_31,Sales,01/02/2024,,,Absent,Morning,Remote
+E1042,Employee_42,Operations,16/02/2024,8:24,16:12,Present,Morning,Office
+E1033,Employee_33,Sales,05/01/2024,8:20,20:17,Work From Home,Morning,Remote
+E1046,Employee_46,Operations,22/02/2024,,,Absent,Evening,Remote
+E1019,Employee_19,Finance  ,03-21-2024,9:11,18:7,Late,Morning,Remote
+E1017,Employee_17,Finance,02-02-2024,9:39,20:5,,Evening,Office
+E1028,Employee_28,HR  ,01-22-2024,,,,Evening,Office
+E1034,Employee_34,HR,14/02/2024,9:45,20:56,Work From Home,Morning,Office
+E1048,Employee_48,HR  ,02-24-2024,8:54,20:46,Work From Home,Evening,Office
+E1031,Employee_31,HR,02-19-2024,10:38,20:33,Present,Morning,Remote
+E1049,Employee_49,Operations,02-09-2024,9:56,18:50,Work From Home,Morning,Office
+E1001,Employee_1,IT,2024-03-20,10:24,19:45,Work From Home,Morning,Office
+E1024,Employee_24,IT,20/01/2024,11:34,18:33,Work From Home,Morning,Remote
+E1030,Employee_30,Sales,01/03/2024,,,Absent,Evening,Office
+E1038,Employee_38,Finance,03-11-2024,10:33,20:23,present,Evening,Office
+E1034,Employee_34,Operations,2024-02-23,8:0,20:58,Present,Morning,Remote
+E1011,Employee_11,Operations,2024-01-25,8:18,20:4,Late,Evening,Office
+E1022,Employee_22,Operations,2024-02-03,10:23,17:53,Late,Morning,Office
+E1018,Employee_18,Finance,02-03-2024,,,Absent,Morning,Remote
+E1057,Employee_57,Finance,26/03/2024,9:35,18:14,Present,Morning,Office
+E1059,Employee_59,HR,2024-01-08,9:0,17:11,Late,Evening,Office
+E1051,Employee_51,Sales,01-28-2024,11:2,19:40,Present,Evening,Remote
+E1025,Employee_25,Finance,2024-03-02,8:52,19:20,Work From Home,Evening,Office
+E1047,Employee_47,Operations,03-18-2024,,,Absent,Evening,Office
+E1036,Employee_36,Finance,05/02/2024,,,Absent,Evening,Office
+E1010,Employee_10,IT,03-05-2024,8:49,16:8,late,Morning,Office
+E1042,Employee_42,Sales,03-23-2024,9:10,17:58,Work From Home,Evening,Office
+E1028,Employee_28,Operations,03-19-2024,10:15,19:10,Work From Home,Evening,Remote
+E1012,Employee_12,Finance,25/03/2024,8:56,16:55,Work From Home,Evening,Remote
+E1036,Employee_36,Sales,02-18-2024,10:51,18:26,Work From Home,Morning,Remote
+E1029,Employee_29,Sales,20/03/2024,8:45,18:55,Work From Home,Morning,Office
+E1048,Employee_48,IT,2024-03-26,9:24,16:5,Late,Morning,Remote
+E1049,Employee_49,Operations,08/03/2024,8:49,16:13,Work From Home,Morning,Remote
+E1005,Employee_5,IT,2024-02-08,10:22,16:0,Present,Evening,Remote
+E1000,Employee_0,Finance,13/03/2024,11:29,18:13,Late,Evening,Office
+E1040,Employee_40,Sales,28/02/2024,9:34,17:16,Late,Evening,Remote
+E1059,Employee_59,HR,2024-03-20,,,Absent,Evening,Remote
+E1043,Employee_43,Sales,2024-02-12,8:51,16:19,Present,Evening,Remote
+E1007,Employee_7,Finance,03-11-2024,,,Absent,Evening,Office
+E1058,Employee_58,Operations,29/01/2024,10:13,19:31,Work From Home,Morning,Office
+E1017,Employee_17,Sales,03-01-2024,9:46,18:54,Late,Morning,Remote
+E1005,Employee_5,Finance,2024-03-01,10:14,17:57,Work From Home,Morning,Office
+E1032,Employee_32,Finance,12/02/2024,11:53,18:58,Present,Evening,Office
+E1024,Employee_24,Operations,01-07-2024,8:41,19:48,Present,Morning,Remote
+E1056,Employee_56,Finance,31/01/2024,,,Absent,Evening,Remote
+E1031,Employee_31,HR,2024-01-31,11:29,17:47,Late,Morning,Office
+E1019,Employee_19,HR,2024-01-29,9:11,17:51,Work From Home,Evening,Office
+E1047,Employee_47,HR  ,26/01/2024,9:56,19:11,Present,Morning,Remote
+E1022,Employee_22,Finance,04/01/2024,,,Absent,Morning,Remote
+E1032,Employee_32,Operations,03-12-2024,8:28,16:6,Late,Morning,Remote
+E1034,Employee_34,Operations,23/03/2024,,,Absent,Morning,Office
+E1043,Employee_43,Finance,01-14-2024,10:48,19:46,Present,Morning,Office
+E1046,Employee_46,HR,13/01/2024,,,Absent,Evening,Office
+E1029,Employee_29,Finance,01-23-2024,11:54,19:25,Present,Morning,Remote
+E1020,Employee_20,IT,29/01/2024,,,Absent,Evening,Office
+E1054,Employee_54,HR,02-17-2024,11:18,17:24,Work From Home,Morning,Remote
+E1031,Employee_31,HR,14/03/2024,10:19,19:52,Late,Evening,Office
+E1039,Employee_39,Sales,2024-01-17,,,Absent,Evening,Office
+E1013,Employee_13,Sales,2024-02-15,9:44,18:30,Late,Morning,Office
+E1052,Employee_52,IT,2024-02-10,,,Absent,Morning,Remote
+E1035,Employee_35,Operations,2024-01-21,,,Absent,Morning,Remote
+E1019,Employee_19,Operations,26/03/2024,,,Absent,Morning,Remote
+E1055,Employee_55,Operations,2024-03-18,11:15,16:53,Work From Home,Evening,Remote
+E1055,Employee_55,HR,2024-01-27,10:19,18:47,Present,Morning,Office
+E1038,Employee_38,IT,03-20-2024,10:7,19:3,Work From Home,Evening,Office
+E1015,Employee_15,HR,2024-03-17,9:26,16:19,Present,Morning,Remote
+E1023,Employee_23,Operations,18/02/2024,,,Absent,Morning,Office
+E1039,Employee_39,Operations,2024-03-16,9:16,16:3,Work From Home,Morning,Remote
+E1051,Employee_51,Sales,2024-01-16,10:42,20:0,Late,Evening,Office
+E1019,Employee_19,Sales,01-29-2024,9:35,19:47,Work From Home,Evening,Remote
+E1007,Employee_7,Finance  ,02-25-2024,10:27,17:18,Late,Morning,Office
+E1006,Employee_6,Finance,28/02/2024,9:53,19:17,Late,Morning,Office
+E1016,Employee_16,HR,2024-03-13,11:24,17:51,Present,Evening,Office
+E1037,Employee_37,IT,02-13-2024,,,Absent,Morning,Remote
+E1003,Employee_3,Operations,2024-03-16,9:57,17:16,work from home,Morning,Remote
+E1028,Employee_28,Finance,02-08-2024,8:48,19:56,Present,Morning,Remote
+E1038,Employee_38,Sales,03-06-2024,,,Absent,Evening,Remote
+E1010,Employee_10,HR,2024-02-22,9:32,20:24,Present,Evening,Office
+E1036,Employee_36,Finance,01-20-2024,,,Absent,Evening,Remote
+E1032,Employee_32,HR,2024-02-21,11:37,19:30,Late,Evening,Office
+E1049,Employee_49,Finance,2024-01-21,8:33,19:6,Late,Morning,Remote
+E1020,Employee_20,Finance,12/01/2024,9:29,18:11,Late,Morning,Remote
+E1031,Employee_31,Sales,2024-03-21,8:14,18:23,Late,Evening,Remote
+E1036,Employee_36,Sales,05/01/2024,11:29,19:41,late,Evening,Remote
+E1012,Employee_12,Operations,25/01/2024,,,Absent,Morning,Office
+E1023,Employee_23,Finance,03-15-2024,,,Absent,Evening,Remote
+E1026,Employee_26,Sales,2024-03-08,9:34,17:17,Present,Evening,Remote
+E1058,Employee_58,HR,02-18-2024,9:46,18:13,Late,Morning,Remote
+E1010,Employee_10,Finance,02-15-2024,10:41,17:24,Present,Evening,Remote
+E1003,Employee_3,Finance,04/01/2024,11:44,20:40,Late,Evening,Remote
+E1006,Employee_6,IT  ,02-14-2024,9:34,16:16,Present,Evening,Office
+E1001,Employee_1,Finance,01-15-2024,10:53,16:54,Work From Home,Morning,Office
+E1040,Employee_40,Operations,01-10-2024,9:2,19:17,Late,Evening,Office
+E1006,Employee_6,Sales,2024-03-09,10:45,18:4,Late,Evening,Office
+E1015,Employee_15,Operations  ,01-19-2024,,,Absent,Evening,Office
+E1007,Employee_7,HR,2024-01-08,9:23,18:31,Late,Evening,Remote
+E1052,Employee_52,Finance,2024-01-12,9:59,16:44,Present,Evening,Office
+E1054,Employee_54,Sales,26/02/2024,9:51,19:2,Late,Evening,Office
+E1051,Employee_51,IT,05/03/2024,9:31,17:0,Work From Home,Evening,Remote
+E1032,Employee_32,Sales,02-13-2024,10:0,16:16,Late,Evening,Remote
+E1001,Employee_1,Finance,17/01/2024,8:17,19:31,Work From Home,Morning,Remote
+E1021,Employee_21,IT,15/03/2024,10:57,20:49,Late,Evening,Office
+E1033,Employee_33,Operations,01-31-2024,,,Absent,Morning,Office
+E1011,Employee_11,Operations,30/03/2024,10:6,16:35,Work From Home,Morning,Remote
+E1031,Employee_31,HR  ,02-17-2024,10:55,19:22,Work From Home,Morning,Remote
+E1021,Employee_21,HR,03-18-2024,11:11,16:33,late,Evening,Office
+E1031,Employee_31,Operations,02/03/2024,9:9,20:0,Present,Morning,Office
+E1037,Employee_37,IT,2024-01-15,9:48,20:39,Present,Evening,Remote
+E1058,Employee_58,IT,03-19-2024,10:25,16:7,Work From Home,Morning,Remote
+E1016,Employee_16,IT,03-16-2024,8:7,17:13,Late,Morning,Office
+E1047,Employee_47,IT,2024-02-26,,,Absent,Evening,Office
+E1054,Employee_54,Finance,01-03-2024,11:34,20:32,Late,Morning,Office
+E1023,Employee_23,Sales,03-19-2024,9:46,16:24,Work From Home,Evening,Office
+E1021,Employee_21,Finance,2024-03-21,11:17,18:11,Work From Home,Evening,Office
+E1001,Employee_1,Operations,13/01/2024,,,Absent,Morning,Office
+E1038,Employee_38,Sales,03-02-2024,,,,Evening,Remote
+E1019,Employee_19,Finance,2024-03-19,,,Absent,Evening,Office
+E1000,Employee_0,IT,16/02/2024,11:35,16:51,Present,Evening,Office
+E1051,Employee_51,HR,2024-02-13,,,Absent,Morning,Remote
+E1000,Employee_0,Sales,2024-03-24,,,Absent,Morning,Remote
+E1041,Employee_41,Sales,2024-01-09,9:19,17:21,Work From Home,Morning,Remote
+E1007,Employee_7,Operations,2024-01-01,,,Absent,Evening,Remote
+E1011,Employee_11,HR,28/01/2024,8:15,17:17,Present,Evening,Remote
+E1034,Employee_34,Operations,02-28-2024,9:41,16:55,Present,Morning,Office
+E1015,Employee_15,IT,2024-03-11,9:33,20:23,Late,Morning,Office
+E1016,Employee_16,HR,09/02/2024,11:53,18:35,Late,Morning,Office
+E1041,Employee_41,Operations,02-08-2024,10:45,18:40,Late,Morning,Office
+E1007,Employee_7,Finance,03-01-2024,10:28,16:0,Late,Morning,Remote
+E1045,Employee_45,IT  ,01-14-2024,,,Absent,Evening,Office
+E1004,Employee_4,Finance,10/02/2024,8:23,18:25,Work From Home,Morning,Remote
+E1015,Employee_15,Sales,2024-02-13,,,Absent,Morning,Office
+E1059,Employee_59,Finance,02/02/2024,,,Absent,Morning,Office
+E1024,Employee_24,Operations,01-25-2024,8:0,20:32,Late,Evening,Office
+E1016,Employee_16,Sales,13/03/2024,8:3,16:41,Present,Morning,Office
+E1015,Employee_15,Operations,02-11-2024,10:59,16:32,Late,Morning,Office
+E1046,Employee_46,IT,16/02/2024,10:8,18:21,Late,Evening,Remote
+E1044,Employee_44,Finance,03-12-2024,8:21,16:2,Present,Morning,Remote
+E1057,Employee_57,IT,13/03/2024,11:35,18:47,present,Morning,Remote
+E1028,Employee_28,HR,06/02/2024,8:30,16:9,Late,Morning,Office
+E1016,Employee_16,IT,01-25-2024,,,Absent,Morning,Remote
+E1038,Employee_38,Operations,2024-03-24,10:7,19:8,Present,Morning,Remote
+E1007,Employee_7,Sales,08/01/2024,11:19,20:23,Present,Morning,Remote
+E1018,Employee_18,Finance,2024-03-15,11:16,20:44,Work From Home,Evening,Remote
+E1046,Employee_46,IT,01-15-2024,11:29,18:13,Work From Home,Evening,Remote
+E1033,Employee_33,IT,02/03/2024,9:22,19:38,Late,Morning,Remote
+E1018,Employee_18,Finance,27/03/2024,9:25,16:23,Late,Evening,Office
+E1037,Employee_37,Sales,2024-03-09,10:15,17:25,Work From Home,Morning,Office
+E1055,Employee_55,HR,01-15-2024,,,Absent,Morning,Remote
+E1019,Employee_19,HR,2024-02-13,9:53,18:39,Late,Morning,Office
+E1008,Employee_8,Sales,2024-01-07,9:48,18:5,Late,Morning,Remote
+E1046,Employee_46,Sales,02-21-2024,8:44,17:17,Present,Morning,Office
+E1039,Employee_39,Finance  ,09/01/2024,9:43,20:20,Late,Morning,Office
+E1019,Employee_19,Sales,04/01/2024,11:16,19:20,Work From Home,Evening,Remote
+E1029,Employee_29,HR,2024-02-14,9:2,17:19,Work From Home,Evening,Remote
+E1030,Employee_30,Sales,03/02/2024,9:37,16:35,Present,Evening,Remote
+E1002,Employee_2,Sales,03-16-2024,9:52,16:49,Work From Home,Morning,Office
+E1035,Employee_35,Operations,16/02/2024,11:42,16:15,Present,Morning,Office
+E1033,Employee_33,Operations,06/01/2024,10:47,16:47,Late,Evening,Office
+E1024,Employee_24,Finance,02-24-2024,,,Absent,Morning,Office
+E1058,Employee_58,IT  ,01-02-2024,9:18,18:12,Late,Morning,Remote
+E1019,Employee_19,IT,18/03/2024,9:28,16:57,Present,Evening,Remote
+E1021,Employee_21,Operations,01-11-2024,9:3,16:26,Late,Evening,Office
+E1049,Employee_49,Operations,2024-01-28,9:14,18:27,Present,Evening,Remote
+E1059,Employee_59,HR,20/03/2024,10:56,18:31,late,Evening,Remote
+E1033,Employee_33,HR,2024-01-07,11:22,17:4,Present,Evening,Office
+E1051,Employee_51,Operations,02-25-2024,,,,Evening,Remote
+E1042,Employee_42,IT,03-29-2024,11:24,17:18,Work From Home,Evening,Remote
+E1053,Employee_53,Operations,2024-01-09,9:57,17:55,Late,Evening,Remote
+E1028,Employee_28,HR,03-29-2024,,,Absent,Evening,Office
+E1036,Employee_36,Sales,2024-01-28,8:58,17:23,Present,Morning,Office
+E1044,Employee_44,IT,27/03/2024,9:11,18:50,Late,Morning,Office
+E1027,Employee_27,Finance,01-03-2024,10:44,19:25,Late,Morning,Office
+E1043,Employee_43,Operations,12/01/2024,11:33,18:54,present,Morning,Office
+E1003,Employee_3,Sales,25/03/2024,9:27,17:27,Work From Home,Evening,Office
+E1009,Employee_9,Sales,2024-03-09,,,Absent,Evening,Remote
+E1000,Employee_0,HR,02-04-2024,11:8,17:19,Late,Evening,Remote
+E1035,Employee_35,Finance,2024-01-23,10:28,17:0,Work From Home,Evening,Remote
+E1021,Employee_21,HR,02-04-2024,,,Absent,Morning,Office
+E1035,Employee_35,Operations,2024-02-20,9:55,20:58,Late,Evening,Office
+E1036,Employee_36,Sales,01/01/2024,8:34,17:16,Late,Morning,Office
+E1047,Employee_47,Finance  ,2024-01-29,9:52,20:49,Work From Home,Evening,Office
+E1009,Employee_9,HR,2024-03-17,8:31,17:48,Work From Home,Evening,Office
+E1040,Employee_40,Sales,01-07-2024,11:28,20:20,Work From Home,Morning,Office
+E1038,Employee_38,Finance,03/01/2024,,,Absent,Evening,Office
+E1003,Employee_3,Operations,02-14-2024,,,Absent,Morning,Remote
+E1004,Employee_4,Finance,2024-02-15,11:57,16:59,Late,Evening,Remote
+E1000,Employee_0,Sales,2024-03-10,8:58,20:14,Present,Morning,Remote
+E1037,Employee_37,IT,2024-01-16,9:35,20:56,Late,Evening,Remote
+E1059,Employee_59,Sales,29/02/2024,,,Absent,Evening,Office
+E1037,Employee_37,IT,15/02/2024,8:42,17:6,Late,Morning,Remote
+E1044,Employee_44,Finance,01-28-2024,11:40,19:46,Late,Morning,Office
+E1032,Employee_32,HR,25/02/2024,11:39,16:26,Work From Home,Evening,Remote
+E1032,Employee_32,IT,01-07-2024,10:41,17:8,Work From Home,Evening,Remote
+E1048,Employee_48,Sales,2024-02-09,,,Absent,Morning,Office
+E1001,Employee_1,Operations,03-17-2024,,,Absent,Morning,Remote
+E1003,Employee_3,HR  ,2024-02-04,9:47,17:40,Present,Evening,Remote
+E1050,Employee_50,IT,29/03/2024,8:8,17:41,Work From Home,Evening,Office
+E1043,Employee_43,HR,01-01-2024,11:29,18:18,Late,Evening,Remote
+E1008,Employee_8,HR,02-03-2024,11:51,18:46,Present,Evening,Office
+E1057,Employee_57,Finance,03-22-2024,8:10,16:59,Present,Evening,Remote
+E1055,Employee_55,Operations,02-18-2024,11:8,20:53,Work From Home,Evening,Remote
+E1052,Employee_52,Finance,2024-02-16,8:19,20:16,Present,Morning,Office
+E1002,Employee_2,Sales,2024-03-12,,,Absent,Evening,Remote
+E1021,Employee_21,HR,22/02/2024,8:29,16:46,Work From Home,Morning,Remote
+E1013,Employee_13,Sales,03-20-2024,,,Absent,Evening,Office
+E1012,Employee_12,HR,03-22-2024,9:32,16:46,Late,Evening,Remote
+E1018,Employee_18,IT,02-16-2024,10:41,19:7,Present,Morning,Office
+E1054,Employee_54,Operations,03-05-2024,8:25,20:3,Late,Evening,Office
+E1010,Employee_10,Operations,2024-01-28,,,Absent,Morning,Office
+E1029,Employee_29,Finance  ,2024-01-16,11:46,16:45,Work From Home,Evening,Remote
+E1025,Employee_25,HR,2024-01-06,9:27,20:43,Work From Home,Evening,Office
+E1034,Employee_34,Operations,2024-03-04,8:9,20:26,Work From Home,Evening,Office
+E1021,Employee_21,IT,04/03/2024,10:32,18:4,Present,Morning,Remote
+E1048,Employee_48,Finance  ,03-09-2024,8:37,18:28,Work From Home,Evening,Remote
+E1007,Employee_7,HR,01-27-2024,8:49,17:58,Work From Home,Morning,Office
+E1021,Employee_21,HR,02-19-2024,11:17,16:14,Late,Evening,Office
+E1036,Employee_36,Operations,22/01/2024,11:7,18:24,Late,Morning,Remote
+E1019,Employee_19,Sales,02-17-2024,8:51,18:40,Late,Evening,Office
+E1034,Employee_34,IT,17/01/2024,11:35,20:6,present,Evening,Remote
+E1051,Employee_51,Finance,2024-01-24,,,Absent,Evening,Office
+E1026,Employee_26,IT,02-07-2024,9:47,16:48,Work From Home,Morning,Office
+E1021,Employee_21,Finance,03-15-2024,11:45,16:58,Work From Home,Evening,Remote
+E1058,Employee_58,Operations,03-13-2024,9:43,17:11,Late,Morning,Remote
+E1002,Employee_2,Finance,02-13-2024,11:46,16:18,Late,Evening,Office
+E1047,Employee_47,Operations  ,28/02/2024,11:10,17:13,Present,Evening,Office
+E1029,Employee_29,HR,20/03/2024,10:10,20:22,Present,Evening,Office
+E1017,Employee_17,Operations  ,27/02/2024,,,Absent,Morning,Remote
+E1039,Employee_39,Finance,01-13-2024,10:51,16:26,Work From Home,Morning,Remote
+E1041,Employee_41,IT,2024-01-09,8:24,16:24,Work From Home,Evening,Remote
+E1014,Employee_14,IT  ,03-18-2024,,,Absent,Morning,Remote
+E1049,Employee_49,HR,01-28-2024,11:22,18:45,Work From Home,Evening,Office
+E1033,Employee_33,Finance,01-29-2024,9:57,20:51,Work From Home,Morning,Office
+E1040,Employee_40,IT,18/02/2024,11:40,19:48,Late,Morning,Office
+E1037,Employee_37,Finance,03-01-2024,,,Absent,Morning,Remote
+E1044,Employee_44,Operations,08/01/2024,11:12,19:48,Work From Home,Evening,Office
+E1020,Employee_20,Finance,06/02/2024,8:59,18:22,Work From Home,Morning,Remote
+E1055,Employee_55,IT,2024-03-27,,,Absent,Morning,Remote
+E1041,Employee_41,IT,2024-02-29,9:33,17:58,present,Evening,Remote
+E1002,Employee_2,Sales,2024-03-25,9:5,18:54,Late,Evening,Remote
+E1001,Employee_1,HR,02-13-2024,10:52,20:22,Work From Home,Morning,Remote
+E1050,Employee_50,IT,05/02/2024,8:51,17:3,,Morning,Office
+E1044,Employee_44,Sales,01-29-2024,9:40,19:10,Work From Home,Evening,Remote
+E1000,Employee_0,Sales,01-24-2024,,,Absent,Evening,Remote
+E1048,Employee_48,HR,03-28-2024,11:4,16:9,Late,Morning,Remote
+E1026,Employee_26,Sales,01-28-2024,8:50,19:4,Present,Evening,Office
+E1005,Employee_5,Finance,2024-02-03,10:29,20:15,Work From Home,Evening,Office
+E1053,Employee_53,Operations,01-15-2024,11:27,20:35,Work From Home,Evening,Remote
+E1042,Employee_42,Finance,02-23-2024,8:23,16:26,,Morning,Office
+E1058,Employee_58,HR,2024-01-14,,,Absent,Morning,Remote
+E1026,Employee_26,Finance,2024-03-19,9:8,20:47,Present,Morning,Remote
+E1021,Employee_21,Operations,13/01/2024,,,Absent,Evening,Remote
+E1004,Employee_4,Sales,2024-03-06,8:38,17:33,Work From Home,Morning,Remote
+E1050,Employee_50,HR,05/03/2024,8:10,20:55,late,Evening,Remote
+E1027,Employee_27,Sales,08/02/2024,11:35,17:38,Late,Morning,Remote
+E1041,Employee_41,Sales,02-19-2024,11:1,16:52,Work From Home,Evening,Office
+E1059,Employee_59,Finance,18/01/2024,8:32,19:18,late,Evening,Remote
+E1054,Employee_54,Finance,01-06-2024,8:53,20:15,Work From Home,Morning,Office
+E1056,Employee_56,HR,25/03/2024,9:53,18:43,Present,Morning,Office
+E1048,Employee_48,IT,2024-03-15,9:23,17:36,Work From Home,Evening,Remote
+E1024,Employee_24,Sales,2024-01-14,8:34,16:16,Late,Evening,Office
+E1049,Employee_49,Sales,2024-03-25,10:10,19:43,Late,Morning,Remote
+E1019,Employee_19,Sales,02-28-2024,,,Absent,Morning,Remote
+E1014,Employee_14,IT,03-07-2024,9:42,20:2,Work From Home,Evening,Remote
+E1038,Employee_38,Finance,2024-01-20,,,Absent,Morning,Remote
+E1011,Employee_11,Sales,01-03-2024,11:27,16:51,Late,Morning,Remote
+E1023,Employee_23,Finance,02-06-2024,8:52,20:58,Late,Morning,Remote
+E1037,Employee_37,Sales,04/02/2024,,,Absent,Morning,Office
+E1009,Employee_9,HR,02-02-2024,,,Absent,Morning,Remote
+E1025,Employee_25,Finance,25/02/2024,10:12,19:40,Present,Evening,Remote
+E1003,Employee_3,Operations,24/01/2024,9:35,18:54,Late,Morning,Office
+E1032,Employee_32,Finance,16/02/2024,,,Absent,Evening,Remote
+E1035,Employee_35,Finance,21/03/2024,8:44,18:37,Late,Evening,Remote
+E1045,Employee_45,HR,02-11-2024,11:25,17:23,Present,Evening,Office
+E1045,Employee_45,HR,20/01/2024,,,Absent,Morning,Office
+E1004,Employee_4,Sales  ,2024-03-17,8:28,20:58,Late,Evening,Office
+E1019,Employee_19,Sales,02-13-2024,10:12,16:29,Present,Evening,Office
+E1011,Employee_11,Finance,2024-02-05,,,Absent,Morning,Remote
+E1013,Employee_13,Operations,02-23-2024,10:12,18:16,Late,Morning,Remote
+E1035,Employee_35,Operations,19/01/2024,,,Absent,Morning,Office
+E1034,Employee_34,HR,25/02/2024,,,,Morning,Remote
+E1035,Employee_35,Operations,03-21-2024,,,Absent,Morning,Office
+E1043,Employee_43,IT,14/01/2024,10:48,17:28,Present,Morning,Remote
+E1052,Employee_52,Operations,2024-02-08,8:12,17:3,Present,Evening,Office
+E1004,Employee_4,HR,02-02-2024,,,Absent,Morning,Remote
+E1025,Employee_25,HR,23/03/2024,10:8,18:13,Present,Evening,Remote
+E1005,Employee_5,HR,25/02/2024,,,Absent,Morning,Office
+E1044,Employee_44,HR,01-20-2024,,,,Evening,Office
+E1052,Employee_52,HR,16/02/2024,11:13,17:16,Present,Evening,Office
+E1017,Employee_17,IT,2024-02-28,10:28,20:4,Late,Evening,Remote
+E1048,Employee_48,Sales,26/02/2024,10:34,17:0,Late,Morning,Office
+E1044,Employee_44,Sales,01-20-2024,8:16,16:18,Work From Home,Morning,Remote
+E1053,Employee_53,Sales,02-12-2024,10:27,19:47,,Morning,Remote
+E1031,Employee_31,Operations,03-24-2024,11:10,19:31,Late,Evening,Remote
+E1006,Employee_6,HR,2024-03-03,9:9,18:41,,Morning,Remote
+E1017,Employee_17,Finance,02-25-2024,10:26,17:42,Present,Morning,Office
+E1039,Employee_39,Sales,01-25-2024,8:3,17:43,Present,Evening,Office
+E1040,Employee_40,Operations,02-21-2024,11:14,19:45,Late,Evening,Office
+E1040,Employee_40,Sales,2024-03-02,10:37,17:0,Work From Home,Morning,Remote
+E1043,Employee_43,Operations,01-15-2024,8:2,16:32,Late,Morning,Office
+E1035,Employee_35,Finance,03-11-2024,11:11,18:42,Late,Morning,Remote
+E1021,Employee_21,HR,02-25-2024,8:23,19:15,Present,Morning,Office
+E1056,Employee_56,Operations,2024-02-21,9:0,20:57,Late,Evening,Remote
+E1024,Employee_24,Operations,13/03/2024,10:39,20:42,Present,Morning,Remote
+E1006,Employee_6,Sales,03-26-2024,8:20,16:51,Work From Home,Morning,Remote
+E1009,Employee_9,IT,01-24-2024,9:21,18:55,Work From Home,Evening,Remote
+E1037,Employee_37,Operations,03-11-2024,,,Absent,Evening,Office
+E1030,Employee_30,Sales,02/03/2024,8:3,19:40,Late,Evening,Office
+E1017,Employee_17,Sales,2024-01-24,11:24,20:49,Present,Morning,Office
+E1053,Employee_53,Operations,2024-03-28,8:52,20:0,Late,Morning,Remote
+E1018,Employee_18,Operations,09/01/2024,11:3,20:32,Late,Evening,Remote
+E1015,Employee_15,Operations,2024-02-19,11:26,17:26,Work From Home,Evening,Office
+E1057,Employee_57,IT,21/03/2024,8:55,19:40,work from home,Morning,Office
+E1052,Employee_52,Operations,02-12-2024,,,Absent,Morning,Office
+E1033,Employee_33,Finance,12/02/2024,9:53,19:8,Work From Home,Evening,Office
+E1038,Employee_38,Sales,03/03/2024,9:12,20:54,Late,Evening,Remote
+E1010,Employee_10,IT,02-06-2024,11:28,19:27,Late,Morning,Remote
+E1012,Employee_12,Finance,01-27-2024,8:7,17:20,Present,Morning,Remote
+E1027,Employee_27,IT,2024-02-11,10:13,18:23,Present,Morning,Remote
+E1032,Employee_32,Operations,2024-02-04,,,Absent,Morning,Office
+E1052,Employee_52,HR,16/02/2024,10:0,19:11,Present,Morning,Office
+E1032,Employee_32,Sales,2024-01-22,9:19,19:58,Work From Home,Evening,Remote
+E1030,Employee_30,HR,01-17-2024,10:28,19:41,Work From Home,Morning,Remote
+E1058,Employee_58,HR,05/02/2024,10:58,19:32,Late,Morning,Office
+E1050,Employee_50,IT,2024-02-21,10:2,16:55,Work From Home,Evening,Office
+E1024,Employee_24,Operations,03-24-2024,8:52,16:14,Late,Morning,Office
+E1046,Employee_46,Sales,03-03-2024,8:51,20:23,Work From Home,Morning,Office
+E1025,Employee_25,Finance,2024-02-21,,,absent,Morning,Remote
+E1049,Employee_49,Operations,11/02/2024,10:36,20:28,Work From Home,Evening,Office
+E1025,Employee_25,Finance,2024-01-01,,,Absent,Morning,Office
+E1016,Employee_16,Finance,2024-03-13,10:36,20:49,Late,Evening,Office
+E1014,Employee_14,IT,2024-03-22,9:3,16:31,Late,Evening,Office
+E1032,Employee_32,HR,10/01/2024,11:5,16:1,Late,Morning,Office
+E1041,Employee_41,Sales,02-09-2024,8:29,20:49,Late,Evening,Remote
+E1053,Employee_53,IT,2024-03-01,11:44,17:59,,Evening,Remote
+E1054,Employee_54,Operations,02-18-2024,9:23,20:24,Late,Evening,Office
+E1047,Employee_47,Sales,30/03/2024,9:30,20:10,Present,Morning,Remote
+E1001,Employee_1,Sales,01-30-2024,8:30,18:0,Late,Evening,Office
+E1043,Employee_43,HR,21/02/2024,11:24,18:5,Present,Evening,Remote
+E1003,Employee_3,HR,26/02/2024,8:30,18:53,Work From Home,Evening,Office
+E1054,Employee_54,IT,14/01/2024,9:45,20:0,Present,Morning,Remote
+E1015,Employee_15,IT,01-31-2024,11:34,20:41,Work From Home,Morning,Remote
+E1031,Employee_31,HR,2024-01-06,,,Absent,Morning,Office
+E1002,Employee_2,Operations,2024-03-06,11:29,20:58,present,Morning,Remote
+E1002,Employee_2,Finance,15/01/2024,,,Absent,Evening,Office
+E1049,Employee_49,HR,24/03/2024,8:18,18:12,Late,Evening,Remote
+E1042,Employee_42,Operations,27/01/2024,9:49,18:34,Late,Morning,Office
+E1052,Employee_52,Finance,2024-01-05,10:12,16:47,Work From Home,Morning,Office
+E1012,Employee_12,Sales,2024-03-24,10:13,17:57,Present,Evening,Remote
+E1054,Employee_54,IT,2024-01-03,,,Absent,Morning,Remote
+E1019,Employee_19,IT,27/03/2024,11:17,18:19,Late,Morning,Office
+E1009,Employee_9,Sales,2024-01-09,10:2,17:35,Present,Evening,Remote
+E1058,Employee_58,Finance,21/03/2024,,,Absent,Morning,Remote
+E1012,Employee_12,Finance,02-08-2024,10:37,16:25,Late,Evening,Office
+E1020,Employee_20,HR,2024-03-10,8:42,20:59,Late,Evening,Office
+E1037,Employee_37,IT,27/01/2024,10:58,20:37,Present,Morning,Remote
+E1009,Employee_9,Sales,03-08-2024,,,Absent,Evening,Office
+E1003,Employee_3,IT,21/01/2024,8:49,16:31,Work From Home,Morning,Remote
+E1012,Employee_12,Finance,02-19-2024,8:41,18:44,Late,Morning,Office
+E1024,Employee_24,Finance,2024-01-24,11:35,20:35,Late,Morning,Office
+E1056,Employee_56,Operations,03-25-2024,,,Absent,Morning,Remote
+E1017,Employee_17,HR,2024-03-18,,,Absent,Evening,Office
+E1008,Employee_8,Sales,03-06-2024,9:18,17:59,Work From Home,Evening,Office
+E1025,Employee_25,Operations,31/01/2024,,,Absent,Evening,Remote
+E1053,Employee_53,HR,02-16-2024,8:52,16:22,Late,Morning,Remote
+E1034,Employee_34,HR,02-24-2024,9:58,20:52,Late,Evening,Office
+E1020,Employee_20,Sales,01-25-2024,10:32,17:50,Present,Evening,Office
+E1021,Employee_21,HR,31/01/2024,9:3,20:10,Late,Morning,Remote
+E1039,Employee_39,Sales,2024-03-20,10:29,18:58,Present,Morning,Office
+E1011,Employee_11,HR,17/01/2024,,,Absent,Evening,Remote
+E1045,Employee_45,HR,02-11-2024,11:42,17:37,Present,Evening,Remote
+E1059,Employee_59,IT,01-28-2024,8:36,20:37,Work From Home,Evening,Remote
+E1036,Employee_36,HR,02/02/2024,10:1,16:39,late,Morning,Office
+E1037,Employee_37,Finance,01-23-2024,,,Absent,Evening,Office
+E1034,Employee_34,HR,2024-03-27,8:42,19:54,,Morning,Remote
+E1048,Employee_48,Operations,02-01-2024,9:17,18:28,Late,Evening,Remote
+E1031,Employee_31,Finance,2024-03-29,10:54,19:10,Work From Home,Evening,Office
+E1050,Employee_50,IT,01-25-2024,10:55,20:54,Late,Morning,Remote
+E1022,Employee_22,Finance,21/02/2024,8:10,19:21,Present,Evening,Remote
+E1037,Employee_37,HR,03-25-2024,9:37,18:59,Work From Home,Morning,Remote
+E1006,Employee_6,Finance,03-03-2024,11:57,19:47,Work From Home,Evening,Office
+E1057,Employee_57,IT,2024-03-27,11:6,20:32,present,Morning,Office
+E1027,Employee_27,Finance,02-20-2024,9:59,19:44,Late,Morning,Remote
+E1002,Employee_2,HR,2024-01-09,9:23,20:33,Work From Home,Morning,Office
+E1053,Employee_53,Sales,2024-01-16,11:35,18:11,Present,Morning,Office
+E1010,Employee_10,Finance,06/01/2024,10:52,16:48,Present,Morning,Remote
+E1002,Employee_2,Operations,2024-01-19,8:20,17:20,Work From Home,Evening,Office
+E1052,Employee_52,IT,2024-02-12,10:22,16:41,Present,Evening,Remote
+E1035,Employee_35,HR  ,19/01/2024,9:23,18:31,Work From Home,Evening,Office
+E1052,Employee_52,Sales,2024-02-12,9:56,20:0,Late,Morning,Office
+E1016,Employee_16,IT,23/01/2024,10:28,16:36,Work From Home,Morning,Remote
+E1057,Employee_57,IT,2024-03-05,11:4,18:31,Late,Evening,Office
+E1059,Employee_59,IT,21/02/2024,11:34,20:52,Present,Morning,Remote
+E1030,Employee_30,IT,03-06-2024,9:29,16:41,Present,Evening,Remote
+E1009,Employee_9,Sales,2024-01-14,,,Absent,Evening,Remote
+E1026,Employee_26,HR,01-04-2024,11:39,20:21,Work From Home,Morning,Remote
+E1010,Employee_10,Sales,24/02/2024,10:37,16:42,Present,Morning,Office
+E1045,Employee_45,Operations,03-06-2024,,,Absent,Morning,Office
+E1030,Employee_30,Finance,2024-01-06,9:37,18:25,Work From Home,Evening,Office
+E1025,Employee_25,Operations,03-22-2024,,,Absent,Morning,Office
+E1016,Employee_16,IT,01/02/2024,10:43,20:35,Late,Evening,Office
+E1002,Employee_2,Finance,03-06-2024,,,absent,Evening,Remote
+E1017,Employee_17,Operations,06/03/2024,8:53,16:34,Present,Evening,Remote
+E1046,Employee_46,Operations,2024-03-02,11:0,17:46,Work From Home,Evening,Office
+E1006,Employee_6,IT,03-18-2024,10:44,16:2,Present,Evening,Remote
+E1036,Employee_36,Operations,2024-02-01,10:45,19:27,Late,Morning,Remote
+E1022,Employee_22,Sales,20/03/2024,10:47,17:23,Late,Morning,Office
+E1022,Employee_22,Operations,02-05-2024,10:56,20:38,Present,Evening,Remote
+E1021,Employee_21,IT,2024-01-29,,,Absent,Morning,Remote
+E1020,Employee_20,Finance  ,2024-03-06,9:53,16:6,Present,Evening,Remote
+E1031,Employee_31,IT,26/02/2024,,,Absent,Morning,Remote
+E1041,Employee_41,Sales  ,03-15-2024,8:44,16:17,Present,Morning,Remote
+E1054,Employee_54,Operations,03-27-2024,8:42,16:0,Late,Morning,Office
+E1049,Employee_49,Operations,04/01/2024,9:21,17:30,Late,Morning,Remote
+E1013,Employee_13,HR  ,2024-02-12,,,Absent,Morning,Remote
+E1002,Employee_2,Sales,15/01/2024,9:11,17:25,Work From Home,Morning,Office
+E1027,Employee_27,HR,21/01/2024,10:25,17:40,Late,Evening,Office
+E1027,Employee_27,HR  ,2024-02-11,9:10,20:27,Work From Home,Morning,Remote
+E1055,Employee_55,IT,2024-02-22,9:30,19:29,Work From Home,Morning,Office
+E1019,Employee_19,HR,03-19-2024,9:2,20:50,Late,Evening,Office
+E1019,Employee_19,HR,02-22-2024,9:33,18:1,Present,Morning,Office
+E1007,Employee_7,IT,02-12-2024,8:44,17:34,Late,Morning,Remote
+E1006,Employee_6,Finance,18/02/2024,8:21,16:52,Work From Home,Morning,Office
+E1033,Employee_33,IT,08/01/2024,,,Absent,Morning,Office
+E1014,Employee_14,IT,03/03/2024,8:39,17:19,Work From Home,Evening,Remote
+E1054,Employee_54,IT,2024-01-20,8:1,17:14,Late,Evening,Remote
+E1032,Employee_32,Operations,10/03/2024,9:25,19:56,Late,Evening,Office
+E1049,Employee_49,Sales,31/01/2024,9:7,18:12,Work From Home,Evening,Remote
+E1015,Employee_15,IT,25/02/2024,11:12,20:59,Work From Home,Morning,Remote
+E1050,Employee_50,Sales,2024-02-29,8:52,20:9,Late,Morning,Office
+E1001,Employee_1,IT,2024-01-21,8:44,20:57,Late,Morning,Remote
+E1004,Employee_4,Sales,03/03/2024,11:8,16:43,Work From Home,Evening,Remote
+E1052,Employee_52,Sales,01-01-2024,11:10,18:59,Work From Home,Morning,Remote
+E1035,Employee_35,Operations,2024-02-28,11:15,20:20,Late,Morning,Remote
+E1007,Employee_7,HR,2024-01-02,9:48,16:47,present,Morning,Remote
+E1036,Employee_36,Sales,01-03-2024,8:18,20:16,Work From Home,Evening,Remote
+E1000,Employee_0,IT,03-28-2024,,,Absent,Evening,Remote
+E1050,Employee_50,HR  ,01-21-2024,9:26,19:54,present,Evening,Remote
+E1015,Employee_15,Sales,03-21-2024,8:32,17:16,Present,Morning,Office
+E1024,Employee_24,IT,2024-03-23,8:3,19:26,Late,Evening,Remote
+E1048,Employee_48,HR,01-22-2024,,,Absent,Morning,Office
+E1032,Employee_32,Operations,09/02/2024,9:49,20:57,Late,Evening,Remote
+E1044,Employee_44,Finance,02-13-2024,,,Absent,Morning,Remote
+E1022,Employee_22,Operations,09/03/2024,9:29,16:24,Late,Morning,Remote
+E1020,Employee_20,HR,01-24-2024,11:16,18:20,Late,Evening,Office
+E1025,Employee_25,HR,2024-03-05,8:8,18:16,Present,Morning,Office
+E1034,Employee_34,Sales,02/03/2024,11:14,17:4,Late,Evening,Remote
+E1036,Employee_36,Finance,09/01/2024,10:24,18:7,Present,Evening,Office
+E1051,Employee_51,Operations,2024-03-08,,,Absent,Morning,Remote
+E1024,Employee_24,Finance  ,01/02/2024,8:57,16:48,Late,Evening,Office
+E1022,Employee_22,Operations,03-20-2024,10:34,17:47,Present,Morning,Remote
+E1036,Employee_36,Operations  ,01-23-2024,11:54,19:42,Late,Evening,Office
+E1044,Employee_44,Finance,2024-01-17,11:48,19:48,Late,Evening,Office
+E1050,Employee_50,IT,21/02/2024,11:2,19:4,Present,Morning,Office
+E1056,Employee_56,IT,01-09-2024,9:49,17:14,Present,Evening,Office
+E1047,Employee_47,HR,03-01-2024,,,Absent,Morning,Remote
+E1044,Employee_44,Operations,2024-02-26,9:43,20:56,Work From Home,Evening,Remote
+E1018,Employee_18,Finance,2024-03-09,9:45,17:3,Present,Evening,Remote
+E1026,Employee_26,Sales,2024-03-14,,,Absent,Evening,Office
+E1017,Employee_17,Sales,09/03/2024,10:25,18:45,Work From Home,Morning,Office
+E1046,Employee_46,HR,21/01/2024,8:3,20:1,Late,Morning,Office
+E1035,Employee_35,Operations,01/01/2024,,,Absent,Morning,Remote
+E1029,Employee_29,HR,20/01/2024,9:15,19:6,Late,Morning,Office
+E1035,Employee_35,Sales,2024-02-23,10:29,16:36,Work From Home,Evening,Office
+E1023,Employee_23,IT,19/03/2024,,,,Morning,Remote
+E1050,Employee_50,Operations,20/03/2024,8:54,19:51,Present,Morning,Office
+E1026,Employee_26,HR,2024-02-28,11:13,19:53,Work From Home,Morning,Office
+E1005,Employee_5,Finance,01-11-2024,10:58,20:37,Late,Evening,Office
+E1052,Employee_52,Sales,2024-01-27,11:48,17:44,Late,Morning,Remote
+E1019,Employee_19,HR,11/01/2024,8:29,20:14,late,Morning,Office
+E1039,Employee_39,Operations,02-10-2024,,,Absent,Morning,Office
+E1019,Employee_19,Sales,2024-03-25,8:14,18:58,,Evening,Office
+E1011,Employee_11,Sales,2024-02-26,9:38,17:44,Work From Home,Evening,Remote
+E1031,Employee_31,Operations,09/03/2024,,,Absent,Morning,Remote
+E1025,Employee_25,Operations,2024-02-24,8:27,17:59,,Evening,Office
+E1040,Employee_40,Finance,2024-01-25,9:45,18:22,Late,Evening,Office
+E1024,Employee_24,IT,02-27-2024,10:18,16:52,Work From Home,Evening,Office
+E1045,Employee_45,Operations,2024-03-26,8:2,17:21,Work From Home,Morning,Remote
+E1004,Employee_4,Finance,09/03/2024,10:11,16:12,Present,Morning,Office
+E1037,Employee_37,HR,03-07-2024,10:52,20:8,Late,Evening,Remote
+E1015,Employee_15,HR,02-29-2024,9:30,17:3,Work From Home,Evening,Office
+E1009,Employee_9,HR,2024-03-29,9:38,20:55,Present,Morning,Remote
+E1000,Employee_0,IT,25/03/2024,,,Absent,Morning,Office
+E1016,Employee_16,IT,01/03/2024,10:14,20:37,Work From Home,Evening,Office
+E1016,Employee_16,Finance,24/03/2024,,,Absent,Evening,Office
+E1033,Employee_33,HR,02-24-2024,9:43,16:54,Late,Evening,Remote
+E1050,Employee_50,HR,18/01/2024,9:59,18:50,Late,Morning,Remote
+E1031,Employee_31,Operations,08/03/2024,11:14,18:44,work from home,Evening,Office
+E1014,Employee_14,Sales,02-06-2024,,,Absent,Evening,Remote
+E1015,Employee_15,IT,12/02/2024,9:52,18:12,Work From Home,Evening,Office
+E1042,Employee_42,HR,29/03/2024,9:53,16:27,Work From Home,Evening,Office
+E1059,Employee_59,Finance,2024-01-09,,,absent,Evening,Remote
+E1027,Employee_27,Finance,02-05-2024,8:52,17:48,Work From Home,Evening,Office
+E1042,Employee_42,Operations,03-07-2024,8:16,17:23,Work From Home,Evening,Remote
+E1058,Employee_58,Finance  ,23/01/2024,9:22,17:3,Work From Home,Morning,Remote
+E1005,Employee_5,HR,01-04-2024,10:7,19:52,Work From Home,Morning,Remote
+E1009,Employee_9,IT,2024-02-10,9:32,17:55,Work From Home,Morning,Remote
+E1001,Employee_1,Operations,13/01/2024,8:47,16:34,Work From Home,Morning,Office
+E1052,Employee_52,HR,2024-03-10,9:2,16:23,Present,Evening,Remote
+E1035,Employee_35,Operations,05/02/2024,11:30,20:53,Present,Morning,Office
+E1057,Employee_57,Operations,2024-01-30,9:4,19:14,Present,Morning,Remote
+E1049,Employee_49,Sales,15/02/2024,8:51,20:26,Present,Morning,Office
+E1031,Employee_31,Finance,19/02/2024,9:46,18:20,Work From Home,Evening,Office
+E1037,Employee_37,IT,02-06-2024,,,Absent,Morning,Remote
+E1005,Employee_5,Finance,25/03/2024,9:30,17:27,Late,Evening,Office
+E1056,Employee_56,IT,01-18-2024,10:47,19:54,Present,Evening,Office
+E1002,Employee_2,IT,02/01/2024,8:38,17:57,Work From Home,Morning,Remote
+E1032,Employee_32,Operations,2024-01-25,10:20,18:18,Present,Evening,Office
+E1053,Employee_53,IT,09/03/2024,8:39,20:12,Work From Home,Evening,Remote
+E1046,Employee_46,HR,01-21-2024,10:9,16:54,Late,Morning,Office
+E1043,Employee_43,Sales,03-10-2024,9:44,18:13,Present,Morning,Remote
+E1051,Employee_51,Sales,03-17-2024,11:2,17:23,Late,Morning,Office
+E1011,Employee_11,IT,21/02/2024,,,absent,Evening,Office
+E1022,Employee_22,HR,01-24-2024,,,Absent,Evening,Remote
+E1046,Employee_46,Operations,25/03/2024,,,Absent,Morning,Remote
+E1027,Employee_27,Finance,27/02/2024,,,Absent,Evening,Office
+E1042,Employee_42,Sales,02/01/2024,9:42,17:1,Present,Evening,Office
+E1051,Employee_51,Finance,2024-01-25,10:32,20:25,Work From Home,Morning,Office
+E1056,Employee_56,HR,07/01/2024,,,Absent,Evening,Remote
+E1005,Employee_5,Sales,2024-01-02,8:51,17:13,Work From Home,Morning,Remote
+E1025,Employee_25,IT,2024-02-05,,,Absent,Morning,Office
+E1048,Employee_48,Operations,01-06-2024,9:3,18:27,Present,Evening,Remote
+E1041,Employee_41,Sales,2024-03-18,,,Absent,Evening,Remote
+E1035,Employee_35,HR,03-23-2024,11:8,17:48,Work From Home,Morning,Remote
+E1035,Employee_35,Operations,01-25-2024,8:34,20:10,Work From Home,Morning,Office
+E1015,Employee_15,IT,2024-03-11,10:47,20:10,Present,Morning,Office
+E1047,Employee_47,IT,02-23-2024,,,Absent,Evening,Remote
+E1020,Employee_20,Operations,21/01/2024,9:11,18:0,Present,Morning,Remote
+E1010,Employee_10,Finance,2024-03-20,8:6,18:34,Late,Morning,Remote
+E1020,Employee_20,IT,2024-02-17,,,Absent,Morning,Remote
+E1032,Employee_32,HR,2024-03-19,10:29,20:27,Late,Morning,Office
+E1042,Employee_42,Finance,2024-02-18,,,Absent,Morning,Office
+E1035,Employee_35,Sales,2024-01-31,9:51,18:20,Present,Evening,Remote
+E1015,Employee_15,Sales,02-13-2024,11:58,17:53,Late,Morning,Remote
+E1025,Employee_25,Finance,24/03/2024,11:29,17:57,Work From Home,Evening,Remote
+E1046,Employee_46,Finance,28/01/2024,10:40,18:52,Present,Morning,Remote
+E1045,Employee_45,IT,03-21-2024,,,Absent,Morning,Office
+E1057,Employee_57,Operations,03-23-2024,,,Absent,Evening,Remote
+E1050,Employee_50,Finance,2024-01-26,8:11,17:21,Work From Home,Evening,Office
+E1034,Employee_34,IT,03-28-2024,8:26,16:5,Late,Evening,Office
+E1058,Employee_58,Sales,02-28-2024,10:59,17:47,Work From Home,Morning,Office
+E1033,Employee_33,Finance,2024-01-02,11:46,18:36,Work From Home,Evening,Office
+E1039,Employee_39,HR,02-06-2024,10:24,16:18,Late,Morning,Remote
+E1000,Employee_0,Operations  ,01-13-2024,8:37,16:48,Work From Home,Evening,Office
+E1033,Employee_33,Sales,03-17-2024,11:23,16:45,Late,Morning,Remote
+E1055,Employee_55,HR,01/01/2024,11:32,20:39,Present,Morning,Office
+E1016,Employee_16,Sales,09/01/2024,,,Absent,Morning,Office
+E1024,Employee_24,Finance,01-03-2024,10:9,18:51,Work From Home,Morning,Remote
+E1000,Employee_0,Sales,04/01/2024,10:10,19:29,Present,Morning,Office
+E1041,Employee_41,IT,03-25-2024,8:39,17:38,Late,Evening,Office
+E1049,Employee_49,Operations  ,2024-01-18,11:44,18:40,Late,Morning,Office
+E1042,Employee_42,Finance,03-02-2024,11:27,19:50,Late,Evening,Remote
+E1013,Employee_13,IT,2024-03-30,9:18,17:25,Work From Home,Morning,Remote
+E1016,Employee_16,IT,01-04-2024,,,absent,Evening,Office
+E1051,Employee_51,Finance,28/01/2024,11:36,18:37,Late,Evening,Remote
+E1031,Employee_31,Sales  ,2024-01-17,10:1,19:42,Present,Morning,Remote
+E1000,Employee_0,Finance,19/02/2024,8:22,16:58,Work From Home,Evening,Remote
+E1052,Employee_52,Finance,16/02/2024,11:11,16:41,Work From Home,Morning,Office
+E1011,Employee_11,Operations,03-23-2024,,,Absent,Evening,Office
+E1004,Employee_4,Sales,03-04-2024,,,Absent,Evening,Office
+E1033,Employee_33,HR,03-05-2024,,,Absent,Morning,Remote
+E1050,Employee_50,HR,02-25-2024,10:21,19:59,Present,Evening,Office
+E1023,Employee_23,HR,01-14-2024,10:36,18:54,Late,Evening,Office
+E1005,Employee_5,Sales,01-13-2024,9:34,18:28,Work From Home,Morning,Remote
+E1015,Employee_15,Finance,02-29-2024,11:16,19:57,Present,Evening,Office
+E1001,Employee_1,IT,2024-03-14,9:44,20:2,,Evening,Office
+E1054,Employee_54,IT,2024-02-12,11:1,20:50,Late,Morning,Office
+E1054,Employee_54,Operations,29/02/2024,9:44,20:22,Present,Morning,Office
+E1013,Employee_13,Finance,2024-01-07,,,Absent,Morning,Office
+E1031,Employee_31,IT,2024-01-11,11:54,16:53,Work From Home,Evening,Office
+E1024,Employee_24,Finance,2024-03-15,9:0,16:45,Work From Home,Morning,Office
+E1056,Employee_56,IT,01-14-2024,8:22,17:50,Late,Morning,Remote
+E1006,Employee_6,Sales,15/02/2024,10:33,20:24,Present,Evening,Remote
+E1059,Employee_59,HR,2024-03-03,,,Absent,Morning,Remote
+E1001,Employee_1,HR,11/02/2024,8:46,20:56,Work From Home,Morning,Remote
+E1033,Employee_33,IT,2024-03-20,8:17,18:40,Work From Home,Morning,Remote
+E1016,Employee_16,HR,24/01/2024,11:15,18:29,Late,Morning,Office
+E1046,Employee_46,Sales,2024-03-07,,,Absent,Evening,Office
+E1053,Employee_53,Finance,2024-03-09,10:20,18:49,Work From Home,Morning,Office
+E1057,Employee_57,IT,02-16-2024,11:51,18:11,Present,Evening,Office
+E1026,Employee_26,Operations,15/02/2024,,,Absent,Evening,Office
+E1004,Employee_4,Finance,2024-01-24,8:17,17:34,Work From Home,Morning,Remote
+E1018,Employee_18,Finance,03-27-2024,8:26,18:21,Work From Home,Evening,Remote
+E1007,Employee_7,Finance,31/01/2024,11:57,17:43,Late,Morning,Remote
+E1002,Employee_2,Sales,03-29-2024,,,Absent,Evening,Office
+E1010,Employee_10,Sales,03-09-2024,8:34,16:16,Work From Home,Evening,Remote
+E1049,Employee_49,Sales,08/02/2024,8:44,18:15,Late,Evening,Remote
+E1041,Employee_41,Operations,2024-03-08,8:42,20:53,Work From Home,Morning,Remote
+E1059,Employee_59,Sales,01-29-2024,,,absent,Morning,Remote
+E1027,Employee_27,IT,03-15-2024,8:44,17:35,Work From Home,Morning,Remote
+E1057,Employee_57,Finance,02-16-2024,10:54,18:8,Late,Morning,Remote
+E1030,Employee_30,Sales,01-06-2024,11:16,20:10,Work From Home,Evening,Office
+E1018,Employee_18,Sales,03-24-2024,11:49,18:20,Present,Evening,Remote
+E1006,Employee_6,Operations,02-20-2024,,,Absent,Evening,Remote
+E1038,Employee_38,Sales,02-11-2024,,,Absent,Morning,Office
+E1030,Employee_30,HR,21/01/2024,11:26,17:18,Late,Morning,Remote
+E1042,Employee_42,IT,2024-03-14,10:58,18:18,Late,Evening,Office
+E1029,Employee_29,HR,12/01/2024,8:3,17:20,Present,Morning,Office
+E1057,Employee_57,IT,01-13-2024,8:17,18:5,Work From Home,Morning,Office
+E1035,Employee_35,IT,01-31-2024,8:22,17:21,Work From Home,Evening,Remote
+E1034,Employee_34,Operations,03-20-2024,11:45,17:37,Late,Morning,Office
+E1032,Employee_32,Sales,02-21-2024,10:21,18:57,Present,Morning,Remote
+E1034,Employee_34,IT,01-14-2024,11:10,17:26,Late,Evening,Office
+E1008,Employee_8,Finance,2024-03-09,,,Absent,Morning,Office
+E1040,Employee_40,HR,2024-01-05,10:48,20:7,Late,Morning,Office
+E1030,Employee_30,Finance,26/03/2024,,,Absent,Evening,Remote
+E1043,Employee_43,HR,2024-02-05,,,Absent,Evening,Office
+E1059,Employee_59,Finance,01-26-2024,8:53,20:36,Present,Evening,Remote
+E1018,Employee_18,IT,03-25-2024,,,Absent,Morning,Office
+E1014,Employee_14,Finance,2024-03-22,,,Absent,Evening,Remote
+E1017,Employee_17,IT,28/03/2024,9:31,18:50,Present,Evening,Remote
+E1029,Employee_29,Finance,01-14-2024,8:49,17:15,Work From Home,Morning,Remote
+E1037,Employee_37,Sales,2024-01-16,10:4,19:49,Work From Home,Evening,Office
+E1031,Employee_31,Sales,10/02/2024,8:23,17:16,Late,Morning,Office
+E1053,Employee_53,HR,2024-02-09,,,Absent,Morning,Office
+E1047,Employee_47,Operations,02-01-2024,,,Absent,Morning,Office
+E1016,Employee_16,HR,03-06-2024,9:52,16:46,Present,Morning,Remote
+E1009,Employee_9,HR,2024-03-09,8:5,17:5,Late,Evening,Remote
+E1059,Employee_59,Finance,03-21-2024,10:4,16:57,Present,Morning,Remote
+E1059,Employee_59,Finance,2024-01-02,9:8,17:54,Work From Home,Morning,Remote
+E1056,Employee_56,HR,2024-02-22,11:7,19:7,Work From Home,Evening,Office
+E1005,Employee_5,Sales,27/03/2024,8:36,19:57,Late,Morning,Office
+E1042,Employee_42,Finance,03-22-2024,9:13,19:40,Work From Home,Morning,Remote
+E1009,Employee_9,Finance,03-03-2024,,,Absent,Morning,Office
+E1031,Employee_31,Sales,01-01-2024,11:7,18:44,Work From Home,Morning,Office
+E1021,Employee_21,HR,02-10-2024,11:0,16:32,Late,Evening,Remote
+E1029,Employee_29,HR,01-04-2024,,,Absent,Morning,Remote
+E1029,Employee_29,HR,2024-01-29,,,Absent,Evening,Office
+E1006,Employee_6,HR  ,08/03/2024,,,Absent,Evening,Remote
+E1017,Employee_17,Finance,03-25-2024,9:56,20:40,Present,Morning,Office
+E1009,Employee_9,Operations,2024-01-09,10:15,19:21,Late,Evening,Office
+E1058,Employee_58,Finance,2024-03-17,10:59,16:31,late,Morning,Office
+E1027,Employee_27,Sales,2024-01-19,8:18,19:19,Work From Home,Morning,Office
+E1005,Employee_5,HR,02/02/2024,11:30,20:34,Present,Evening,Remote
+E1035,Employee_35,Sales,2024-02-25,11:6,16:41,Late,Morning,Office
+E1050,Employee_50,Finance,2024-02-23,8:22,18:1,Present,Evening,Remote
+E1053,Employee_53,Finance,23/01/2024,9:6,19:31,Late,Evening,Office
+E1007,Employee_7,Operations,01-13-2024,8:57,18:43,Late,Morning,Office
+E1056,Employee_56,IT,27/01/2024,8:14,19:46,work from home,Morning,Office
+E1038,Employee_38,Finance,2024-01-31,11:2,18:3,Work From Home,Evening,Remote
+E1004,Employee_4,HR,2024-01-08,,,Absent,Evening,Office
+E1003,Employee_3,Sales,2024-02-07,10:37,16:40,Work From Home,Morning,Remote
+E1031,Employee_31,Finance,10/01/2024,8:22,17:14,work from home,Evening,Remote
+E1016,Employee_16,HR,2024-02-04,11:45,18:4,Work From Home,Evening,Office
+E1011,Employee_11,HR,13/01/2024,10:7,16:28,Present,Evening,Remote
+E1004,Employee_4,Finance,2024-01-21,10:5,17:30,present,Evening,Office
+E1009,Employee_9,HR,16/01/2024,8:8,18:29,Present,Morning,Remote
+E1047,Employee_47,IT,2024-03-19,11:5,18:29,Work From Home,Morning,Remote
+E1033,Employee_33,HR,2024-02-02,10:45,20:14,,Evening,Remote
+E1029,Employee_29,HR,06/01/2024,,,Absent,Morning,Office
+E1043,Employee_43,Finance,01-11-2024,8:28,20:21,,Evening,Remote
+E1032,Employee_32,Operations,02-06-2024,9:26,16:53,Work From Home,Morning,Office
+E1053,Employee_53,HR,2024-01-19,11:18,18:11,Work From Home,Evening,Remote
+E1049,Employee_49,IT,08/03/2024,10:35,16:2,Work From Home,Morning,Office
+E1019,Employee_19,Finance,25/03/2024,8:20,20:5,Present,Evening,Remote
+E1047,Employee_47,Sales,03/01/2024,,,,Morning,Office
+E1008,Employee_8,Finance,2024-01-29,,,Absent,Evening,Office
+E1002,Employee_2,HR,03-14-2024,9:11,18:51,Present,Morning,Remote
+E1031,Employee_31,HR,2024-03-09,9:11,20:49,Present,Evening,Office
+E1004,Employee_4,HR,23/03/2024,8:11,19:58,work from home,Morning,Remote
+E1050,Employee_50,Finance,03-29-2024,,,Absent,Morning,Remote
+E1018,Employee_18,Operations,24/03/2024,10:1,20:51,Late,Morning,Office
+E1001,Employee_1,Sales,2024-03-27,11:21,18:34,Work From Home,Evening,Office
+E1028,Employee_28,Finance,2024-02-06,,,Absent,Morning,Remote
+E1037,Employee_37,Finance,03/03/2024,10:44,16:9,Work From Home,Morning,Office
+E1001,Employee_1,Sales,21/03/2024,8:36,20:22,late,Evening,Remote
+E1003,Employee_3,IT,12/01/2024,11:49,20:10,Work From Home,Morning,Remote
+E1059,Employee_59,IT,02-24-2024,,,Absent,Morning,Remote
+E1035,Employee_35,HR,14/03/2024,,,Absent,Morning,Remote
+E1038,Employee_38,IT,02-18-2024,9:18,19:20,Late,Evening,Office
+E1030,Employee_30,IT,19/03/2024,8:46,17:0,Late,Morning,Office
+E1014,Employee_14,Sales,01-06-2024,9:56,16:3,Present,Evening,Office
+E1045,Employee_45,Operations,2024-02-15,9:6,20:36,Work From Home,Morning,Remote
+E1023,Employee_23,HR,02-23-2024,11:36,17:54,Present,Morning,Office
+E1027,Employee_27,IT,2024-01-26,,,Absent,Evening,Remote
+E1011,Employee_11,Operations  ,11/02/2024,,,Absent,Evening,Remote
+E1029,Employee_29,Finance,02-10-2024,10:27,16:20,Present,Evening,Remote
+E1030,Employee_30,Operations  ,05/02/2024,10:22,16:54,Present,Evening,Remote
+E1036,Employee_36,Finance,2024-03-19,9:24,18:20,Late,Evening,Remote
+E1004,Employee_4,Finance,03-15-2024,9:34,16:10,Present,Evening,Office
+E1024,Employee_24,Sales,2024-03-29,8:17,18:52,Work From Home,Morning,Remote
+E1036,Employee_36,Finance  ,13/02/2024,10:4,16:40,Late,Morning,Office
+E1050,Employee_50,Operations,03-14-2024,,,Absent,Evening,Office
+E1014,Employee_14,Finance,2024-03-10,11:14,18:56,work from home,Evening,Remote
+E1050,Employee_50,IT,2024-01-18,9:14,16:15,Late,Evening,Office
+E1009,Employee_9,Sales  ,03-08-2024,9:20,19:34,work from home,Morning,Office
+E1053,Employee_53,IT,26/01/2024,10:22,17:34,Late,Evening,Office
+E1020,Employee_20,HR,2024-03-01,,,Absent,Morning,Office
+E1036,Employee_36,IT,2024-02-15,9:8,20:19,,Evening,Remote
+E1018,Employee_18,Operations,03/01/2024,10:56,17:15,Work From Home,Morning,Remote
+E1001,Employee_1,HR,2024-02-04,10:53,17:50,Work From Home,Evening,Remote
+E1047,Employee_47,Operations,2024-01-03,9:58,17:2,Work From Home,Morning,Office
+E1032,Employee_32,Sales,2024-03-12,10:32,19:51,Present,Evening,Remote
+E1044,Employee_44,Finance,01-09-2024,,,Absent,Morning,Office
+E1025,Employee_25,Finance,2024-03-06,8:31,19:46,Work From Home,Morning,Remote
+E1049,Employee_49,Sales,02-23-2024,10:54,17:11,Work From Home,Evening,Remote
+E1003,Employee_3,Finance,16/02/2024,9:22,17:21,Late,Morning,Remote
+E1052,Employee_52,Finance,2024-01-16,11:16,16:21,Present,Evening,Remote
+E1057,Employee_57,Sales,18/03/2024,,,Absent,Evening,Office
+E1038,Employee_38,HR,02/01/2024,10:1,18:13,Present,Evening,Remote
+E1024,Employee_24,Sales,02-01-2024,8:58,16:23,Present,Evening,Remote
+E1033,Employee_33,HR,10/03/2024,11:3,18:33,Late,Evening,Office
+E1040,Employee_40,IT,2024-02-03,,,Absent,Morning,Office
+E1012,Employee_12,Sales,17/03/2024,8:10,16:37,Work From Home,Morning,Remote
+E1043,Employee_43,Operations,2024-02-18,,,,Morning,Office
+E1008,Employee_8,Finance,2024-02-15,9:53,18:48,Work From Home,Evening,Remote
+E1021,Employee_21,Finance,02-17-2024,9:36,16:52,Late,Evening,Remote
+E1053,Employee_53,HR,2024-02-11,10:54,18:45,Work From Home,Morning,Remote
+E1048,Employee_48,Sales,29/02/2024,11:53,18:50,,Morning,Office
+E1014,Employee_14,Finance,03-27-2024,10:7,19:29,Late,Morning,Office
+E1017,Employee_17,Finance,11/01/2024,,,Absent,Evening,Office
+E1019,Employee_19,Sales,2024-02-17,9:38,17:45,Present,Morning,Office
+E1005,Employee_5,Operations,03-11-2024,,,Absent,Evening,Office
+E1007,Employee_7,IT,23/02/2024,11:30,17:23,Work From Home,Morning,Remote
+E1045,Employee_45,Finance  ,2024-01-06,8:26,19:10,Late,Morning,Office
+E1012,Employee_12,Finance,01-29-2024,10:21,17:2,Work From Home,Evening,Office
+E1032,Employee_32,Sales,2024-01-03,8:40,18:10,Late,Evening,Office
+E1043,Employee_43,Sales,2024-02-06,,,Absent,Morning,Remote
+E1020,Employee_20,HR,08/01/2024,8:25,19:43,Present,Morning,Remote
+E1037,Employee_37,IT,01-23-2024,8:19,16:45,Present,Evening,Office
+E1052,Employee_52,IT,21/02/2024,,,Absent,Morning,Remote
+E1015,Employee_15,IT,2024-03-22,9:24,16:32,Late,Evening,Office
+E1013,Employee_13,Sales,2024-01-28,10:36,16:48,Late,Evening,Office
+E1021,Employee_21,HR,03-30-2024,,,Absent,Evening,Office
+E1057,Employee_57,HR,03-14-2024,10:1,18:34,Work From Home,Evening,Office
+E1002,Employee_2,Operations,02/01/2024,10:58,18:58,late,Evening,Remote
+E1026,Employee_26,Sales,09/02/2024,9:4,16:42,Present,Morning,Office
+E1025,Employee_25,Operations,02-10-2024,8:7,20:32,Present,Morning,Remote
+E1056,Employee_56,Operations  ,20/01/2024,,,Absent,Evening,Office
+E1049,Employee_49,IT  ,06/01/2024,10:28,20:26,Late,Morning,Remote
+E1001,Employee_1,Sales,2024-03-24,8:8,18:2,Work From Home,Morning,Remote
+E1038,Employee_38,Finance,01-22-2024,8:20,17:12,Present,Evening,Office
+E1043,Employee_43,HR,17/01/2024,9:38,17:51,Work From Home,Evening,Office
+E1019,Employee_19,HR,17/03/2024,11:11,19:50,Present,Evening,Remote
+E1053,Employee_53,Sales,22/03/2024,9:19,17:47,Late,Morning,Remote
+E1040,Employee_40,HR,03-16-2024,8:11,20:27,Late,Evening,Remote
+E1016,Employee_16,Operations,2024-02-22,10:23,20:55,Work From Home,Evening,Office
+E1030,Employee_30,Finance,2024-01-08,11:47,19:52,Work From Home,Morning,Office
+E1056,Employee_56,IT,01-22-2024,9:55,19:56,Work From Home,Morning,Office
+E1026,Employee_26,HR  ,2024-01-22,11:54,17:53,Present,Evening,Remote
+E1018,Employee_18,IT,03-24-2024,10:50,16:32,Present,Evening,Remote
+E1015,Employee_15,Sales,02-22-2024,9:33,17:15,Late,Evening,Office
+E1046,Employee_46,IT,01-01-2024,8:37,16:57,Late,Evening,Office
+E1038,Employee_38,IT,24/03/2024,9:28,20:4,Work From Home,Evening,Remote
+E1042,Employee_42,HR,2024-02-09,,,Absent,Evening,Office
+E1008,Employee_8,Finance,02-16-2024,8:21,18:9,Work From Home,Morning,Remote
+E1019,Employee_19,HR,2024-01-07,9:21,20:42,Work From Home,Evening,Office
+E1024,Employee_24,IT,01/01/2024,10:26,20:55,Work From Home,Morning,Remote
+E1054,Employee_54,IT,2024-01-17,11:46,16:47,Work From Home,Evening,Office
+E1034,Employee_34,Sales,02-06-2024,8:43,18:39,Late,Morning,Remote
+E1051,Employee_51,Finance,01-08-2024,9:24,17:15,Present,Morning,Office
+E1054,Employee_54,IT,03-25-2024,,,Absent,Morning,Office
+E1028,Employee_28,IT,01/01/2024,9:32,17:36,Late,Evening,Remote
+E1038,Employee_38,Finance,06/03/2024,8:33,16:53,Late,Evening,Office
+E1032,Employee_32,Sales,2024-02-12,8:45,20:41,Work From Home,Morning,Remote
+E1014,Employee_14,HR,02-18-2024,9:57,19:7,Work From Home,Morning,Remote
+E1018,Employee_18,Finance,24/03/2024,10:10,17:25,late,Evening,Office
+E1035,Employee_35,HR,2024-03-04,8:23,19:27,Work From Home,Evening,Office
+E1015,Employee_15,Operations,2024-03-02,8:21,20:35,Present,Morning,Office
+E1007,Employee_7,Finance,07/02/2024,8:3,17:18,Work From Home,Evening,Remote
+E1005,Employee_5,Sales,2024-03-20,8:8,18:17,Present,Evening,Remote
+E1012,Employee_12,Operations,2024-02-24,,,absent,Morning,Office
+E1032,Employee_32,Finance,23/02/2024,8:15,18:3,Work From Home,Evening,Office
+E1056,Employee_56,Finance,15/01/2024,11:17,17:6,Late,Evening,Office
+E1050,Employee_50,Operations  ,03-04-2024,8:0,17:42,Present,Evening,Remote
+E1017,Employee_17,IT,03-17-2024,9:12,17:34,Late,Evening,Office
+E1042,Employee_42,HR,04/02/2024,8:28,19:24,Late,Morning,Office
+E1054,Employee_54,Operations  ,02-11-2024,9:5,19:45,Late,Morning,Remote
+E1026,Employee_26,IT,2024-01-31,10:14,18:57,Late,Evening,Remote
+E1015,Employee_15,HR,2024-02-19,,,,Morning,Remote
+E1031,Employee_31,Operations,02-24-2024,10:33,16:18,Work From Home,Morning,Remote
+E1039,Employee_39,Sales,2024-01-19,10:30,18:26,Work From Home,Evening,Remote
+E1024,Employee_24,IT,24/01/2024,11:26,20:48,Work From Home,Morning,Office
+E1033,Employee_33,Sales,18/01/2024,9:7,17:17,Work From Home,Morning,Remote
+E1048,Employee_48,Operations,01-28-2024,8:37,19:31,Late,Morning,Office
+E1044,Employee_44,IT,2024-03-06,10:15,20:5,Late,Morning,Office
+E1038,Employee_38,IT  ,17/02/2024,11:36,19:29,Present,Morning,Office
+E1034,Employee_34,Finance  ,03/01/2024,8:28,20:57,Present,Evening,Remote
+E1007,Employee_7,Finance,02-24-2024,8:14,19:47,Present,Morning,Remote
+E1031,Employee_31,IT,01-25-2024,,,Absent,Morning,Remote
+E1007,Employee_7,HR  ,26/03/2024,11:58,17:24,Present,Evening,Remote
+E1021,Employee_21,HR,23/02/2024,8:24,18:18,,Morning,Office
+E1025,Employee_25,Sales,03-15-2024,9:17,20:2,Late,Morning,Remote
+E1027,Employee_27,Finance,01/02/2024,8:58,19:38,work from home,Evening,Office
+E1052,Employee_52,Operations,2024-01-17,,,Absent,Morning,Remote
+E1037,Employee_37,Operations,2024-02-13,11:33,19:21,Late,Evening,Office
+E1022,Employee_22,IT,01-15-2024,,,Absent,Morning,Remote
+E1058,Employee_58,IT,2024-03-15,9:1,18:42,Late,Morning,Remote
+E1046,Employee_46,Finance,13/02/2024,,,Absent,Evening,Remote
+E1051,Employee_51,Operations,04/02/2024,11:46,19:33,Work From Home,Morning,Office
+E1046,Employee_46,Operations,02-13-2024,9:28,20:48,,Evening,Remote
+E1006,Employee_6,Operations,01-03-2024,10:18,19:57,Work From Home,Morning,Remote
+E1010,Employee_10,IT,01-01-2024,11:15,18:29,Present,Evening,Office
+E1041,Employee_41,Operations,2024-02-26,9:5,16:46,,Morning,Office
+E1039,Employee_39,HR,2024-01-21,8:10,19:44,Work From Home,Evening,Remote
+E1017,Employee_17,IT,02-04-2024,8:42,20:35,Work From Home,Morning,Office
+E1052,Employee_52,HR,07/01/2024,,,Absent,Morning,Remote
+E1020,Employee_20,Operations,27/01/2024,9:34,17:39,Present,Morning,Office
+E1054,Employee_54,Finance,14/03/2024,11:8,17:46,Work From Home,Evening,Remote
+E1059,Employee_59,Operations,02-29-2024,,,absent,Evening,Remote
+E1023,Employee_23,IT,09/01/2024,10:19,20:7,Present,Evening,Office
+E1024,Employee_24,Sales,2024-03-14,9:56,16:32,Late,Morning,Remote
+E1015,Employee_15,HR,23/01/2024,9:53,18:17,Late,Morning,Remote
+E1011,Employee_11,Sales,03-11-2024,,,Absent,Evening,Remote
+E1058,Employee_58,Sales,20/03/2024,8:25,17:0,Present,Evening,Office
+E1020,Employee_20,IT  ,03-07-2024,8:17,18:57,Present,Morning,Remote
+E1037,Employee_37,HR,03-22-2024,8:22,20:39,Present,Morning,Office
+E1021,Employee_21,Sales,2024-02-15,8:0,18:12,Present,Evening,Remote
+E1006,Employee_6,HR,02-28-2024,,,Absent,Morning,Remote
+E1035,Employee_35,Finance  ,25/02/2024,9:23,20:37,Present,Evening,Remote
+E1015,Employee_15,HR,2024-03-09,11:18,20:1,Present,Evening,Remote
+E1058,Employee_58,Finance,30/01/2024,,,Absent,Morning,Office
+E1051,Employee_51,Sales,10/02/2024,9:51,19:20,Present,Evening,Remote
+E1031,Employee_31,Operations,01/01/2024,11:4,17:3,Late,Morning,Office
+E1044,Employee_44,Sales,03-25-2024,10:44,19:37,Work From Home,Morning,Remote
+E1019,Employee_19,Operations,01/01/2024,9:49,17:17,present,Evening,Office
+E1024,Employee_24,Finance,13/03/2024,8:9,18:14,late,Evening,Remote
+E1046,Employee_46,Sales,25/01/2024,8:14,20:21,present,Evening,Office
+E1054,Employee_54,Finance,02-28-2024,10:28,18:36,Work From Home,Evening,Office
+E1020,Employee_20,Operations,02-05-2024,11:24,16:32,,Morning,Office
+E1012,Employee_12,Finance  ,2024-03-24,,,Absent,Morning,Office
+E1013,Employee_13,Sales,2024-01-11,11:33,18:15,Present,Morning,Office
+E1018,Employee_18,IT,2024-03-20,,,Absent,Evening,Remote
+E1039,Employee_39,HR,03-23-2024,8:51,16:54,Present,Evening,Office
+E1058,Employee_58,Sales,14/02/2024,,,Absent,Evening,Remote
+E1056,Employee_56,Finance,02-15-2024,11:57,16:56,Present,Evening,Office
+E1045,Employee_45,Operations,03-14-2024,9:9,20:47,Late,Evening,Remote
+E1028,Employee_28,Sales,2024-03-12,,,Absent,Evening,Remote
+E1041,Employee_41,IT,2024-01-29,9:45,20:58,late,Morning,Office
+E1039,Employee_39,Sales,01-17-2024,,,Absent,Morning,Office
+E1018,Employee_18,Finance,02-17-2024,,,Absent,Morning,Remote
+E1003,Employee_3,Sales  ,2024-01-19,,,Absent,Morning,Office
+E1038,Employee_38,Sales,2024-03-07,,,Absent,Morning,Remote
+E1053,Employee_53,Sales,08/01/2024,,,Absent,Morning,Remote
+E1014,Employee_14,Finance,2024-03-07,,,Absent,Evening,Remote
+E1027,Employee_27,Finance,02-29-2024,,,Absent,Morning,Remote
+E1002,Employee_2,Operations,02-17-2024,8:15,16:38,Work From Home,Evening,Office
+E1019,Employee_19,Sales,2024-03-07,10:12,18:8,Work From Home,Evening,Remote
+E1010,Employee_10,IT,28/03/2024,,,Absent,Morning,Remote
+E1017,Employee_17,Finance,2024-01-08,8:3,16:13,Late,Evening,Remote
+E1017,Employee_17,Sales  ,2024-02-18,9:37,17:33,Late,Evening,Remote
+E1058,Employee_58,Operations,03-04-2024,8:40,17:29,Present,Morning,Office
+E1054,Employee_54,Finance,03-27-2024,10:25,17:50,Present,Morning,Remote
+E1046,Employee_46,IT  ,03-30-2024,10:19,19:2,Present,Evening,Remote
+E1032,Employee_32,HR,11/01/2024,8:28,17:35,Present,Evening,Remote
+E1052,Employee_52,Sales,2024-03-02,9:11,19:46,Late,Morning,Office
+E1016,Employee_16,Operations,01-13-2024,10:2,18:19,Late,Evening,Remote
+E1059,Employee_59,HR,2024-02-12,9:17,19:19,Late,Evening,Remote
+E1034,Employee_34,Sales,2024-02-25,9:21,19:37,Present,Morning,Office
+E1039,Employee_39,Sales,30/03/2024,10:24,19:22,Present,Evening,Remote
+E1028,Employee_28,HR,2024-01-27,9:50,16:55,Late,Morning,Office
+E1016,Employee_16,Finance,04/01/2024,9:43,19:47,Late,Evening,Office
+E1020,Employee_20,IT,2024-02-05,11:32,16:6,Work From Home,Evening,Remote
+E1043,Employee_43,IT,2024-01-14,8:17,16:47,Work From Home,Morning,Office
+E1048,Employee_48,Finance,2024-03-23,,,Absent,Evening,Remote
+E1006,Employee_6,Sales,03-10-2024,9:12,20:26,Late,Morning,Office
+E1056,Employee_56,HR,03-05-2024,11:15,17:22,Late,Morning,Remote
+E1005,Employee_5,IT,2024-02-26,9:58,17:2,Late,Morning,Remote
+E1003,Employee_3,Sales,13/01/2024,9:0,20:5,present,Morning,Office
+E1019,Employee_19,IT,05/01/2024,,,Absent,Evening,Remote
+E1004,Employee_4,IT,2024-01-19,8:15,18:29,Late,Morning,Remote
+E1059,Employee_59,Sales,03-03-2024,8:35,19:11,Late,Evening,Office
+E1045,Employee_45,IT,02-08-2024,8:51,16:10,work from home,Evening,Remote
+E1021,Employee_21,IT,2024-03-28,10:54,17:38,Present,Evening,Remote
+E1016,Employee_16,HR,2024-03-02,10:27,19:21,Late,Evening,Office
+E1002,Employee_2,IT,01-28-2024,11:8,16:23,Late,Evening,Office
+E1055,Employee_55,Operations,2024-02-14,8:22,17:57,Present,Evening,Remote
+E1056,Employee_56,IT,2024-02-28,10:43,16:22,Late,Morning,Remote
+E1041,Employee_41,HR,17/03/2024,11:23,17:35,Late,Evening,Office
+E1043,Employee_43,IT,01-05-2024,9:20,19:30,Present,Morning,Remote
+E1017,Employee_17,Sales,07/02/2024,10:53,18:10,Late,Morning,Remote
+E1028,Employee_28,IT,03-22-2024,9:42,16:6,Work From Home,Morning,Remote
+E1003,Employee_3,HR,02-04-2024,,,Absent,Morning,Remote
+E1018,Employee_18,IT,02-25-2024,8:5,16:26,Late,Evening,Office
+E1057,Employee_57,Sales,16/03/2024,11:27,17:31,Late,Evening,Remote
+E1034,Employee_34,IT,03-08-2024,,,Absent,Morning,Office
+E1022,Employee_22,HR,2024-01-04,9:31,16:40,,Evening,Office
+E1034,Employee_34,Operations,2024-02-29,9:6,19:3,Late,Morning,Office
+E1011,Employee_11,Sales,2024-03-23,9:20,17:46,Late,Evening,Remote
+E1041,Employee_41,Finance,12/01/2024,,,Absent,Morning,Office
+E1028,Employee_28,HR,2024-01-14,9:45,20:35,Work From Home,Morning,Office
+E1038,Employee_38,Operations,2024-01-17,9:26,17:23,Present,Morning,Remote
+E1042,Employee_42,Sales,03-28-2024,9:14,18:41,,Evening,Office
+E1041,Employee_41,Sales,2024-01-05,11:0,19:44,Late,Morning,Office
+E1038,Employee_38,HR,16/03/2024,8:41,18:49,Late,Evening,Remote
+E1052,Employee_52,Operations  ,17/02/2024,10:27,17:17,Work From Home,Morning,Remote
+E1038,Employee_38,Finance,29/01/2024,9:54,20:54,Present,Evening,Office
+E1041,Employee_41,Finance,03-27-2024,,,Absent,Evening,Office
+E1012,Employee_12,Finance,19/01/2024,8:21,20:22,Work From Home,Morning,Remote
+E1050,Employee_50,Sales,01-28-2024,10:33,20:8,Work From Home,Morning,Office
+E1047,Employee_47,HR,03/01/2024,,,Absent,Morning,Remote
+E1033,Employee_33,IT,01-23-2024,,,Absent,Morning,Remote
+E1028,Employee_28,HR,2024-01-26,8:5,20:45,,Evening,Remote
+E1017,Employee_17,Finance,2024-03-05,,,Absent,Evening,Remote
+E1048,Employee_48,IT,2024-03-21,11:18,20:25,Present,Evening,Office
+E1027,Employee_27,Sales,2024-01-13,11:44,18:25,Present,Morning,Office
+E1042,Employee_42,Operations,2024-02-13,8:34,19:11,Late,Evening,Office
+E1049,Employee_49,Sales,2024-03-01,8:38,19:42,Late,Morning,Office
+E1012,Employee_12,IT,03-27-2024,8:11,18:37,Work From Home,Evening,Remote
+E1042,Employee_42,Finance,01-18-2024,10:7,18:19,Late,Evening,Office
+E1041,Employee_41,IT,2024-02-05,,,Absent,Morning,Remote
+E1056,Employee_56,IT,02-14-2024,9:15,16:18,Work From Home,Morning,Remote
+E1053,Employee_53,Operations,29/02/2024,11:36,20:44,Work From Home,Morning,Office
+E1012,Employee_12,Sales,03/03/2024,8:40,19:12,Present,Evening,Office
+E1048,Employee_48,Operations,01-07-2024,9:16,18:29,Work From Home,Morning,Remote
+E1009,Employee_9,HR,01-06-2024,8:22,19:15,Present,Evening,Remote
+E1053,Employee_53,Sales,2024-01-31,11:55,20:25,Late,Morning,Office
+E1003,Employee_3,IT,03-25-2024,11:14,20:14,Present,Morning,Office
+E1042,Employee_42,IT,2024-02-19,,,Absent,Morning,Remote
+E1017,Employee_17,HR,01-15-2024,11:12,20:36,Work From Home,Evening,Office
+E1039,Employee_39,HR,01-08-2024,,,Absent,Morning,Office
+E1040,Employee_40,Sales,24/01/2024,8:58,19:50,Work From Home,Morning,Remote
+E1010,Employee_10,HR,06/02/2024,10:45,19:2,Late,Morning,Office
+E1058,Employee_58,IT,2024-01-06,9:20,18:12,Present,Morning,Office
+E1000,Employee_0,Finance,02-19-2024,9:20,19:24,Late,Evening,Office
+E1019,Employee_19,IT,03-14-2024,11:27,16:18,Work From Home,Evening,Office
+E1016,Employee_16,Operations,11/01/2024,,,Absent,Morning,Remote
+E1022,Employee_22,HR  ,01-25-2024,11:53,16:55,Late,Evening,Office
+E1058,Employee_58,Sales,02-24-2024,11:38,17:59,Work From Home,Morning,Remote
+E1012,Employee_12,Sales,2024-02-18,9:22,16:3,Work From Home,Evening,Office
+E1048,Employee_48,Operations,24/01/2024,9:50,20:1,Late,Morning,Remote
+E1037,Employee_37,HR,01/02/2024,11:46,16:52,Late,Evening,Remote
+E1024,Employee_24,IT,03-16-2024,11:46,19:12,Late,Morning,Remote
+E1002,Employee_2,IT,2024-01-19,10:42,18:0,work from home,Morning,Remote
+E1027,Employee_27,Operations,03-30-2024,9:14,16:57,Work From Home,Evening,Office
+E1024,Employee_24,HR,2024-03-24,10:3,17:6,Late,Morning,Office
+E1031,Employee_31,HR,02/03/2024,10:32,17:43,present,Evening,Office
+E1052,Employee_52,Finance,2024-01-09,9:11,18:56,,Morning,Office
+E1004,Employee_4,Sales,02-16-2024,,,Absent,Morning,Remote
+E1002,Employee_2,IT,2024-02-27,11:30,19:59,Present,Evening,Office
+E1053,Employee_53,Sales,25/03/2024,11:31,16:37,Present,Evening,Remote
+E1053,Employee_53,IT,02-21-2024,9:21,17:20,Late,Evening,Remote
+E1037,Employee_37,Sales,02-14-2024,8:18,17:10,Late,Evening,Office
+E1043,Employee_43,Operations,2024-02-19,,,absent,Evening,Office
+E1001,Employee_1,Finance,01-14-2024,10:36,19:29,Late,Morning,Remote
+E1052,Employee_52,HR,2024-01-16,,,Absent,Morning,Office
+E1024,Employee_24,HR,02/01/2024,,,Absent,Evening,Office
+E1021,Employee_21,Operations,25/03/2024,,,Absent,Morning,Office
+E1007,Employee_7,HR,2024-01-14,8:30,18:44,Work From Home,Evening,Office
+E1055,Employee_55,Finance,2024-03-01,,,Absent,Morning,Office
+E1048,Employee_48,Finance,28/03/2024,,,Absent,Morning,Remote
+E1044,Employee_44,IT,2024-03-04,11:46,16:10,late,Morning,Remote
+E1012,Employee_12,HR,03-18-2024,8:10,20:54,Work From Home,Morning,Remote
+E1041,Employee_41,HR,2024-03-29,9:51,16:20,Present,Evening,Remote
+E1052,Employee_52,Operations,01-28-2024,10:16,17:30,Late,Evening,Office
+E1059,Employee_59,IT,17/01/2024,8:49,17:53,Present,Morning,Remote
+E1008,Employee_8,IT,2024-03-15,,,Absent,Morning,Office
+E1031,Employee_31,HR,01-03-2024,9:21,20:18,Work From Home,Morning,Remote
+E1057,Employee_57,HR,2024-01-22,9:15,18:15,Late,Morning,Remote
+E1026,Employee_26,Sales,2024-01-03,11:30,16:17,Work From Home,Morning,Office
+E1044,Employee_44,IT,2024-01-08,9:50,19:5,Present,Evening,Office
+E1002,Employee_2,IT,03-28-2024,11:37,19:14,Work From Home,Morning,Office
+E1028,Employee_28,Finance,02-02-2024,9:41,18:45,Late,Morning,Office
+E1026,Employee_26,Finance,03-10-2024,8:52,20:12,Work From Home,Morning,Office
+E1012,Employee_12,Finance,01-17-2024,8:34,20:30,Late,Morning,Remote
+E1052,Employee_52,Sales,2024-03-14,,,Absent,Morning,Office
+E1001,Employee_1,Sales,03-11-2024,,,Absent,Morning,Remote
+E1010,Employee_10,IT  ,10/01/2024,11:59,20:57,Late,Evening,Office
+E1014,Employee_14,IT,03-01-2024,9:3,18:17,Late,Morning,Remote
+E1006,Employee_6,Sales,05/03/2024,11:14,16:37,present,Evening,Remote
+E1040,Employee_40,HR,05/01/2024,10:39,19:10,Late,Evening,Remote
+E1031,Employee_31,Operations,20/01/2024,9:46,18:7,Present,Morning,Office
+E1018,Employee_18,HR,2024-03-06,9:18,17:17,Work From Home,Morning,Office
+E1057,Employee_57,Operations,03-27-2024,,,Absent,Morning,Remote
+E1010,Employee_10,IT  ,2024-02-19,10:43,19:8,Late,Evening,Office
+E1026,Employee_26,IT,2024-01-08,11:15,19:37,Late,Evening,Remote
+E1031,Employee_31,HR,2024-01-15,,,Absent,Evening,Remote
+E1011,Employee_11,Finance,2024-02-17,,,absent,Morning,Remote
+E1035,Employee_35,HR,2024-02-05,9:56,16:7,Work From Home,Morning,Office
+E1046,Employee_46,Operations,11/01/2024,8:17,17:9,Work From Home,Morning,Office
+E1010,Employee_10,Operations,03-16-2024,9:13,16:10,Work From Home,Evening,Remote
+E1002,Employee_2,Sales,02/01/2024,8:58,16:16,Late,Morning,Office
+E1049,Employee_49,Operations,01-19-2024,10:14,17:0,Late,Evening,Remote
+E1005,Employee_5,Operations,17/02/2024,9:14,18:21,Late,Morning,Office
+E1022,Employee_22,Operations,02-22-2024,11:42,20:30,Present,Morning,Office
+E1038,Employee_38,Sales,22/01/2024,8:48,19:48,Late,Evening,Office
+E1049,Employee_49,Sales,03-05-2024,9:43,19:55,Late,Evening,Remote
+E1020,Employee_20,Sales,04/02/2024,9:5,16:47,present,Morning,Remote
+E1038,Employee_38,IT,27/01/2024,,,Absent,Evening,Remote
+E1024,Employee_24,Operations  ,2024-03-28,,,absent,Morning,Remote
+E1015,Employee_15,Sales  ,02-04-2024,10:6,17:8,Present,Evening,Office
+E1032,Employee_32,Sales,07/03/2024,9:5,20:28,Late,Evening,Remote
+E1039,Employee_39,Operations,03-30-2024,8:4,19:43,late,Evening,Remote
+E1028,Employee_28,Sales,05/03/2024,,,Absent,Evening,Remote
+E1052,Employee_52,Finance,23/03/2024,8:41,18:53,Present,Evening,Remote
+E1057,Employee_57,Operations,03-14-2024,9:18,17:8,Present,Evening,Remote
+E1051,Employee_51,HR,08/02/2024,11:28,18:55,Present,Evening,Remote
+E1034,Employee_34,IT,02-11-2024,10:53,16:10,Late,Morning,Remote
+E1021,Employee_21,Finance,2024-03-27,,,,Morning,Office
+E1058,Employee_58,HR,01-13-2024,9:32,18:26,Present,Evening,Remote
+E1041,Employee_41,HR,2024-02-03,,,Absent,Evening,Remote
+E1015,Employee_15,Operations,2024-03-06,,,Absent,Morning,Office
+E1031,Employee_31,IT,03-02-2024,8:4,16:34,Present,Morning,Office
+E1008,Employee_8,Sales,03/02/2024,9:23,18:47,Present,Morning,Office
+E1055,Employee_55,Operations,28/01/2024,11:29,16:24,Work From Home,Evening,Office
+E1056,Employee_56,Sales,02-04-2024,8:56,17:38,Present,Morning,Remote
+E1001,Employee_1,HR,03-17-2024,9:22,19:28,Late,Evening,Remote
+E1018,Employee_18,Finance,16/02/2024,9:37,16:46,Late,Evening,Office
+E1029,Employee_29,HR,07/01/2024,11:58,17:24,Present,Evening,Remote
+E1054,Employee_54,Sales,16/02/2024,8:44,16:23,Present,Morning,Remote
+E1057,Employee_57,HR,04/01/2024,10:20,20:1,Present,Evening,Office
+E1051,Employee_51,Finance,2024-02-23,8:17,16:12,Late,Morning,Remote
+E1035,Employee_35,HR,02-11-2024,11:28,20:12,Late,Morning,Office
+E1028,Employee_28,HR,02-25-2024,11:14,18:5,Present,Evening,Office
+E1033,Employee_33,Finance,01-09-2024,8:51,18:53,Present,Evening,Remote
+E1041,Employee_41,Operations,15/02/2024,9:32,20:42,Late,Evening,Office
+E1055,Employee_55,Sales,2024-01-29,11:49,17:21,Late,Morning,Remote
+E1057,Employee_57,IT,2024-02-15,8:17,20:14,Late,Evening,Remote
+E1041,Employee_41,Operations,19/03/2024,10:16,16:46,Present,Morning,Office
+E1049,Employee_49,IT,2024-03-05,8:19,20:18,Late,Evening,Office
+E1020,Employee_20,IT,2024-01-05,,,Absent,Evening,Remote
+E1019,Employee_19,Operations,08/01/2024,10:55,19:40,Present,Morning,Remote
+E1049,Employee_49,Operations,2024-01-24,10:14,16:29,Late,Evening,Office
+E1022,Employee_22,Sales,31/01/2024,10:38,16:34,Work From Home,Morning,Remote
+E1012,Employee_12,Sales  ,2024-02-09,9:27,18:12,Work From Home,Evening,Office
+E1035,Employee_35,Operations,28/03/2024,9:55,16:13,Present,Evening,Remote
+E1024,Employee_24,HR,2024-02-08,11:2,19:23,Present,Morning,Office
+E1022,Employee_22,Sales,01-27-2024,9:32,18:26,Late,Morning,Remote
+E1040,Employee_40,Finance,2024-01-31,9:7,17:5,Present,Morning,Remote
+E1035,Employee_35,Finance,03-01-2024,8:37,20:8,Present,Morning,Office
+E1029,Employee_29,IT,09/01/2024,,,Absent,Evening,Office
+E1004,Employee_4,Finance,31/01/2024,10:17,20:1,Present,Evening,Office
+E1018,Employee_18,IT,2024-01-21,10:44,20:11,Work From Home,Morning,Remote
+E1039,Employee_39,Operations,03-11-2024,10:17,17:22,,Evening,Office
+E1014,Employee_14,Operations,2024-01-26,10:31,19:59,Work From Home,Evening,Remote
+E1002,Employee_2,Finance,01-02-2024,,,Absent,Morning,Remote
+E1047,Employee_47,HR,2024-01-15,8:6,16:16,Present,Evening,Office
+E1032,Employee_32,Finance,18/03/2024,9:31,19:55,Late,Evening,Remote
+E1008,Employee_8,Finance,2024-02-16,,,Absent,Morning,Remote
+E1030,Employee_30,Operations,2024-03-15,10:55,18:15,Work From Home,Morning,Office
+E1017,Employee_17,IT,15/01/2024,8:42,17:22,Present,Evening,Office
+E1023,Employee_23,Finance,09/02/2024,10:58,20:27,Late,Evening,Office
+E1032,Employee_32,Operations,15/02/2024,9:25,19:43,Work From Home,Evening,Remote
+E1013,Employee_13,Sales,02-23-2024,11:48,18:44,Late,Morning,Office
+E1021,Employee_21,Sales,03/02/2024,9:24,18:25,Work From Home,Morning,Office
+E1010,Employee_10,Finance,01-08-2024,8:17,16:7,Work From Home,Evening,Remote
+E1033,Employee_33,Finance,26/01/2024,,,Absent,Evening,Office
+E1027,Employee_27,Operations,20/02/2024,,,Absent,Evening,Office
+E1050,Employee_50,Finance,07/01/2024,11:17,18:6,Work From Home,Evening,Office
+E1037,Employee_37,IT,15/01/2024,8:29,16:44,present,Morning,Remote
+E1051,Employee_51,Sales,01-17-2024,10:30,20:18,Late,Evening,Office
+E1045,Employee_45,Sales,01-16-2024,,,Absent,Morning,Remote
+E1037,Employee_37,Finance,03-11-2024,9:48,18:51,Late,Evening,Office
+E1002,Employee_2,IT,2024-03-21,8:36,19:18,Late,Evening,Remote
+E1043,Employee_43,Sales,2024-01-26,,,Absent,Evening,Office
+E1018,Employee_18,Operations,01-14-2024,9:9,16:27,Present,Morning,Office
+E1017,Employee_17,Sales,01-07-2024,10:22,16:58,Present,Evening,Office
+E1007,Employee_7,Sales  ,03-09-2024,9:51,16:15,Present,Evening,Remote
+E1021,Employee_21,Operations,2024-03-12,8:21,17:48,Present,Evening,Remote
+E1003,Employee_3,Finance,03/02/2024,9:40,17:13,Work From Home,Evening,Office
+E1051,Employee_51,Operations,2024-02-26,8:27,16:4,Late,Morning,Office
+E1058,Employee_58,IT,06/03/2024,,,,Morning,Office
+E1059,Employee_59,Sales,2024-01-17,,,Absent,Evening,Office
+E1044,Employee_44,IT,01-20-2024,8:28,19:47,Work From Home,Morning,Office
+E1007,Employee_7,Sales,01-13-2024,10:43,18:35,Late,Morning,Office
+E1035,Employee_35,Sales,2024-01-10,,,Absent,Morning,Remote
+E1028,Employee_28,Finance,15/01/2024,10:0,16:35,Work From Home,Evening,Remote
+E1044,Employee_44,Sales,2024-03-20,11:53,16:17,Present,Morning,Office
+E1057,Employee_57,Operations,01-04-2024,8:40,17:43,Work From Home,Evening,Remote
+E1055,Employee_55,Operations,2024-01-15,10:20,19:47,Present,Evening,Office
+E1010,Employee_10,Finance,20/02/2024,9:51,17:2,Late,Morning,Remote
+E1042,Employee_42,Finance  ,19/02/2024,9:14,19:30,Late,Evening,Office
+E1021,Employee_21,HR,2024-01-04,,,Absent,Evening,Office
+E1028,Employee_28,HR,12/02/2024,9:33,18:13,Late,Morning,Remote
+E1051,Employee_51,Operations,2024-01-18,10:38,17:10,present,Morning,Remote
+E1028,Employee_28,IT,01-24-2024,,,Absent,Morning,Office
+E1005,Employee_5,Finance,2024-01-18,8:30,18:3,Work From Home,Evening,Remote
+E1024,Employee_24,Sales,2024-03-23,8:40,16:13,Work From Home,Morning,Remote
+E1006,Employee_6,IT,2024-03-06,11:25,16:7,Late,Morning,Office
+E1027,Employee_27,Finance,2024-01-19,8:22,18:5,Work From Home,Evening,Office
+E1043,Employee_43,Operations,2024-02-12,9:15,16:29,Work From Home,Morning,Office
+E1014,Employee_14,IT,01-09-2024,9:2,18:16,Late,Morning,Remote
+E1003,Employee_3,Sales,02-17-2024,8:53,19:29,Work From Home,Morning,Remote
+E1021,Employee_21,Finance,13/01/2024,9:36,19:13,Work From Home,Evening,Office
+E1038,Employee_38,Finance,2024-03-23,10:51,16:54,Late,Morning,Office
+E1028,Employee_28,Operations,2024-01-07,8:56,17:32,Work From Home,Evening,Remote
+E1019,Employee_19,Operations,2024-01-29,9:3,18:31,Late,Morning,Remote
+E1057,Employee_57,HR,2024-02-08,10:50,17:52,Work From Home,Evening,Remote
+E1038,Employee_38,HR,02/02/2024,9:33,16:16,Work From Home,Morning,Remote
+E1043,Employee_43,HR,20/03/2024,,,Absent,Evening,Office
+E1054,Employee_54,IT,2024-02-15,11:8,20:32,Present,Morning,Office
+E1022,Employee_22,IT,2024-02-02,10:51,18:0,Late,Evening,Office
+E1024,Employee_24,HR,17/02/2024,11:6,17:2,Late,Evening,Remote
+E1025,Employee_25,HR,2024-01-08,,,Absent,Evening,Remote
+E1011,Employee_11,HR,01-05-2024,9:46,17:16,Present,Morning,Office
+E1000,Employee_0,Sales,01/01/2024,11:14,19:22,Late,Evening,Office
+E1047,Employee_47,Finance,2024-02-24,10:22,18:58,Present,Evening,Remote
+E1009,Employee_9,Finance,01-03-2024,,,Absent,Evening,Remote
+E1007,Employee_7,Finance,01-07-2024,,,Absent,Morning,Remote
+E1014,Employee_14,Sales,2024-02-26,11:30,19:0,Present,Evening,Remote
+E1022,Employee_22,Finance,2024-02-20,10:32,19:13,Late,Evening,Remote
+E1029,Employee_29,Operations,02-21-2024,10:20,20:33,Present,Evening,Office
+E1030,Employee_30,IT,20/02/2024,10:36,19:45,Work From Home,Evening,Office
+E1035,Employee_35,Sales,2024-03-01,11:51,16:49,Work From Home,Morning,Remote
+E1049,Employee_49,Operations,2024-02-23,8:50,16:12,Work From Home,Morning,Office
+E1023,Employee_23,Operations,2024-01-20,,,Absent,Evening,Office
+E1059,Employee_59,HR,07/01/2024,11:55,20:18,present,Evening,Office
+E1027,Employee_27,Operations,12/03/2024,8:13,16:27,Work From Home,Evening,Remote
+E1058,Employee_58,Operations,2024-02-12,8:35,16:53,present,Evening,Remote
+E1020,Employee_20,IT,2024-03-08,11:33,18:30,,Evening,Office
+E1001,Employee_1,Operations,2024-03-02,,,Absent,Evening,Remote
+E1038,Employee_38,Finance,28/02/2024,8:25,16:18,Work From Home,Morning,Remote
+E1051,Employee_51,Sales,2024-01-25,9:7,20:48,present,Morning,Remote
+E1008,Employee_8,Sales,2024-03-12,,,Absent,Morning,Office
+E1031,Employee_31,Sales,2024-03-12,10:52,18:35,Late,Evening,Remote
+E1004,Employee_4,Operations,2024-01-08,9:23,20:32,Present,Evening,Remote
+E1031,Employee_31,IT,2024-02-20,9:37,18:5,Work From Home,Evening,Remote
+E1033,Employee_33,HR  ,03-19-2024,8:44,17:36,Late,Morning,Remote
+E1051,Employee_51,IT,2024-01-27,,,Absent,Evening,Office
+E1017,Employee_17,Finance,2024-01-09,11:28,18:32,Present,Evening,Office
+E1003,Employee_3,Sales,2024-02-07,10:41,16:49,,Evening,Office
+E1057,Employee_57,Operations,2024-03-17,9:8,19:20,Late,Morning,Remote
+E1037,Employee_37,Finance,2024-01-13,,,Absent,Morning,Remote
+E1053,Employee_53,Operations,2024-03-15,11:14,18:13,Late,Morning,Office
+E1053,Employee_53,IT,24/01/2024,11:41,18:36,Present,Morning,Office
+E1034,Employee_34,Operations,2024-02-12,8:26,18:12,Present,Morning,Remote
+E1021,Employee_21,Sales,02-24-2024,11:32,20:47,Present,Evening,Remote
+E1002,Employee_2,Sales,2024-03-20,9:0,19:48,Work From Home,Morning,Office
+E1044,Employee_44,IT,01-09-2024,,,Absent,Evening,Office
+E1019,Employee_19,Sales,02/02/2024,11:37,17:14,Present,Morning,Remote
+E1041,Employee_41,Sales,2024-02-02,8:59,20:38,Work From Home,Morning,Remote
+E1029,Employee_29,HR,30/01/2024,11:21,20:53,Work From Home,Evening,Office
+E1004,Employee_4,Finance,2024-02-11,,,Absent,Morning,Office
+E1018,Employee_18,Sales,02-04-2024,10:50,18:12,Late,Evening,Office
+E1055,Employee_55,Finance,01-26-2024,,,Absent,Evening,Remote
+E1038,Employee_38,Sales,03-16-2024,8:10,19:51,Late,Morning,Office
+E1033,Employee_33,Finance,07/03/2024,9:28,18:34,Late,Evening,Remote
+E1054,Employee_54,IT,02-17-2024,11:48,16:37,Late,Evening,Office
+E1049,Employee_49,Sales,04/01/2024,,,Absent,Evening,Office
+E1003,Employee_3,Sales,03-08-2024,,,Absent,Evening,Remote
+E1020,Employee_20,Sales,01-29-2024,,,Absent,Morning,Office
+E1010,Employee_10,IT,03-09-2024,11:6,20:14,Work From Home,Evening,Remote
+E1012,Employee_12,Finance,02-04-2024,9:8,20:28,Work From Home,Morning,Office
+E1019,Employee_19,Sales,01-23-2024,11:26,16:49,Late,Morning,Office
+E1033,Employee_33,Operations  ,10/03/2024,,,Absent,Evening,Remote
+E1058,Employee_58,IT,02-29-2024,11:9,18:11,Late,Evening,Remote
+E1018,Employee_18,IT,01-08-2024,9:40,20:58,Present,Evening,Office
+E1007,Employee_7,IT,25/01/2024,9:59,20:36,Late,Morning,Office
+E1021,Employee_21,Finance,29/01/2024,,,Absent,Evening,Office
+E1040,Employee_40,Finance,2024-03-07,11:1,16:40,late,Evening,Office
+E1003,Employee_3,Sales,25/02/2024,,,Absent,Evening,Office
+E1010,Employee_10,Operations,28/03/2024,9:0,17:7,Late,Morning,Remote
+E1023,Employee_23,Operations,2024-01-01,9:22,16:11,,Evening,Remote
+E1046,Employee_46,IT  ,23/02/2024,8:1,19:53,Late,Evening,Office
+E1046,Employee_46,Finance,03-09-2024,10:25,16:28,Late,Evening,Office
+E1026,Employee_26,HR,14/02/2024,9:38,18:59,Late,Morning,Office
+E1051,Employee_51,HR,2024-01-16,,,Absent,Evening,Office
+E1010,Employee_10,IT,01-21-2024,11:14,17:31,,Morning,Remote
+E1018,Employee_18,IT,13/01/2024,,,Absent,Evening,Office
+E1026,Employee_26,Operations,17/02/2024,11:50,19:28,Late,Evening,Office
+E1015,Employee_15,Operations,08/02/2024,11:16,17:24,Work From Home,Morning,Office
+E1052,Employee_52,Finance  ,02-01-2024,9:55,20:30,Work From Home,Morning,Office
+E1031,Employee_31,HR,2024-02-03,,,Absent,Morning,Remote
+E1049,Employee_49,IT,18/02/2024,11:33,17:33,Late,Evening,Office
+E1034,Employee_34,Sales,02-22-2024,8:5,16:58,Late,Evening,Office
+E1012,Employee_12,HR,19/01/2024,10:52,17:24,Late,Evening,Remote
+E1007,Employee_7,HR,2024-02-29,10:38,18:35,Present,Evening,Office
+E1020,Employee_20,Finance,01-28-2024,10:51,17:13,work from home,Evening,Office
+E1036,Employee_36,Sales,2024-01-16,11:53,16:9,Present,Evening,Remote
+E1012,Employee_12,IT,2024-01-16,,,Absent,Evening,Office
+E1015,Employee_15,Sales,2024-02-10,8:50,19:39,Late,Evening,Remote
+E1037,Employee_37,IT,02-17-2024,8:37,20:12,Late,Evening,Remote
+E1029,Employee_29,Operations,05/03/2024,8:59,20:12,Late,Evening,Remote
+E1015,Employee_15,Operations,25/01/2024,8:31,20:36,Work From Home,Evening,Remote
+E1015,Employee_15,IT,01-08-2024,,,Absent,Morning,Remote
+E1004,Employee_4,Finance,01-24-2024,11:13,17:38,Present,Morning,Office
+E1053,Employee_53,Operations,11/03/2024,11:13,18:11,Work From Home,Morning,Remote
+E1059,Employee_59,Finance,2024-01-06,,,Absent,Morning,Remote
+E1024,Employee_24,Sales,2024-01-27,8:10,16:12,,Evening,Remote
+E1037,Employee_37,Sales,2024-01-23,8:28,20:0,Present,Morning,Remote
+E1040,Employee_40,Finance,01-12-2024,,,Absent,Evening,Remote
+E1035,Employee_35,Finance,02-19-2024,8:50,17:44,Work From Home,Evening,Remote
+E1043,Employee_43,IT,01-10-2024,10:36,19:1,Work From Home,Evening,Office
+E1024,Employee_24,IT,2024-03-28,9:43,19:2,Work From Home,Morning,Office
+E1050,Employee_50,IT,01-17-2024,9:9,19:33,Work From Home,Morning,Remote
+E1052,Employee_52,HR,2024-03-17,9:40,17:8,Late,Morning,Office
+E1030,Employee_30,IT,02-14-2024,,,Absent,Morning,Office
+E1039,Employee_39,Operations,01-31-2024,8:32,19:52,Late,Evening,Remote
+E1021,Employee_21,Operations,03-22-2024,,,Absent,Morning,Remote
+E1038,Employee_38,Finance,03-09-2024,11:39,17:33,Work From Home,Morning,Remote
+E1011,Employee_11,IT,02-12-2024,,,,Morning,Office
+E1038,Employee_38,Finance,03-26-2024,10:36,17:20,Present,Morning,Remote
+E1026,Employee_26,Operations,2024-03-27,11:41,18:53,Work From Home,Morning,Remote
+E1054,Employee_54,Finance,08/03/2024,11:35,16:12,Late,Morning,Remote
+E1020,Employee_20,Sales,25/03/2024,11:44,20:58,Present,Morning,Office
+E1008,Employee_8,Operations,07/02/2024,11:2,16:15,Present,Morning,Remote
+E1043,Employee_43,Sales,03-18-2024,9:54,17:0,Late,Morning,Remote
+E1005,Employee_5,IT,2024-02-20,11:12,16:15,Present,Evening,Remote
+E1036,Employee_36,IT,18/01/2024,11:42,17:34,Late,Morning,Office
+E1010,Employee_10,Finance,09/03/2024,8:19,20:59,Late,Morning,Remote
+E1052,Employee_52,Sales  ,2024-03-18,8:22,17:38,Present,Morning,Office
+E1052,Employee_52,IT,02-08-2024,8:5,18:1,Work From Home,Evening,Remote
+E1049,Employee_49,Operations,03-10-2024,9:33,19:19,Present,Evening,Office
+E1035,Employee_35,Finance,2024-03-05,,,Absent,Evening,Remote
+E1040,Employee_40,Operations,2024-02-28,10:37,16:48,Late,Evening,Office
+E1013,Employee_13,Sales,01-24-2024,11:1,20:45,Late,Evening,Office
+E1043,Employee_43,IT,2024-01-14,8:37,16:38,Work From Home,Morning,Office
+E1046,Employee_46,Operations,29/02/2024,9:0,16:48,Late,Morning,Remote
+E1025,Employee_25,Sales,01-27-2024,9:34,18:35,Late,Morning,Office
+E1021,Employee_21,Operations,2024-03-26,,,Absent,Evening,Office
+E1048,Employee_48,IT,03-15-2024,,,Absent,Evening,Remote
+E1022,Employee_22,Finance,2024-01-01,,,Absent,Evening,Office
+E1041,Employee_41,Finance,2024-03-28,8:57,16:48,Late,Evening,Remote
+E1016,Employee_16,Sales,03-09-2024,,,Absent,Evening,Remote
+E1003,Employee_3,Finance  ,29/03/2024,11:10,20:28,work from home,Evening,Office
+E1019,Employee_19,IT  ,2024-03-28,8:22,17:5,Work From Home,Evening,Office
+E1031,Employee_31,Finance,2024-01-31,,,Absent,Evening,Remote
+E1015,Employee_15,Sales,08/01/2024,8:37,17:15,Present,Evening,Office
+E1011,Employee_11,Sales,03-30-2024,,,Absent,Evening,Office
+E1033,Employee_33,Finance,2024-03-07,9:13,18:27,Present,Evening,Office
+E1047,Employee_47,Finance,03-01-2024,8:6,17:28,Work From Home,Evening,Office
+E1040,Employee_40,IT,01-09-2024,9:12,20:55,Present,Morning,Remote
+E1017,Employee_17,Sales,03-08-2024,9:37,19:26,Late,Evening,Remote
+E1037,Employee_37,IT,03-01-2024,9:46,17:2,Present,Evening,Remote
+E1013,Employee_13,Operations,03-20-2024,9:17,16:30,Late,Evening,Remote
+E1011,Employee_11,Operations,03-09-2024,,,Absent,Morning,Remote
+E1043,Employee_43,IT,02-01-2024,11:21,18:43,Late,Evening,Office
+E1040,Employee_40,HR,11/03/2024,8:57,17:40,Work From Home,Evening,Remote
+E1028,Employee_28,Finance,2024-02-28,,,Absent,Morning,Remote
+E1018,Employee_18,HR,2024-03-11,10:1,20:38,Late,Evening,Remote
+E1010,Employee_10,Finance,20/03/2024,,,Absent,Evening,Remote
+E1036,Employee_36,Sales,2024-03-01,11:50,18:24,Present,Morning,Remote
+E1000,Employee_0,IT  ,01-05-2024,8:11,20:13,late,Morning,Office
+E1030,Employee_30,Sales,2024-02-23,,,Absent,Evening,Remote
+E1031,Employee_31,Sales,2024-01-20,,,Absent,Morning,Remote
+E1018,Employee_18,Finance,05/03/2024,9:55,16:29,Late,Morning,Office
+E1038,Employee_38,Finance,26/03/2024,10:11,18:13,Work From Home,Morning,Office
+E1015,Employee_15,HR,08/03/2024,9:37,17:25,Work From Home,Morning,Remote
+E1005,Employee_5,Operations,2024-02-03,8:59,20:22,Late,Morning,Office
+E1008,Employee_8,Sales,03-27-2024,10:30,19:41,Present,Evening,Remote
+E1038,Employee_38,HR,02-09-2024,11:2,18:13,Work From Home,Morning,Office
+E1002,Employee_2,Operations,2024-03-17,10:14,19:59,Present,Evening,Remote
+E1003,Employee_3,HR,02-11-2024,10:54,19:30,Present,Morning,Office
+E1042,Employee_42,HR,23/01/2024,9:6,16:42,Present,Evening,Office
+E1020,Employee_20,Finance,21/03/2024,9:41,19:54,Late,Evening,Office
+E1055,Employee_55,Sales,04/02/2024,9:37,17:14,present,Evening,Office
+E1027,Employee_27,IT,15/01/2024,11:45,16:19,Work From Home,Evening,Office
+E1055,Employee_55,HR,02-05-2024,10:12,20:22,Late,Evening,Remote
+E1003,Employee_3,Operations,2024-03-24,11:48,16:43,Work From Home,Evening,Remote
+E1057,Employee_57,HR,01-22-2024,9:50,18:25,Work From Home,Evening,Remote
+E1046,Employee_46,Finance,01-19-2024,10:40,19:27,Present,Morning,Office
+E1054,Employee_54,HR,03/03/2024,11:27,18:54,,Evening,Office
+E1019,Employee_19,HR,2024-02-13,11:33,19:36,Late,Evening,Remote
+E1043,Employee_43,IT,02/01/2024,10:48,20:28,Present,Morning,Remote
+E1032,Employee_32,Finance,23/02/2024,,,Absent,Morning,Office
+E1038,Employee_38,Sales,2024-01-07,10:34,19:1,Late,Morning,Office
+E1041,Employee_41,HR,2024-01-21,8:2,16:12,Present,Evening,Office
+E1008,Employee_8,IT,2024-03-21,,,Absent,Morning,Remote
+E1012,Employee_12,HR,22/01/2024,10:57,16:35,Work From Home,Morning,Office
+E1000,Employee_0,HR,02-05-2024,8:40,19:18,Work From Home,Morning,Remote
+E1006,Employee_6,Sales,01/03/2024,11:27,20:5,Late,Evening,Remote
+E1040,Employee_40,Sales,16/02/2024,11:57,16:27,Present,Morning,Remote
+E1019,Employee_19,Sales,02-19-2024,11:23,20:26,Present,Evening,Office
+E1030,Employee_30,HR,02-10-2024,11:17,16:36,Late,Evening,Remote
+E1002,Employee_2,Operations,19/03/2024,,,Absent,Evening,Office
+E1035,Employee_35,IT  ,15/03/2024,11:37,20:10,Work From Home,Morning,Office
+E1057,Employee_57,Operations,02-15-2024,9:34,19:43,Present,Morning,Remote
+E1003,Employee_3,HR,03-28-2024,10:42,16:11,Work From Home,Morning,Remote
+E1041,Employee_41,Finance,2024-01-14,10:5,17:6,Work From Home,Morning,Remote
+E1053,Employee_53,Sales,01-22-2024,,,Absent,Evening,Office
+E1003,Employee_3,Operations,09/01/2024,,,Absent,Morning,Office
+E1041,Employee_41,Sales,31/01/2024,11:46,16:16,Work From Home,Evening,Office
+E1020,Employee_20,HR,03-02-2024,9:4,19:16,Late,Evening,Office
+E1047,Employee_47,Operations  ,21/02/2024,11:46,17:37,Present,Morning,Remote
+E1020,Employee_20,IT,03-23-2024,9:24,19:46,Work From Home,Evening,Office
+E1001,Employee_1,Sales,06/01/2024,9:6,16:53,Late,Evening,Remote
+E1055,Employee_55,IT,01-02-2024,8:52,16:0,Present,Morning,Remote
+E1030,Employee_30,Sales,17/02/2024,10:1,19:10,Work From Home,Evening,Remote
+E1018,Employee_18,Sales,2024-03-03,,,Absent,Evening,Office
+E1039,Employee_39,Operations  ,01-13-2024,9:41,20:41,Late,Morning,Office
+E1038,Employee_38,IT,02-20-2024,10:5,17:22,Late,Morning,Office
+E1031,Employee_31,IT,02-01-2024,,,Absent,Evening,Office
+E1003,Employee_3,Operations  ,2024-03-28,,,Absent,Morning,Remote
+E1057,Employee_57,HR  ,2024-01-30,10:4,16:10,present,Morning,Office
+E1046,Employee_46,Finance,2024-03-19,9:43,18:24,Work From Home,Evening,Office
+E1058,Employee_58,Operations,03-01-2024,11:29,17:28,Present,Morning,Office
+E1018,Employee_18,HR,2024-02-24,10:49,18:1,Present,Evening,Remote
+E1057,Employee_57,Finance,02/02/2024,9:12,16:58,Work From Home,Morning,Remote
+E1035,Employee_35,Sales,01-22-2024,9:15,17:48,Late,Morning,Office
+E1052,Employee_52,Sales  ,03-08-2024,10:55,16:5,Late,Morning,Remote
+E1047,Employee_47,Operations,2024-02-14,9:18,16:12,work from home,Evening,Office
+E1014,Employee_14,Finance,05/02/2024,9:48,20:36,Work From Home,Evening,Remote
+E1039,Employee_39,Finance,12/03/2024,11:1,18:25,Late,Morning,Office
+E1011,Employee_11,HR,18/01/2024,8:58,19:13,Present,Morning,Office
+E1003,Employee_3,Operations,10/03/2024,9:5,18:34,Late,Morning,Office
+E1003,Employee_3,Finance,2024-02-24,8:8,16:59,Work From Home,Morning,Remote
+E1036,Employee_36,Finance,17/03/2024,8:1,20:23,Present,Morning,Remote
+E1006,Employee_6,IT,2024-02-02,10:9,17:39,Present,Evening,Remote
+E1009,Employee_9,HR,01-07-2024,8:19,16:56,Present,Morning,Office
+E1008,Employee_8,Sales,2024-01-06,,,Absent,Evening,Office
+E1053,Employee_53,Sales,06/03/2024,10:12,18:42,Work From Home,Morning,Office
+E1048,Employee_48,Sales,02-24-2024,,,Absent,Evening,Remote
+E1032,Employee_32,HR,2024-02-16,,,Absent,Evening,Remote
+E1001,Employee_1,Finance,2024-03-12,8:37,18:41,Work From Home,Morning,Office
+E1028,Employee_28,Sales,2024-03-25,8:18,16:5,Late,Morning,Remote
+E1022,Employee_22,Finance,19/02/2024,,,Absent,Evening,Remote
+E1034,Employee_34,IT,29/01/2024,11:21,17:33,Late,Evening,Office
+E1009,Employee_9,IT,22/01/2024,10:49,17:14,Work From Home,Evening,Office
+E1054,Employee_54,Operations,08/03/2024,,,Absent,Morning,Office
+E1013,Employee_13,Operations,03-05-2024,9:35,19:38,Present,Morning,Remote
+E1044,Employee_44,HR,03-30-2024,,,Absent,Evening,Office
+E1058,Employee_58,Sales,25/01/2024,10:40,16:56,Work From Home,Evening,Office
+E1031,Employee_31,Operations,07/02/2024,9:48,20:5,Work From Home,Evening,Remote
+E1041,Employee_41,Operations,2024-03-29,10:38,19:3,late,Evening,Office
+E1054,Employee_54,Operations,2024-02-19,10:51,16:22,Present,Evening,Office
+E1033,Employee_33,Finance,16/02/2024,8:58,18:17,,Morning,Remote
+E1026,Employee_26,HR,07/01/2024,,,absent,Morning,Office
+E1040,Employee_40,Sales,02-23-2024,10:47,17:11,Work From Home,Evening,Office
+E1017,Employee_17,Sales,24/03/2024,10:10,18:4,Late,Evening,Remote
+E1041,Employee_41,HR,02/02/2024,9:57,16:46,Work From Home,Evening,Remote
+E1030,Employee_30,IT,02/01/2024,8:53,19:18,Work From Home,Morning,Office
+E1053,Employee_53,Sales,15/01/2024,9:24,17:26,Present,Morning,Remote
+E1024,Employee_24,IT,24/01/2024,,,Absent,Morning,Remote
+E1059,Employee_59,Operations,2024-03-11,,,Absent,Evening,Office
+E1039,Employee_39,HR,19/03/2024,9:30,16:29,Work From Home,Morning,Remote
+E1037,Employee_37,HR,28/01/2024,8:9,18:39,Late,Morning,Remote
+E1021,Employee_21,Operations,03-17-2024,9:12,17:32,Present,Evening,Remote
+E1032,Employee_32,HR,03-26-2024,8:9,20:13,Work From Home,Morning,Office
+E1058,Employee_58,Finance,2024-03-26,11:23,17:56,Work From Home,Evening,Remote
+E1053,Employee_53,Sales  ,01-16-2024,9:13,19:10,Work From Home,Morning,Office
+E1047,Employee_47,HR,26/03/2024,9:30,19:59,Work From Home,Morning,Remote
+E1026,Employee_26,Operations,05/03/2024,9:40,16:25,Late,Evening,Office
+E1003,Employee_3,HR,2024-01-18,8:54,16:27,present,Morning,Remote
+E1037,Employee_37,HR,03-30-2024,8:16,19:16,Late,Evening,Remote
+E1059,Employee_59,IT,03-25-2024,10:17,19:37,work from home,Evening,Office
+E1021,Employee_21,Operations,01/03/2024,11:33,16:48,Present,Morning,Office
+E1055,Employee_55,Operations,02-27-2024,8:1,18:26,Work From Home,Evening,Remote
+E1015,Employee_15,Sales,03-06-2024,11:9,20:29,Present,Morning,Remote
+E1020,Employee_20,Sales,2024-01-12,,,absent,Morning,Office
+E1009,Employee_9,Finance,2024-03-15,8:47,20:29,Work From Home,Morning,Remote
+E1039,Employee_39,IT,2024-01-26,10:14,18:5,Work From Home,Morning,Remote
+E1002,Employee_2,HR,02-14-2024,8:18,20:55,,Evening,Remote
+E1019,Employee_19,Finance,28/03/2024,10:18,19:47,Late,Evening,Remote
+E1055,Employee_55,Sales,01-11-2024,,,Absent,Evening,Remote
+E1042,Employee_42,IT,2024-01-31,9:44,18:24,Late,Evening,Remote
+E1058,Employee_58,IT,2024-01-05,,,Absent,Evening,Office
+E1033,Employee_33,HR,01-18-2024,,,Absent,Morning,Office
+E1056,Employee_56,Finance,12/02/2024,11:44,16:52,work from home,Evening,Office
+E1009,Employee_9,Operations,2024-02-07,9:50,17:48,Work From Home,Morning,Office
+E1013,Employee_13,HR,2024-02-11,10:13,16:40,Present,Evening,Remote
+E1014,Employee_14,Operations,2024-03-17,,,Absent,Morning,Remote
+E1058,Employee_58,Sales  ,02-14-2024,,,Absent,Morning,Office
+E1059,Employee_59,IT,2024-03-23,,,Absent,Morning,Office
+E1051,Employee_51,HR,25/02/2024,11:10,17:57,Late,Evening,Remote
+E1058,Employee_58,HR,01-24-2024,11:26,20:5,Late,Evening,Office
+E1020,Employee_20,Operations,08/02/2024,11:39,17:14,Present,Morning,Remote
+E1038,Employee_38,IT,03-16-2024,8:17,17:57,Present,Morning,Remote
+E1014,Employee_14,Sales,23/01/2024,9:23,20:39,Late,Evening,Remote
+E1013,Employee_13,Operations,03-21-2024,,,Absent,Evening,Office
+E1050,Employee_50,Sales  ,10/02/2024,,,Absent,Morning,Remote
+E1056,Employee_56,IT,01-25-2024,8:51,19:36,Work From Home,Evening,Office
+E1013,Employee_13,HR,03-17-2024,11:0,17:38,Present,Evening,Remote
+E1007,Employee_7,HR,09/01/2024,8:58,19:19,,Morning,Remote
+E1046,Employee_46,HR,2024-03-14,11:38,17:47,Late,Morning,Remote
+E1012,Employee_12,IT,03-30-2024,9:46,17:4,Work From Home,Evening,Remote
+E1002,Employee_2,IT,18/02/2024,9:29,16:49,Work From Home,Evening,Remote
+E1044,Employee_44,Sales,01-01-2024,8:53,17:4,Late,Morning,Remote
+E1039,Employee_39,Sales,2024-03-11,8:23,16:46,Work From Home,Morning,Office
+E1035,Employee_35,Sales,2024-03-28,,,Absent,Evening,Remote
+E1034,Employee_34,Sales,17/02/2024,,,Absent,Morning,Remote
+E1008,Employee_8,Operations,27/01/2024,11:1,17:24,Late,Morning,Office
+E1029,Employee_29,Sales,01-06-2024,10:36,16:10,Work From Home,Evening,Remote
+E1025,Employee_25,Sales,2024-03-20,8:48,16:20,Work From Home,Morning,Office
+E1046,Employee_46,Operations,2024-02-24,10:48,18:54,Work From Home,Evening,Office
+E1012,Employee_12,HR,01-16-2024,11:4,19:30,Present,Morning,Remote
+E1003,Employee_3,Operations,09/02/2024,8:0,16:45,Work From Home,Morning,Remote
+E1055,Employee_55,HR,2024-03-22,9:47,17:14,Work From Home,Evening,Office
+E1046,Employee_46,Finance,01-23-2024,8:35,18:11,Late,Evening,Remote
+E1026,Employee_26,Sales,2024-03-14,,,Absent,Evening,Remote
+E1006,Employee_6,Sales  ,29/03/2024,11:39,16:23,Present,Morning,Office
+E1047,Employee_47,Sales,03-03-2024,,,Absent,Morning,Remote
+E1030,Employee_30,IT,14/03/2024,,,Absent,Morning,Office
+E1024,Employee_24,Finance,2024-03-02,9:59,18:45,Present,Morning,Remote
+E1046,Employee_46,HR,03-12-2024,9:5,19:18,Present,Evening,Remote
+E1000,Employee_0,Sales,2024-02-12,11:20,17:1,Work From Home,Evening,Remote
+E1040,Employee_40,HR,27/02/2024,8:52,18:45,Late,Evening,Office
+E1035,Employee_35,IT,2024-02-19,9:54,20:37,Present,Morning,Remote
+E1037,Employee_37,Sales,15/03/2024,10:52,16:18,Work From Home,Evening,Remote
+E1051,Employee_51,IT,03-06-2024,11:56,16:54,Present,Morning,Office
+E1031,Employee_31,Operations,2024-01-02,9:52,19:45,Work From Home,Evening,Office
+E1023,Employee_23,Sales,2024-02-29,9:27,16:2,Work From Home,Evening,Office
+E1042,Employee_42,HR,11/01/2024,9:20,16:11,Late,Morning,Office
+E1035,Employee_35,HR,2024-02-23,9:30,18:34,Present,Evening,Remote
+E1028,Employee_28,Finance,02-24-2024,9:45,18:53,Work From Home,Evening,Remote
+E1011,Employee_11,Operations,01-12-2024,,,Absent,Morning,Remote
+E1009,Employee_9,Finance,2024-01-09,8:23,20:48,Work From Home,Evening,Remote
+E1023,Employee_23,Sales,02-19-2024,,,,Morning,Office
+E1053,Employee_53,Operations,2024-01-27,,,Absent,Morning,Remote
+E1037,Employee_37,Sales,03-04-2024,,,Absent,Evening,Remote
+E1034,Employee_34,Operations,2024-03-07,8:40,17:13,late,Morning,Remote
+E1022,Employee_22,IT,01-18-2024,11:20,20:40,Work From Home,Evening,Office
+E1038,Employee_38,Sales,2024-02-14,,,Absent,Morning,Remote
+E1037,Employee_37,IT,03-20-2024,9:38,20:2,Work From Home,Morning,Office
+E1022,Employee_22,Sales,2024-01-07,10:39,20:58,Late,Morning,Remote
+E1054,Employee_54,Sales,07/01/2024,8:45,20:48,Late,Morning,Remote
+E1001,Employee_1,Operations,01-05-2024,9:48,19:10,Present,Evening,Remote
+E1033,Employee_33,Sales,01-06-2024,9:3,20:40,Late,Evening,Remote
+E1020,Employee_20,Sales,21/03/2024,8:46,20:35,Present,Morning,Remote
+E1030,Employee_30,IT,2024-03-20,,,Absent,Morning,Remote
+E1015,Employee_15,IT,2024-03-19,,,Absent,Evening,Remote
+E1025,Employee_25,HR,26/02/2024,9:6,17:49,Present,Morning,Remote
+E1059,Employee_59,Finance,10/01/2024,8:17,16:33,Late,Evening,Remote
+E1012,Employee_12,Operations,18/03/2024,,,Absent,Morning,Remote
+E1023,Employee_23,IT,01-04-2024,9:57,18:30,Work From Home,Morning,Office
+E1052,Employee_52,IT,03-25-2024,,,Absent,Morning,Office
+E1021,Employee_21,IT,01/03/2024,,,Absent,Morning,Remote
+E1024,Employee_24,IT,03/03/2024,8:19,19:3,Work From Home,Morning,Office
+E1007,Employee_7,Operations,20/01/2024,,,Absent,Morning,Remote
+E1017,Employee_17,Sales,27/03/2024,11:28,20:31,Work From Home,Evening,Remote
+E1054,Employee_54,IT,05/01/2024,10:39,18:14,Present,Evening,Remote
+E1056,Employee_56,Finance,03-11-2024,10:25,19:10,Present,Evening,Office
+E1020,Employee_20,Finance,13/01/2024,,,Absent,Evening,Office
+E1036,Employee_36,Sales,21/01/2024,,,Absent,Evening,Remote
+E1028,Employee_28,Sales,2024-02-28,,,Absent,Morning,Remote
+E1007,Employee_7,Operations,2024-02-03,11:21,16:25,present,Evening,Office
+E1030,Employee_30,Finance,22/01/2024,11:47,18:36,Present,Evening,Remote
+E1026,Employee_26,Sales,2024-03-27,,,Absent,Morning,Remote
+E1058,Employee_58,Operations,01-22-2024,10:52,17:40,Work From Home,Evening,Office
+E1022,Employee_22,Operations,01-02-2024,9:53,18:38,Late,Morning,Remote
+E1030,Employee_30,IT,02-05-2024,10:12,17:29,Work From Home,Morning,Remote
+E1004,Employee_4,Finance,2024-01-01,,,Absent,Evening,Office
+E1004,Employee_4,Sales,01-11-2024,10:19,17:23,Present,Evening,Remote
+E1025,Employee_25,IT,2024-01-30,10:45,16:30,Present,Evening,Office
+E1022,Employee_22,IT,2024-03-27,9:12,19:5,present,Morning,Office
+E1050,Employee_50,Operations,29/01/2024,,,Absent,Evening,Remote
+E1043,Employee_43,HR,2024-03-05,,,Absent,Evening,Remote
+E1031,Employee_31,IT,02-04-2024,9:4,19:28,Work From Home,Evening,Office
+E1038,Employee_38,IT,15/03/2024,10:41,20:47,Late,Morning,Remote
+E1017,Employee_17,Operations,2024-01-18,8:15,17:20,Late,Evening,Remote
+E1012,Employee_12,Operations,04/03/2024,,,Absent,Evening,Remote
+E1037,Employee_37,Finance,17/02/2024,8:16,18:38,Work From Home,Evening,Office
+E1025,Employee_25,IT,03-02-2024,,,Absent,Morning,Remote
+E1027,Employee_27,IT,2024-02-06,,,Absent,Evening,Office
+E1057,Employee_57,Finance,27/01/2024,,,Absent,Evening,Office
+E1052,Employee_52,Finance,03-20-2024,,,Absent,Morning,Remote
+E1003,Employee_3,Finance,02-04-2024,10:38,16:29,Work From Home,Morning,Remote
+E1048,Employee_48,Sales,2024-03-23,8:16,20:24,Present,Morning,Remote
+E1059,Employee_59,IT,10/03/2024,9:45,17:35,Present,Evening,Remote
+E1040,Employee_40,IT,02-15-2024,11:5,17:18,Present,Evening,Office
+E1029,Employee_29,Operations,17/02/2024,9:37,20:0,Present,Morning,Office
+E1011,Employee_11,Operations,2024-01-24,11:14,17:57,Work From Home,Evening,Remote
+E1023,Employee_23,Operations,01-10-2024,11:19,17:28,Work From Home,Morning,Office
+E1055,Employee_55,IT,02/02/2024,8:47,16:6,late,Morning,Office
+E1015,Employee_15,Finance,2024-03-11,10:24,17:23,Present,Morning,Remote
+E1007,Employee_7,Finance,03-04-2024,11:3,19:39,Present,Morning,Office
+E1051,Employee_51,Sales,13/01/2024,8:11,18:34,Work From Home,Evening,Office
+E1054,Employee_54,HR  ,25/01/2024,8:5,20:23,Present,Evening,Office
+E1007,Employee_7,Operations,2024-01-21,,,Absent,Evening,Office
+E1007,Employee_7,Finance,28/02/2024,10:21,20:35,Present,Evening,Remote
+E1021,Employee_21,Finance,13/03/2024,8:37,18:15,Late,Evening,Remote
+E1030,Employee_30,Operations  ,2024-03-08,9:41,18:26,Late,Evening,Remote
+E1001,Employee_1,HR,02/02/2024,,,Absent,Morning,Office
+E1006,Employee_6,Operations,02-27-2024,,,Absent,Morning,Office
+E1013,Employee_13,Sales,2024-02-13,,,Absent,Evening,Office
+E1059,Employee_59,Sales,2024-03-25,9:57,19:26,Present,Evening,Remote
+E1047,Employee_47,Finance,03-30-2024,10:12,17:3,Late,Evening,Remote
+E1055,Employee_55,IT,2024-01-03,10:14,17:0,Late,Morning,Remote
+E1046,Employee_46,IT,01-30-2024,9:19,16:53,Late,Evening,Office
+E1029,Employee_29,HR,2024-03-18,8:58,18:48,work from home,Evening,Office
+E1037,Employee_37,Operations,16/02/2024,11:39,18:20,Present,Evening,Remote
+E1025,Employee_25,Operations,03-18-2024,11:7,20:41,Late,Morning,Remote
+E1016,Employee_16,HR,02-14-2024,,,Absent,Evening,Remote
+E1027,Employee_27,IT,14/01/2024,8:38,18:41,Present,Morning,Remote
+E1053,Employee_53,Sales,2024-01-18,11:4,16:26,Late,Morning,Remote
+E1046,Employee_46,Finance,05/01/2024,8:10,19:4,Work From Home,Evening,Remote
+E1008,Employee_8,Sales,24/02/2024,,,Absent,Morning,Office
+E1004,Employee_4,Operations,01-01-2024,11:33,19:15,Present,Evening,Remote
+E1036,Employee_36,Finance,02-27-2024,,,Absent,Evening,Office
+E1015,Employee_15,Finance,2024-03-25,8:20,18:6,Present,Morning,Remote
+E1042,Employee_42,Finance,17/03/2024,8:26,18:53,Work From Home,Evening,Office
+E1037,Employee_37,Finance,13/01/2024,,,Absent,Morning,Office
+E1044,Employee_44,HR,02-28-2024,9:49,17:5,Work From Home,Morning,Office
+E1057,Employee_57,IT,02-19-2024,,,Absent,Morning,Remote
+E1057,Employee_57,Operations,25/01/2024,,,Absent,Morning,Remote
+E1041,Employee_41,IT,01-23-2024,11:40,18:58,Present,Evening,Remote
+E1032,Employee_32,HR,2024-03-27,10:19,16:19,Present,Evening,Office
+E1009,Employee_9,Finance,2024-03-01,9:43,18:9,Work From Home,Morning,Office
+E1023,Employee_23,IT,16/02/2024,,,Absent,Evening,Remote
+E1031,Employee_31,Sales,09/01/2024,10:28,18:34,work from home,Morning,Office
+E1047,Employee_47,HR,2024-01-22,,,Absent,Morning,Remote
+E1037,Employee_37,IT  ,03-11-2024,8:48,16:51,Late,Morning,Office
+E1058,Employee_58,Sales,29/01/2024,11:58,16:28,Work From Home,Morning,Office
+E1028,Employee_28,Sales,2024-02-17,8:58,17:28,Present,Morning,Office
+E1021,Employee_21,Operations,2024-02-29,,,Absent,Evening,Office
+E1048,Employee_48,Sales,03-20-2024,,,Absent,Evening,Office
+E1057,Employee_57,Operations,07/02/2024,,,Absent,Evening,Office
+E1047,Employee_47,HR,03-25-2024,8:55,19:44,Late,Evening,Office
+E1048,Employee_48,Operations,2024-03-24,11:6,16:0,Present,Morning,Office
+E1010,Employee_10,HR,2024-03-02,9:29,19:0,Present,Morning,Remote
+E1004,Employee_4,Finance,03-29-2024,,,Absent,Morning,Office
+E1043,Employee_43,Operations,2024-01-24,8:14,17:30,Work From Home,Evening,Office
+E1044,Employee_44,Finance  ,13/02/2024,10:57,19:20,Work From Home,Evening,Remote
+E1007,Employee_7,IT,25/02/2024,,,absent,Morning,Remote
+E1041,Employee_41,Finance,22/01/2024,9:36,16:17,Work From Home,Evening,Remote
+E1017,Employee_17,HR,01-11-2024,,,Absent,Evening,Office
+E1020,Employee_20,Operations,01-28-2024,9:1,20:4,Work From Home,Evening,Office
+E1054,Employee_54,HR,27/02/2024,,,Absent,Morning,Office
+E1000,Employee_0,Sales,2024-02-09,11:51,17:53,Late,Evening,Remote
+E1056,Employee_56,HR,2024-02-05,11:43,20:33,Work From Home,Evening,Office
+E1049,Employee_49,Finance,03-09-2024,11:6,19:33,Present,Evening,Remote
+E1049,Employee_49,IT,2024-03-02,8:33,19:21,Present,Morning,Office
+E1013,Employee_13,IT,01-30-2024,10:49,19:54,Work From Home,Evening,Office
+E1029,Employee_29,Finance  ,24/02/2024,8:48,20:55,Work From Home,Morning,Office
+E1048,Employee_48,HR,09/02/2024,,,Absent,Morning,Office
+E1005,Employee_5,HR,03/03/2024,11:29,20:49,Present,Morning,Office
+E1015,Employee_15,IT,03-30-2024,,,Absent,Morning,Remote
+E1034,Employee_34,Finance,24/03/2024,11:35,17:29,Late,Evening,Remote
+E1036,Employee_36,IT,2024-02-11,9:22,18:11,Work From Home,Evening,Office
+E1041,Employee_41,Sales,06/02/2024,10:24,19:29,Work From Home,Morning,Remote
+E1014,Employee_14,IT,2024-02-02,10:44,19:57,Late,Morning,Remote
+E1009,Employee_9,Finance,04/03/2024,,,Absent,Evening,Remote
+E1052,Employee_52,IT,2024-03-18,10:39,17:44,Present,Morning,Remote
+E1047,Employee_47,IT,02-18-2024,9:34,17:31,Late,Morning,Office
+E1019,Employee_19,IT,02-13-2024,9:22,17:9,Late,Morning,Office
+E1014,Employee_14,HR,01-17-2024,,,Absent,Evening,Remote
+E1059,Employee_59,HR,26/01/2024,8:46,17:23,Work From Home,Evening,Remote
+E1049,Employee_49,Sales,03-28-2024,10:16,18:38,,Evening,Remote
+E1008,Employee_8,Finance,27/03/2024,10:30,16:25,Late,Morning,Office
+E1049,Employee_49,Operations,25/01/2024,,,Absent,Morning,Remote
+E1047,Employee_47,Finance,25/01/2024,9:2,17:55,Work From Home,Morning,Remote
+E1010,Employee_10,Finance,03-05-2024,9:42,20:47,Work From Home,Morning,Remote
+E1027,Employee_27,Sales,02-18-2024,11:40,19:44,Late,Morning,Remote
+E1008,Employee_8,Finance,01-15-2024,8:19,20:52,Present,Evening,Remote
+E1023,Employee_23,Sales,2024-03-06,10:13,20:34,Work From Home,Morning,Remote
+E1011,Employee_11,Sales,02-17-2024,10:19,20:21,Late,Morning,Office
+E1038,Employee_38,Sales,19/03/2024,8:39,18:33,Present,Evening,Office
+E1036,Employee_36,Finance,03-15-2024,10:26,19:19,Late,Evening,Office
+E1037,Employee_37,Sales,01-04-2024,9:19,19:45,Late,Morning,Office
+E1012,Employee_12,Operations,11/01/2024,10:3,20:35,Late,Morning,Office
+E1012,Employee_12,HR,2024-02-20,11:40,18:31,Work From Home,Morning,Office
+E1027,Employee_27,Operations,02-01-2024,11:39,20:2,Late,Morning,Office
+E1028,Employee_28,Finance,2024-02-14,,,Absent,Evening,Office
+E1011,Employee_11,Finance,03-27-2024,9:56,17:37,Late,Morning,Remote
+E1004,Employee_4,Sales,02-20-2024,,,Absent,Morning,Office
+E1018,Employee_18,IT,03-07-2024,,,Absent,Evening,Remote
+E1042,Employee_42,HR,2024-02-10,,,Absent,Morning,Remote
+E1040,Employee_40,HR,03/02/2024,11:13,17:26,Work From Home,Morning,Office
+E1020,Employee_20,Finance,09/01/2024,8:41,20:1,Work From Home,Morning,Office
+E1034,Employee_34,IT,2024-01-09,8:35,19:27,Late,Evening,Remote
+E1050,Employee_50,Finance,2024-01-06,9:17,17:21,Work From Home,Morning,Office
+E1037,Employee_37,HR,2024-03-18,9:55,18:44,Late,Morning,Remote
+E1039,Employee_39,HR,02/03/2024,,,Absent,Evening,Office
+E1008,Employee_8,Finance,01-15-2024,11:17,16:30,Late,Morning,Remote
+E1000,Employee_0,Operations,01/03/2024,8:45,20:47,Present,Evening,Office
+E1000,Employee_0,HR,02-02-2024,10:0,20:21,,Evening,Remote
+E1052,Employee_52,IT,2024-03-03,,,Absent,Morning,Office
+E1002,Employee_2,Finance,23/02/2024,10:38,17:52,Work From Home,Morning,Office
+E1044,Employee_44,Finance,01/01/2024,9:47,19:28,Present,Morning,Office
+E1041,Employee_41,HR,03-18-2024,9:14,20:21,Work From Home,Morning,Remote
+E1047,Employee_47,HR,10/02/2024,11:53,16:15,Present,Morning,Office
+E1041,Employee_41,Finance,02/01/2024,11:42,16:10,Late,Evening,Remote
+E1059,Employee_59,Operations,2024-03-29,,,Absent,Morning,Office
+E1051,Employee_51,Sales,2024-01-20,10:1,17:2,Work From Home,Morning,Remote
+E1025,Employee_25,Operations,21/02/2024,11:46,17:32,Present,Evening,Remote
+E1035,Employee_35,Operations,2024-03-24,8:15,19:28,Present,Morning,Office
+E1018,Employee_18,Sales,03-20-2024,10:25,18:35,Work From Home,Morning,Office
+E1052,Employee_52,Operations,03-23-2024,,,Absent,Morning,Remote
+E1048,Employee_48,Sales,03-19-2024,9:12,20:28,Work From Home,Evening,Office
+E1046,Employee_46,Operations,2024-03-01,11:52,19:51,Late,Morning,Remote
+E1033,Employee_33,HR,06/02/2024,8:3,17:49,Late,Evening,Office
+E1036,Employee_36,HR,2024-03-11,11:3,19:50,Late,Morning,Office
+E1054,Employee_54,IT,02-22-2024,11:11,18:17,Present,Morning,Remote
+E1006,Employee_6,Finance,02-19-2024,11:19,17:46,Work From Home,Morning,Office
+E1027,Employee_27,Finance,01-04-2024,,,Absent,Morning,Office
+E1021,Employee_21,Operations,01-31-2024,10:57,19:28,Present,Evening,Remote
+E1039,Employee_39,HR,2024-03-19,9:38,17:7,present,Morning,Office
+E1000,Employee_0,Finance,03-09-2024,8:6,18:34,Work From Home,Evening,Office
+E1058,Employee_58,HR,03-30-2024,,,Absent,Evening,Office
+E1044,Employee_44,Finance,2024-03-18,11:22,16:25,Present,Evening,Office
+E1024,Employee_24,Operations,2024-03-20,9:59,20:45,Present,Evening,Remote
+E1048,Employee_48,Operations,27/02/2024,,,Absent,Morning,Office
+E1002,Employee_2,IT,03-14-2024,8:14,18:58,Late,Morning,Remote
+E1050,Employee_50,Finance,2024-01-16,9:1,20:47,present,Morning,Remote
+E1001,Employee_1,IT,02-19-2024,8:8,19:16,Work From Home,Evening,Office
+E1016,Employee_16,Sales,24/03/2024,9:49,17:10,Work From Home,Evening,Office
+E1021,Employee_21,HR,20/03/2024,10:56,18:23,Work From Home,Morning,Remote
+E1003,Employee_3,Sales,26/02/2024,8:31,20:18,Work From Home,Morning,Remote
+E1043,Employee_43,Operations,28/01/2024,11:13,18:1,Late,Morning,Office
+E1050,Employee_50,HR,03-01-2024,8:9,19:38,Present,Evening,Office
+E1005,Employee_5,IT,02-28-2024,11:52,16:13,Late,Morning,Office
+E1050,Employee_50,IT,2024-02-14,8:46,20:3,Late,Evening,Office
+E1056,Employee_56,Finance,02-15-2024,,,Absent,Evening,Office
+E1031,Employee_31,IT,29/01/2024,11:47,20:33,Present,Evening,Office
+E1008,Employee_8,Finance,09/02/2024,,,Absent,Evening,Office
+E1059,Employee_59,IT,2024-01-23,8:19,20:18,Work From Home,Evening,Remote
+E1053,Employee_53,Operations,20/02/2024,10:3,16:56,Present,Morning,Office
+E1026,Employee_26,Finance,23/01/2024,8:44,17:49,Late,Morning,Office
+E1031,Employee_31,IT,03-14-2024,8:36,18:58,Work From Home,Evening,Remote
+E1004,Employee_4,Finance,03-03-2024,9:0,20:15,Present,Morning,Office
+E1037,Employee_37,HR,16/01/2024,9:3,17:13,Work From Home,Evening,Remote
+E1040,Employee_40,Sales,2024-02-03,,,Absent,Morning,Remote
+E1001,Employee_1,Finance,2024-01-01,9:8,16:47,Work From Home,Evening,Remote
+E1026,Employee_26,HR,02-14-2024,,,Absent,Evening,Office
+E1052,Employee_52,IT,11/03/2024,11:9,20:2,,Morning,Remote
+E1030,Employee_30,IT,19/03/2024,9:38,19:21,Present,Morning,Office
+E1051,Employee_51,Operations,20/03/2024,9:11,16:27,Late,Morning,Remote
+E1026,Employee_26,HR,19/03/2024,9:31,16:36,Work From Home,Morning,Office
+E1024,Employee_24,HR,19/02/2024,8:50,17:12,Present,Morning,Office
+E1014,Employee_14,Operations,18/01/2024,11:36,16:34,Work From Home,Evening,Office
+E1017,Employee_17,HR,2024-03-02,9:36,17:20,Work From Home,Morning,Remote
+E1018,Employee_18,IT  ,03-23-2024,9:29,19:56,Late,Morning,Remote
+E1024,Employee_24,Operations,03-01-2024,,,Absent,Evening,Office
+E1007,Employee_7,Operations,2024-03-26,11:13,19:46,Late,Evening,Remote
+E1019,Employee_19,Sales,2024-03-01,10:1,17:8,,Evening,Office
+E1054,Employee_54,Operations,14/02/2024,10:30,17:19,Present,Evening,Office
+E1002,Employee_2,Finance,2024-02-24,10:51,20:42,Work From Home,Morning,Office
+E1007,Employee_7,Operations,2024-02-24,,,Absent,Morning,Office
+E1025,Employee_25,Operations,02-11-2024,8:3,19:46,Late,Morning,Remote
+E1044,Employee_44,Finance,15/03/2024,8:10,16:53,Late,Evening,Remote
+E1027,Employee_27,IT,01-15-2024,10:5,18:14,Present,Evening,Office
+E1035,Employee_35,Sales,01-19-2024,10:8,19:42,Present,Evening,Remote
+E1015,Employee_15,Sales,2024-02-22,9:9,18:46,Present,Morning,Remote
+E1044,Employee_44,IT,2024-03-17,9:8,20:15,Late,Evening,Remote
+E1007,Employee_7,Operations,2024-02-08,11:52,20:23,Present,Evening,Remote
+E1048,Employee_48,Sales  ,04/02/2024,9:27,16:55,Present,Evening,Remote
+E1039,Employee_39,Sales,02-04-2024,,,Absent,Evening,Remote
+E1031,Employee_31,HR,02/02/2024,,,Absent,Evening,Remote
+E1039,Employee_39,HR,10/03/2024,11:42,20:32,Present,Evening,Remote
+E1024,Employee_24,IT,10/03/2024,,,Absent,Morning,Remote
+E1005,Employee_5,Operations,03/01/2024,,,Absent,Morning,Remote
+E1009,Employee_9,HR,02-22-2024,9:55,16:35,Late,Evening,Office
+E1052,Employee_52,Sales,2024-03-10,,,Absent,Morning,Remote
+E1012,Employee_12,Operations,2024-03-06,,,Absent,Morning,Remote
+E1040,Employee_40,Sales,14/01/2024,9:2,19:40,,Evening,Remote
+E1014,Employee_14,HR,01-09-2024,8:14,17:34,Late,Evening,Remote
+E1042,Employee_42,Operations,2024-03-13,,,Absent,Evening,Remote
+E1029,Employee_29,HR,03-28-2024,10:27,19:48,Present,Morning,Remote
+E1020,Employee_20,Operations,2024-02-17,10:22,17:33,Present,Morning,Office
+E1013,Employee_13,Finance,03-28-2024,9:40,19:32,Work From Home,Evening,Office
+E1044,Employee_44,HR,2024-01-24,9:59,20:37,Late,Evening,Office
+E1021,Employee_21,Operations,2024-02-16,9:51,16:54,Late,Morning,Office
+E1022,Employee_22,HR,13/01/2024,11:41,17:17,,Evening,Remote
+E1021,Employee_21,Finance,23/01/2024,11:45,19:38,Late,Evening,Remote
+E1054,Employee_54,Finance,2024-03-24,9:6,18:22,Work From Home,Evening,Office
+E1036,Employee_36,Sales,03-15-2024,11:28,16:16,Late,Morning,Office
+E1009,Employee_9,HR,19/02/2024,,,Absent,Morning,Office
+E1025,Employee_25,Sales  ,2024-02-24,,,Absent,Morning,Remote
+E1023,Employee_23,IT,2024-03-08,,,Absent,Evening,Office
+E1058,Employee_58,Operations,2024-01-17,,,Absent,Evening,Remote
+E1057,Employee_57,Finance,2024-03-10,,,Absent,Morning,Office
+E1023,Employee_23,Finance,03-08-2024,,,Absent,Morning,Office
+E1007,Employee_7,Operations,02-07-2024,10:36,19:29,Work From Home,Evening,Office
+E1046,Employee_46,HR,02-05-2024,8:34,20:48,Work From Home,Morning,Remote
+E1010,Employee_10,Operations,03-27-2024,9:12,19:41,present,Morning,Office
+E1025,Employee_25,Sales  ,01-15-2024,10:54,17:46,Work From Home,Morning,Remote
+E1003,Employee_3,Operations,01-22-2024,,,Absent,Morning,Remote
+E1053,Employee_53,HR,02/02/2024,8:45,18:56,Work From Home,Evening,Office
+E1052,Employee_52,HR  ,03-18-2024,,,Absent,Morning,Office
+E1014,Employee_14,Finance,27/02/2024,9:12,16:12,Present,Evening,Remote
+E1028,Employee_28,Operations,01-03-2024,10:20,16:23,Work From Home,Morning,Office
+E1020,Employee_20,Operations,08/01/2024,,,Absent,Evening,Office
+E1045,Employee_45,HR,01-05-2024,,,Absent,Morning,Office
+E1017,Employee_17,HR,02-08-2024,9:46,18:17,Late,Evening,Office
+E1020,Employee_20,Sales,01-19-2024,11:57,19:36,Work From Home,Evening,Remote
+E1035,Employee_35,Sales,2024-03-02,,,Absent,Morning,Office
+E1032,Employee_32,Sales,2024-02-27,10:46,16:36,Work From Home,Morning,Remote
+E1023,Employee_23,IT,2024-02-24,8:44,17:22,work from home,Morning,Office
+E1046,Employee_46,Finance,2024-03-22,,,Absent,Evening,Remote
+E1046,Employee_46,Operations,02-21-2024,8:26,18:30,Work From Home,Morning,Office
+E1056,Employee_56,Sales,12/03/2024,11:15,16:20,Late,Morning,Remote
+E1044,Employee_44,HR,08/01/2024,,,Absent,Evening,Remote
+E1006,Employee_6,Finance,01-29-2024,9:54,19:53,Present,Evening,Remote
+E1027,Employee_27,Finance,03-26-2024,8:9,17:27,Present,Morning,Remote
+E1025,Employee_25,HR,23/03/2024,10:23,18:50,Late,Evening,Remote
+E1025,Employee_25,HR,03-02-2024,8:25,20:27,Work From Home,Morning,Office
+E1026,Employee_26,HR,07/01/2024,11:14,19:23,Work From Home,Evening,Remote
+E1039,Employee_39,HR,02-10-2024,8:29,20:11,Present,Morning,Remote
+E1016,Employee_16,Finance,04/01/2024,8:17,19:24,Late,Evening,Office
+E1023,Employee_23,HR,02-14-2024,9:43,17:45,Work From Home,Evening,Office
+E1025,Employee_25,Operations  ,02-05-2024,,,Absent,Morning,Remote
+E1020,Employee_20,Finance,01-03-2024,,,Absent,Evening,Office
+E1001,Employee_1,HR,27/02/2024,10:39,18:33,Work From Home,Evening,Remote
+E1051,Employee_51,IT,29/03/2024,,,Absent,Morning,Office
+E1002,Employee_2,HR,2024-03-28,9:10,18:38,Work From Home,Morning,Remote
+E1038,Employee_38,Sales,01-18-2024,8:5,20:57,Present,Evening,Office
+E1005,Employee_5,Sales,01-09-2024,9:20,17:7,Present,Morning,Office
+E1038,Employee_38,IT,2024-01-31,8:20,18:20,Present,Evening,Remote
+E1008,Employee_8,HR,11/01/2024,8:10,19:22,Present,Evening,Office
+E1050,Employee_50,Operations,25/03/2024,10:17,20:28,Late,Morning,Office
+E1018,Employee_18,HR,02-07-2024,11:24,20:35,Work From Home,Morning,Remote
+E1031,Employee_31,Operations,26/01/2024,10:18,20:19,Late,Morning,Office
+E1022,Employee_22,Sales,2024-03-04,8:3,20:43,Work From Home,Morning,Remote
+E1041,Employee_41,Sales,01-11-2024,8:44,19:25,Work From Home,Evening,Office
+E1025,Employee_25,Operations,17/01/2024,9:29,17:35,work from home,Morning,Office
+E1021,Employee_21,Sales,26/03/2024,,,Absent,Evening,Office
+E1017,Employee_17,Operations,01-23-2024,,,Absent,Morning,Remote
+E1008,Employee_8,Finance,2024-02-12,10:15,16:11,Work From Home,Evening,Remote
+E1039,Employee_39,IT,2024-02-23,8:57,19:50,Present,Morning,Remote
+E1043,Employee_43,Finance,12/01/2024,8:2,19:11,Late,Morning,Remote
+E1054,Employee_54,Finance,03-19-2024,8:4,20:40,Late,Morning,Office
+E1026,Employee_26,Finance,02-09-2024,,,Absent,Evening,Office
+E1002,Employee_2,IT,01/02/2024,8:3,17:2,Present,Evening,Remote
+E1028,Employee_28,Operations,2024-01-29,10:21,19:5,Present,Evening,Office
+E1022,Employee_22,IT,17/02/2024,11:39,17:13,Present,Morning,Office
+E1005,Employee_5,Sales  ,03-03-2024,,,Absent,Morning,Office
+E1034,Employee_34,Operations,2024-02-25,10:17,19:53,Late,Morning,Remote
+E1039,Employee_39,IT,2024-02-21,8:23,20:51,Late,Evening,Office
+E1038,Employee_38,Sales,02-25-2024,8:31,16:49,Work From Home,Morning,Remote
+E1012,Employee_12,Operations,2024-03-28,,,Absent,Evening,Remote
+E1046,Employee_46,Finance,21/03/2024,,,Absent,Morning,Office
+E1011,Employee_11,Finance,01/01/2024,9:12,20:20,Present,Evening,Office
+E1051,Employee_51,Finance,17/02/2024,8:42,16:36,Present,Evening,Office
+E1000,Employee_0,IT,04/01/2024,9:20,20:18,Late,Evening,Office
+E1026,Employee_26,IT,01-20-2024,,,absent,Morning,Remote
+E1020,Employee_20,Finance,30/03/2024,8:6,20:45,Work From Home,Morning,Office
+E1019,Employee_19,Finance,2024-01-10,10:44,16:13,Present,Morning,Remote
+E1018,Employee_18,IT,2024-01-15,9:51,19:26,work from home,Morning,Office
+E1027,Employee_27,Finance,02/03/2024,,,Absent,Evening,Remote
+E1000,Employee_0,HR,2024-03-17,11:2,17:22,Late,Evening,Remote
+E1046,Employee_46,Operations,10/01/2024,11:34,16:33,Late,Evening,Office
+E1023,Employee_23,Sales,2024-03-09,10:48,16:11,Late,Morning,Remote
+E1045,Employee_45,HR,01-09-2024,9:54,19:8,Late,Evening,Office
+E1006,Employee_6,HR,2024-03-13,10:9,17:54,Work From Home,Evening,Office
+E1005,Employee_5,Finance,02-21-2024,,,Absent,Morning,Office
+E1034,Employee_34,IT,01-28-2024,11:46,19:30,Late,Morning,Office
+E1035,Employee_35,Sales,01-11-2024,9:18,20:54,Late,Evening,Office
+E1038,Employee_38,Finance,19/02/2024,11:48,19:10,Late,Evening,Remote
+E1046,Employee_46,HR,2024-03-06,10:28,19:50,Work From Home,Evening,Office
+E1041,Employee_41,IT,01-10-2024,,,Absent,Evening,Remote
+E1055,Employee_55,HR,03-27-2024,,,Absent,Morning,Office
+E1032,Employee_32,Operations,2024-01-31,10:38,19:28,Late,Evening,Office
+E1057,Employee_57,Operations  ,02-22-2024,10:9,19:50,work from home,Morning,Office
+E1013,Employee_13,Sales,2024-03-05,10:48,19:17,Work From Home,Evening,Office
+E1051,Employee_51,Sales,03-16-2024,,,Absent,Evening,Office
+E1018,Employee_18,HR,24/03/2024,,,Absent,Evening,Office
+E1034,Employee_34,Finance,02-25-2024,8:2,16:54,Present,Evening,Office
+E1013,Employee_13,HR,02-01-2024,,,Absent,Evening,Office
+E1043,Employee_43,Operations,01-27-2024,11:9,18:11,Work From Home,Evening,Remote
+E1026,Employee_26,Operations,2024-02-18,,,Absent,Morning,Office
+E1052,Employee_52,Operations,02/01/2024,10:4,18:23,Late,Morning,Remote
+E1052,Employee_52,HR,18/01/2024,11:31,18:23,Work From Home,Morning,Office
+E1012,Employee_12,Sales,2024-02-27,8:46,18:58,Late,Evening,Office
+E1011,Employee_11,Operations,2024-02-12,11:53,19:36,Present,Evening,Remote
+E1047,Employee_47,Operations,2024-01-04,10:49,19:39,Late,Morning,Office
+E1048,Employee_48,Sales,2024-03-11,10:53,17:52,Late,Morning,Remote
+E1014,Employee_14,Finance,2024-03-18,10:51,18:4,Work From Home,Evening,Office
+E1047,Employee_47,IT,2024-01-16,11:54,20:23,Work From Home,Evening,Office
+E1054,Employee_54,Sales  ,2024-02-17,8:3,17:41,Work From Home,Evening,Remote
+E1004,Employee_4,HR,12/03/2024,8:14,19:47,Work From Home,Evening,Office
+E1055,Employee_55,Operations,2024-03-30,11:25,17:13,Present,Evening,Office
+E1031,Employee_31,Operations,10/03/2024,11:40,20:40,Present,Evening,Office
+E1019,Employee_19,IT,2024-03-12,11:10,16:28,Present,Evening,Remote
+E1014,Employee_14,HR,27/02/2024,9:27,18:13,Present,Morning,Office
+E1021,Employee_21,Operations,02-01-2024,11:6,17:11,Late,Morning,Remote
+E1017,Employee_17,IT,03-17-2024,10:33,16:44,Late,Morning,Remote
+E1015,Employee_15,IT,2024-02-20,11:36,19:5,Late,Morning,Office
+E1022,Employee_22,IT  ,03-13-2024,9:18,17:50,Work From Home,Morning,Office
+E1012,Employee_12,Sales,03-28-2024,,,Absent,Evening,Remote
+E1006,Employee_6,Finance,10/03/2024,11:22,19:30,Work From Home,Evening,Remote
+E1032,Employee_32,IT,03-09-2024,,,Absent,Morning,Office
+E1024,Employee_24,Finance,27/01/2024,11:15,16:58,Late,Morning,Remote
+E1038,Employee_38,Sales,2024-03-10,10:8,19:11,Work From Home,Morning,Remote
+E1054,Employee_54,Sales,2024-01-17,10:35,18:22,Late,Morning,Office
+E1052,Employee_52,Sales,2024-03-14,10:49,19:36,Present,Morning,Remote
+E1042,Employee_42,IT,2024-02-16,9:44,20:16,Work From Home,Morning,Office
+E1040,Employee_40,Sales,03-08-2024,10:40,19:37,Work From Home,Evening,Remote
+E1045,Employee_45,Sales,2024-02-02,9:39,18:13,Work From Home,Evening,Remote
+E1011,Employee_11,Operations,2024-02-10,10:24,16:2,Work From Home,Evening,Office
+E1017,Employee_17,Sales,02-13-2024,11:14,19:39,Late,Morning,Office
+E1025,Employee_25,Finance,26/03/2024,,,Absent,Morning,Remote
+E1010,Employee_10,Operations,2024-01-08,8:40,18:58,,Evening,Remote
+E1058,Employee_58,HR,02-16-2024,10:52,20:42,Work From Home,Evening,Remote
+E1057,Employee_57,Sales  ,03/01/2024,,,Absent,Evening,Office
+E1018,Employee_18,Operations,01-01-2024,10:3,20:43,Present,Morning,Remote
+E1036,Employee_36,Operations,03-01-2024,9:47,17:10,Work From Home,Morning,Remote
+E1015,Employee_15,Finance,2024-02-02,8:29,19:32,Late,Morning,Remote
+E1018,Employee_18,Operations,02-05-2024,9:39,19:20,late,Morning,Office
+E1059,Employee_59,Finance,28/03/2024,10:53,19:49,Late,Morning,Office
+E1011,Employee_11,IT,2024-01-13,10:5,20:36,Present,Evening,Remote
+E1006,Employee_6,HR  ,02-17-2024,9:16,20:0,Late,Evening,Remote
+E1029,Employee_29,IT,03-18-2024,10:24,17:41,Work From Home,Evening,Remote
+E1014,Employee_14,Operations,01-21-2024,8:28,16:53,Present,Evening,Office
+E1055,Employee_55,HR,2024-02-19,,,Absent,Evening,Office
+E1050,Employee_50,HR,2024-03-11,,,Absent,Evening,Remote
+E1053,Employee_53,Operations,01-28-2024,9:4,17:27,present,Evening,Remote
+E1031,Employee_31,Sales,2024-02-13,9:0,16:26,Late,Morning,Remote
+E1045,Employee_45,IT,22/01/2024,10:20,19:40,Late,Evening,Remote
+E1007,Employee_7,Sales,29/03/2024,10:43,19:46,Work From Home,Evening,Office
+E1030,Employee_30,Operations,27/03/2024,8:45,18:7,Present,Evening,Office
+E1042,Employee_42,Finance  ,02-12-2024,,,absent,Morning,Remote
+E1020,Employee_20,Finance,2024-03-06,10:35,20:21,Present,Evening,Remote
+E1011,Employee_11,Operations,14/02/2024,,,Absent,Morning,Office
+E1003,Employee_3,Operations,30/01/2024,,,,Evening,Office
+E1015,Employee_15,Sales,03-01-2024,8:16,18:25,Late,Evening,Remote
+E1006,Employee_6,Sales,25/01/2024,,,Absent,Evening,Office
+E1032,Employee_32,Operations,2024-02-21,,,Absent,Evening,Office
+E1010,Employee_10,Operations,12/03/2024,11:43,17:29,Present,Morning,Remote
+E1002,Employee_2,HR,2024-03-16,11:27,18:31,present,Morning,Office
+E1019,Employee_19,IT,2024-01-24,8:31,18:41,Present,Morning,Office
+E1007,Employee_7,HR,03-27-2024,8:3,17:26,Work From Home,Evening,Remote
+E1003,Employee_3,IT,12/02/2024,11:56,17:2,Work From Home,Evening,Remote
+E1019,Employee_19,Sales,2024-02-21,,,Absent,Evening,Remote
+E1021,Employee_21,Sales  ,14/03/2024,11:48,16:20,Late,Morning,Remote
+E1049,Employee_49,Finance,2024-03-25,,,absent,Evening,Office
+E1036,Employee_36,HR,04/03/2024,8:49,18:0,Late,Evening,Remote
+E1013,Employee_13,Operations,03-15-2024,10:29,18:20,Work From Home,Evening,Office
+E1059,Employee_59,HR,01-24-2024,9:55,17:18,Work From Home,Evening,Remote
+E1001,Employee_1,Sales,2024-01-29,9:2,19:41,Late,Morning,Remote
+E1035,Employee_35,HR,02/03/2024,11:20,16:37,Work From Home,Morning,Remote
+E1045,Employee_45,HR,2024-02-13,11:42,17:8,Present,Evening,Office
+E1052,Employee_52,IT,19/01/2024,10:4,19:23,Late,Morning,Office
+E1025,Employee_25,Sales,02/03/2024,,,Absent,Evening,Office
+E1059,Employee_59,Finance,20/01/2024,10:14,19:51,Present,Morning,Office
+E1045,Employee_45,IT,02-20-2024,11:10,17:43,Work From Home,Evening,Remote
+E1033,Employee_33,IT,01-30-2024,10:22,17:44,Present,Evening,Remote
+E1007,Employee_7,Operations,09/02/2024,11:2,18:48,Late,Evening,Remote
+E1021,Employee_21,Sales,28/01/2024,9:5,16:16,Work From Home,Evening,Remote
+E1034,Employee_34,HR,14/01/2024,9:43,17:0,Late,Evening,Office
+E1059,Employee_59,Sales,02-04-2024,,,Absent,Morning,Remote
+E1044,Employee_44,HR,01/01/2024,10:59,16:54,Late,Morning,Remote
+E1018,Employee_18,HR,10/02/2024,10:20,20:43,Present,Evening,Remote
+E1031,Employee_31,Sales,01-11-2024,,,Absent,Morning,Office
+E1031,Employee_31,HR  ,03-10-2024,8:23,19:50,late,Evening,Remote
+E1059,Employee_59,HR  ,2024-02-13,,,Absent,Evening,Remote
+E1018,Employee_18,Finance,2024-01-04,,,Absent,Evening,Office
+E1011,Employee_11,IT,01-18-2024,11:19,20:40,Late,Evening,Office
+E1049,Employee_49,Operations,2024-01-05,,,Absent,Morning,Remote
+E1042,Employee_42,Sales,2024-02-23,,,Absent,Morning,Office
+E1021,Employee_21,Sales,2024-01-02,,,Absent,Evening,Office
+E1027,Employee_27,Finance,19/02/2024,,,Absent,Evening,Remote
+E1012,Employee_12,Finance,02-20-2024,10:7,19:3,Late,Morning,Remote
+E1041,Employee_41,HR,2024-03-26,10:7,19:11,,Morning,Remote
+E1045,Employee_45,IT,01-10-2024,11:10,20:0,Work From Home,Evening,Remote
+E1006,Employee_6,Finance,02/01/2024,9:57,16:56,Work From Home,Evening,Office
+E1029,Employee_29,HR,2024-01-14,10:4,16:55,Work From Home,Evening,Remote
+E1041,Employee_41,Finance,01-30-2024,10:18,18:52,Present,Evening,Office
+E1002,Employee_2,IT,02-17-2024,,,Absent,Evening,Office
+E1023,Employee_23,Sales,01-07-2024,10:29,19:51,,Morning,Office
+E1001,Employee_1,IT,2024-01-30,,,Absent,Morning,Remote
+E1029,Employee_29,IT,15/03/2024,,,Absent,Evening,Remote
+E1030,Employee_30,HR,02-10-2024,10:40,16:35,Present,Evening,Remote
+E1021,Employee_21,IT,02-04-2024,10:30,20:35,Present,Morning,Remote
+E1028,Employee_28,Sales,03-09-2024,10:13,16:46,Work From Home,Evening,Remote
+E1033,Employee_33,HR  ,23/01/2024,8:17,17:45,Present,Evening,Office
+E1016,Employee_16,IT,01-12-2024,10:50,19:26,Work From Home,Morning,Office
+E1044,Employee_44,Operations,2024-03-28,11:21,16:21,Present,Morning,Remote
+E1045,Employee_45,Finance,2024-01-17,,,Absent,Evening,Office
+E1035,Employee_35,Sales,2024-01-29,11:55,17:51,Present,Morning,Office
+E1042,Employee_42,Operations,07/02/2024,10:25,18:13,Late,Morning,Remote
+E1023,Employee_23,Operations,02-18-2024,10:36,19:22,Work From Home,Morning,Office
+E1006,Employee_6,Finance,01-26-2024,10:29,19:56,Work From Home,Evening,Remote
+E1035,Employee_35,Operations,2024-01-20,11:42,17:53,Work From Home,Morning,Office
+E1056,Employee_56,Finance,03-30-2024,10:12,17:31,Late,Evening,Office
+E1053,Employee_53,Operations,2024-01-05,8:34,18:27,Present,Evening,Remote
+E1036,Employee_36,HR,2024-03-21,8:26,16:17,Present,Morning,Remote
+E1031,Employee_31,Sales,2024-02-13,11:53,19:40,Work From Home,Morning,Remote
+E1017,Employee_17,Operations,13/03/2024,,,absent,Evening,Office
+E1023,Employee_23,Sales,2024-03-03,9:26,19:27,Work From Home,Evening,Remote
+E1049,Employee_49,Operations,01-12-2024,8:27,16:49,Present,Evening,Office
+E1002,Employee_2,Finance,2024-02-14,8:23,16:52,Present,Morning,Remote
+E1041,Employee_41,Operations,22/02/2024,11:32,19:54,Present,Morning,Remote
+E1022,Employee_22,IT,09/03/2024,,,Absent,Morning,Remote
+E1017,Employee_17,Sales,28/02/2024,8:11,17:20,Present,Evening,Office
+E1019,Employee_19,IT,20/03/2024,,,Absent,Morning,Remote
+E1009,Employee_9,Finance,03-09-2024,10:34,16:40,Late,Morning,Remote
+E1025,Employee_25,Sales,02/02/2024,8:17,16:0,Present,Morning,Remote
+E1050,Employee_50,Finance  ,02-09-2024,10:8,17:25,Work From Home,Morning,Remote
+E1041,Employee_41,Operations,03-17-2024,10:34,17:53,Work From Home,Morning,Office
+E1036,Employee_36,Sales,15/03/2024,,,Absent,Evening,Office
+E1048,Employee_48,Finance,29/01/2024,8:26,16:39,Late,Morning,Remote
+E1028,Employee_28,Operations,2024-03-06,11:21,18:32,Present,Evening,Remote
+E1021,Employee_21,Finance,07/03/2024,10:23,19:24,Work From Home,Evening,Office
+E1056,Employee_56,Finance,02/01/2024,8:3,18:15,Present,Evening,Remote
+E1035,Employee_35,Operations,01-01-2024,9:34,19:41,Work From Home,Morning,Remote
+E1048,Employee_48,Finance,20/01/2024,,,Absent,Evening,Office
+E1039,Employee_39,HR,2024-02-08,,,Absent,Evening,Office
+E1030,Employee_30,HR,01-30-2024,10:58,20:13,Late,Morning,Office
+E1013,Employee_13,Finance,03-06-2024,11:0,17:41,Late,Morning,Remote
+E1000,Employee_0,HR,01-09-2024,11:6,20:2,Present,Morning,Remote
+E1016,Employee_16,IT,01-14-2024,10:46,17:32,Present,Evening,Remote
+E1038,Employee_38,IT,02-26-2024,,,Absent,Morning,Office
+E1042,Employee_42,Finance,12/02/2024,,,Absent,Morning,Remote
+E1002,Employee_2,Finance,04/01/2024,10:45,19:30,late,Evening,Remote
+E1047,Employee_47,Sales,01-02-2024,11:43,18:15,Late,Evening,Remote
+E1041,Employee_41,Sales,07/03/2024,10:10,20:26,Work From Home,Morning,Office
+E1012,Employee_12,Finance,02-08-2024,,,Absent,Morning,Remote
+E1000,Employee_0,Operations,2024-01-19,11:50,16:22,Work From Home,Morning,Office
+E1051,Employee_51,Operations,01-28-2024,11:48,19:9,Present,Evening,Office
+E1036,Employee_36,HR,02-13-2024,9:51,17:23,Present,Evening,Office
+E1020,Employee_20,Sales,01-30-2024,11:49,18:4,Work From Home,Morning,Office
+E1041,Employee_41,HR,02-11-2024,9:5,17:20,Work From Home,Morning,Office
+E1020,Employee_20,HR,25/03/2024,8:56,20:13,,Morning,Office
+E1004,Employee_4,Operations,2024-03-02,8:22,20:27,Present,Evening,Remote
+E1013,Employee_13,Finance,04/01/2024,11:21,18:47,Late,Evening,Remote
+E1015,Employee_15,IT,03-05-2024,9:29,18:59,Present,Evening,Remote
+E1001,Employee_1,Sales,01-09-2024,,,Absent,Morning,Remote
+E1051,Employee_51,Sales,03-10-2024,11:55,18:2,Present,Morning,Office
+E1055,Employee_55,Finance,02-04-2024,11:16,17:28,Work From Home,Morning,Office
+E1048,Employee_48,IT,29/03/2024,11:37,16:5,Present,Morning,Office
+E1029,Employee_29,Finance,2024-01-21,11:21,17:25,Work From Home,Morning,Remote
+E1045,Employee_45,Operations,24/03/2024,9:16,18:12,Late,Morning,Office
+E1053,Employee_53,Finance,02-08-2024,11:43,18:47,Late,Evening,Office
+E1018,Employee_18,HR,2024-02-03,,,absent,Morning,Remote
+E1045,Employee_45,Sales,02/03/2024,10:0,20:36,Late,Morning,Office
+E1010,Employee_10,IT,02-20-2024,9:46,16:41,Work From Home,Evening,Office
+E1018,Employee_18,Sales,08/03/2024,8:5,20:36,Late,Evening,Office
+E1054,Employee_54,HR,2024-03-01,,,Absent,Morning,Remote
+E1034,Employee_34,Sales,2024-02-11,10:30,17:22,Work From Home,Morning,Remote
+E1041,Employee_41,Sales,2024-01-16,11:53,20:20,Work From Home,Evening,Office
+E1030,Employee_30,Finance,05/03/2024,10:59,17:20,Late,Evening,Remote
+E1031,Employee_31,Finance,02-23-2024,9:24,20:22,Late,Evening,Office
+E1034,Employee_34,Sales,03-14-2024,11:32,17:23,Late,Evening,Remote
+E1004,Employee_4,HR,27/02/2024,8:48,18:1,Present,Evening,Remote
+E1011,Employee_11,HR,05/03/2024,,,Absent,Evening,Office
+E1029,Employee_29,HR,02-10-2024,8:4,17:31,Work From Home,Evening,Remote
+E1025,Employee_25,Sales,24/01/2024,8:30,18:38,Work From Home,Evening,Remote
+E1027,Employee_27,Finance,03-23-2024,8:5,18:23,Work From Home,Morning,Office
+E1022,Employee_22,Operations,18/03/2024,,,Absent,Morning,Office
+E1007,Employee_7,HR,02/02/2024,9:24,18:33,Present,Evening,Office
+E1028,Employee_28,Sales,26/03/2024,,,Absent,Evening,Remote
+E1042,Employee_42,Operations,01-15-2024,11:29,19:14,,Evening,Office
+E1022,Employee_22,Sales,02-26-2024,10:30,17:25,Work From Home,Evening,Office
+E1047,Employee_47,IT,22/03/2024,9:59,18:52,Present,Evening,Office
+E1004,Employee_4,Operations,2024-03-20,10:59,20:57,Late,Evening,Office
+E1059,Employee_59,Operations,2024-02-06,10:32,19:33,Late,Evening,Remote
+E1029,Employee_29,Sales,01-29-2024,11:29,20:56,Late,Evening,Office
+E1009,Employee_9,Operations  ,25/02/2024,9:26,16:13,Late,Morning,Remote
+E1030,Employee_30,Finance,03-25-2024,8:12,16:41,Present,Evening,Remote
+E1044,Employee_44,HR,2024-03-29,9:27,20:45,Late,Evening,Remote
+E1016,Employee_16,HR,16/02/2024,10:22,20:17,Present,Evening,Remote
+E1021,Employee_21,Sales,31/01/2024,8:24,20:13,Work From Home,Evening,Office
+E1003,Employee_3,HR,2024-03-15,8:52,16:41,Present,Morning,Remote
+E1029,Employee_29,HR,03-02-2024,,,Absent,Morning,Remote
+E1023,Employee_23,IT,03-15-2024,9:42,18:30,Present,Morning,Remote
+E1048,Employee_48,Finance,2024-03-18,11:29,19:41,Present,Morning,Office
+E1015,Employee_15,Finance,21/01/2024,11:5,20:32,Present,Morning,Remote
+E1017,Employee_17,Operations,2024-01-28,11:44,19:0,Late,Morning,Remote
+E1058,Employee_58,Sales,08/02/2024,10:39,20:36,Late,Evening,Office
+E1044,Employee_44,Finance,29/02/2024,,,Absent,Morning,Remote
+E1046,Employee_46,Sales,2024-03-26,10:21,18:36,Work From Home,Morning,Remote
+E1001,Employee_1,Sales,19/03/2024,10:16,19:38,Present,Evening,Office
+E1021,Employee_21,Sales,2024-01-31,,,absent,Morning,Office
+E1041,Employee_41,IT,28/01/2024,,,Absent,Evening,Office
+E1000,Employee_0,Operations,2024-03-25,8:34,17:38,Late,Evening,Office
+E1033,Employee_33,IT,15/03/2024,10:4,20:7,Present,Morning,Office
+E1004,Employee_4,Finance,03-15-2024,10:52,18:16,late,Morning,Remote
+E1034,Employee_34,Sales,21/01/2024,9:1,18:2,Late,Morning,Office
+E1042,Employee_42,Finance,27/03/2024,,,Absent,Evening,Remote
+E1000,Employee_0,HR,24/03/2024,10:59,20:51,Work From Home,Evening,Remote
+E1027,Employee_27,Sales,30/03/2024,10:36,17:24,Present,Evening,Office
+E1034,Employee_34,Sales,22/03/2024,8:19,17:15,Late,Morning,Office
+E1006,Employee_6,Operations,2024-01-09,10:15,18:46,Work From Home,Evening,Office
+E1035,Employee_35,HR,2024-01-24,10:45,19:59,Present,Evening,Office
+E1030,Employee_30,Finance,25/03/2024,8:38,17:30,Late,Morning,Office
+E1054,Employee_54,HR,07/03/2024,11:5,18:24,Present,Evening,Remote
+E1027,Employee_27,Sales,25/03/2024,,,Absent,Evening,Remote
+E1041,Employee_41,IT,05/01/2024,,,Absent,Evening,Office
+E1038,Employee_38,Operations,2024-01-29,10:45,20:42,Present,Evening,Office
+E1021,Employee_21,Finance,02/02/2024,10:22,17:54,Work From Home,Evening,Remote
+E1048,Employee_48,Operations,2024-01-09,10:36,17:55,Late,Evening,Remote
+E1006,Employee_6,HR,2024-01-13,9:58,19:37,Work From Home,Morning,Remote
+E1039,Employee_39,IT,01-25-2024,9:8,18:15,Late,Morning,Office
+E1002,Employee_2,IT,17/01/2024,11:42,18:51,Late,Evening,Remote
+E1058,Employee_58,HR,03-14-2024,10:54,17:5,Late,Evening,Office
+E1034,Employee_34,Sales,25/01/2024,8:1,18:37,Late,Morning,Office
+E1017,Employee_17,Operations,2024-02-26,11:51,18:28,Late,Evening,Office
+E1044,Employee_44,Operations,02-14-2024,11:29,17:21,present,Morning,Remote
+E1044,Employee_44,IT,02-25-2024,,,Absent,Morning,Remote
+E1026,Employee_26,HR,01-30-2024,11:19,17:18,Late,Evening,Remote
+E1026,Employee_26,HR,21/02/2024,,,absent,Morning,Office
+E1008,Employee_8,IT  ,2024-01-14,11:0,16:0,Present,Morning,Remote
+E1015,Employee_15,HR,23/02/2024,10:0,16:14,Present,Morning,Remote
+E1019,Employee_19,HR  ,29/01/2024,,,Absent,Evening,Office
+E1019,Employee_19,HR,03-23-2024,11:59,17:5,,Morning,Office
+E1000,Employee_0,HR,2024-02-22,9:1,18:24,Present,Evening,Office
+E1027,Employee_27,HR,03-20-2024,,,Absent,Evening,Office
+E1051,Employee_51,HR,08/02/2024,10:25,19:57,Present,Evening,Remote
+E1024,Employee_24,Finance,15/02/2024,,,Absent,Morning,Office
+E1041,Employee_41,Finance,2024-02-11,8:15,16:19,Work From Home,Morning,Remote
+E1022,Employee_22,Operations,2024-01-16,8:6,16:5,Present,Evening,Remote
+E1058,Employee_58,Sales,03-19-2024,,,Absent,Evening,Office
+E1031,Employee_31,IT,03-14-2024,10:10,18:22,Late,Evening,Office
+E1051,Employee_51,Sales,2024-02-10,9:44,17:33,work from home,Evening,Office
+E1026,Employee_26,Sales,24/01/2024,10:13,16:20,work from home,Morning,Office
+E1001,Employee_1,Sales  ,2024-02-29,10:53,18:34,Late,Morning,Remote
+E1023,Employee_23,Finance,02-17-2024,9:2,16:40,late,Morning,Office
+E1009,Employee_9,HR,27/02/2024,9:39,18:56,Present,Evening,Office
+E1047,Employee_47,Finance,19/03/2024,10:4,16:21,Work From Home,Evening,Office
+E1053,Employee_53,IT,02-21-2024,10:6,16:15,Present,Evening,Remote
+E1057,Employee_57,IT,20/01/2024,8:51,18:52,Present,Morning,Office
+E1032,Employee_32,HR,13/01/2024,9:14,16:47,Work From Home,Evening,Remote
+E1023,Employee_23,HR,15/03/2024,11:24,16:34,Work From Home,Evening,Office
+E1037,Employee_37,Operations,2024-02-24,10:16,19:23,Work From Home,Morning,Office
+E1009,Employee_9,HR,2024-02-14,,,Absent,Evening,Office
+E1010,Employee_10,IT,2024-01-06,8:45,18:2,Late,Evening,Office
+E1024,Employee_24,Finance,03-15-2024,11:35,20:8,Late,Morning,Remote
+E1007,Employee_7,Operations,2024-02-07,9:16,17:8,Late,Evening,Remote
+E1002,Employee_2,HR,2024-02-04,9:53,20:22,Work From Home,Evening,Office
+E1042,Employee_42,HR,19/03/2024,10:11,16:52,,Evening,Remote
+E1053,Employee_53,HR,01-11-2024,11:8,16:59,Present,Morning,Office
+E1043,Employee_43,IT,19/01/2024,9:34,16:47,late,Morning,Office
+E1059,Employee_59,Sales,02-21-2024,8:5,19:7,Present,Morning,Remote
+E1058,Employee_58,IT,01-10-2024,10:47,19:4,Present,Evening,Office
+E1056,Employee_56,Finance,01-20-2024,10:3,20:4,Present,Morning,Office
+E1009,Employee_9,HR  ,27/02/2024,,,Absent,Evening,Remote
+E1031,Employee_31,HR,07/02/2024,,,Absent,Morning,Office
+E1014,Employee_14,HR,29/03/2024,,,Absent,Morning,Office
+E1027,Employee_27,Operations,10/01/2024,10:39,16:9,Late,Morning,Remote
+E1034,Employee_34,HR,2024-03-17,8:48,16:18,Work From Home,Morning,Remote
+E1055,Employee_55,Sales,10/02/2024,9:41,19:29,Present,Evening,Office
+E1046,Employee_46,IT,10/03/2024,10:55,19:39,Work From Home,Evening,Remote
+E1051,Employee_51,HR,14/03/2024,8:41,19:6,present,Morning,Office
+E1050,Employee_50,Finance,17/02/2024,8:54,20:18,Work From Home,Morning,Office
+E1032,Employee_32,HR,30/01/2024,,,Absent,Morning,Office
+E1024,Employee_24,IT,2024-01-06,9:10,18:45,Present,Evening,Remote
+E1052,Employee_52,HR,02-08-2024,8:39,19:19,Late,Evening,Remote
+E1059,Employee_59,HR,03-15-2024,,,Absent,Evening,Office
+E1029,Employee_29,Operations,18/02/2024,10:21,20:38,Work From Home,Evening,Remote
+E1016,Employee_16,HR,30/01/2024,10:37,20:28,Late,Evening,Remote
+E1059,Employee_59,Sales,2024-03-01,9:3,19:49,Work From Home,Morning,Remote
+E1000,Employee_0,Finance,01-28-2024,9:9,20:7,Work From Home,Morning,Remote
+E1006,Employee_6,Operations,2024-01-19,,,Absent,Evening,Remote
+E1027,Employee_27,Operations,23/01/2024,8:46,16:53,Work From Home,Morning,Office
+E1004,Employee_4,Finance,02/01/2024,10:29,16:34,Late,Morning,Office
+E1019,Employee_19,Finance,30/01/2024,,,Absent,Morning,Remote
+E1029,Employee_29,HR,03-07-2024,,,Absent,Morning,Remote
+E1046,Employee_46,IT,19/01/2024,,,Absent,Evening,Office
+E1001,Employee_1,Sales,2024-02-25,10:11,19:1,Work From Home,Evening,Office
+E1012,Employee_12,IT,03-13-2024,,,Absent,Morning,Office
+E1056,Employee_56,Sales,02-22-2024,8:11,17:32,Late,Morning,Office
+E1033,Employee_33,IT,18/02/2024,11:29,18:50,Late,Morning,Remote
+E1034,Employee_34,IT,03-23-2024,10:16,18:8,Late,Morning,Remote
+E1054,Employee_54,IT,12/01/2024,9:23,18:41,Present,Morning,Office
+E1040,Employee_40,HR,01-18-2024,11:56,20:53,Late,Morning,Office
+E1044,Employee_44,HR,25/03/2024,,,Absent,Morning,Remote
+E1048,Employee_48,Finance,14/03/2024,9:13,19:40,Late,Morning,Office
+E1013,Employee_13,IT,2024-03-02,9:18,19:13,Present,Evening,Remote
+E1055,Employee_55,Finance,2024-03-11,,,Absent,Morning,Remote
+E1027,Employee_27,Sales,31/01/2024,9:48,19:24,Work From Home,Evening,Remote
+E1013,Employee_13,Finance,2024-03-02,11:24,20:28,Late,Evening,Remote
+E1004,Employee_4,Finance,2024-01-29,10:45,17:15,Work From Home,Evening,Remote
+E1029,Employee_29,HR,2024-01-11,8:47,19:54,Work From Home,Morning,Remote
+E1039,Employee_39,Sales,02-28-2024,9:28,20:15,Late,Evening,Remote
+E1024,Employee_24,IT,14/02/2024,11:26,18:27,Present,Morning,Office
+E1030,Employee_30,Sales,13/01/2024,8:47,20:13,Late,Morning,Office
+E1048,Employee_48,Finance,2024-01-02,10:48,17:15,Present,Evening,Remote
+E1059,Employee_59,Finance,18/03/2024,8:58,16:30,Late,Evening,Remote
+E1019,Employee_19,Finance,2024-01-17,11:13,17:5,late,Morning,Office
+E1038,Employee_38,Sales,01-29-2024,8:24,17:13,Present,Evening,Office
+E1008,Employee_8,Finance,03-30-2024,9:55,20:55,Work From Home,Morning,Remote
+E1052,Employee_52,Operations  ,12/02/2024,8:44,18:49,Work From Home,Morning,Remote
+E1020,Employee_20,IT,2024-02-25,,,Absent,Morning,Office
+E1058,Employee_58,Operations,09/01/2024,11:41,20:19,Present,Evening,Office
+E1041,Employee_41,Finance  ,29/02/2024,9:47,20:41,Work From Home,Evening,Office
+E1024,Employee_24,HR,03-23-2024,8:43,19:13,Late,Morning,Office
+E1028,Employee_28,Sales  ,11/03/2024,11:29,17:57,Present,Morning,Office
+E1001,Employee_1,HR,01-26-2024,,,Absent,Evening,Office
+E1007,Employee_7,Finance,2024-02-12,9:5,20:53,Present,Morning,Office
+E1026,Employee_26,Finance,01-03-2024,11:38,17:22,Present,Morning,Office
+E1023,Employee_23,HR,2024-01-22,10:46,17:3,Present,Evening,Office
+E1049,Employee_49,Finance,2024-03-21,,,Absent,Morning,Remote
+E1043,Employee_43,Finance,02-02-2024,9:43,16:23,Late,Evening,Office
+E1028,Employee_28,HR,2024-02-09,,,absent,Evening,Remote
+E1044,Employee_44,IT,03-27-2024,9:47,17:0,Late,Evening,Office
+E1039,Employee_39,Finance,02-03-2024,9:31,19:39,Work From Home,Evening,Remote
+E1011,Employee_11,IT,2024-01-06,8:57,20:49,Present,Evening,Office
+E1041,Employee_41,HR,11/01/2024,10:27,20:40,late,Evening,Office
+E1014,Employee_14,HR,2024-01-24,10:21,18:58,Present,Morning,Remote
+E1057,Employee_57,Operations,02-03-2024,10:50,17:18,,Morning,Office
+E1021,Employee_21,HR,19/03/2024,10:10,19:36,Work From Home,Morning,Office
+E1011,Employee_11,Finance,2024-01-01,10:31,20:16,Work From Home,Morning,Office
+E1026,Employee_26,HR,2024-01-23,9:7,18:36,Present,Evening,Office
+E1047,Employee_47,HR,01-05-2024,,,Absent,Evening,Remote
+E1025,Employee_25,Finance,2024-01-29,11:28,18:34,Late,Evening,Office
+E1002,Employee_2,Sales,02-24-2024,9:8,18:8,Late,Evening,Remote
+E1003,Employee_3,Finance,11/01/2024,,,Absent,Evening,Remote
+E1050,Employee_50,HR,26/03/2024,8:55,16:28,Present,Evening,Remote
+E1027,Employee_27,Finance,2024-02-06,,,Absent,Morning,Remote
+E1033,Employee_33,Operations,06/02/2024,10:8,17:29,Present,Morning,Remote
+E1000,Employee_0,Finance,03/02/2024,9:51,17:22,Late,Evening,Office
+E1053,Employee_53,Finance,2024-03-27,,,Absent,Evening,Remote
+E1042,Employee_42,IT,2024-01-08,9:39,17:36,Present,Evening,Office
+E1051,Employee_51,Finance,30/03/2024,9:18,16:16,Late,Evening,Remote
+E1013,Employee_13,Sales,03-02-2024,10:30,16:18,Work From Home,Evening,Office
+E1054,Employee_54,Operations,22/03/2024,,,Absent,Evening,Office
+E1036,Employee_36,Operations,25/01/2024,11:43,18:56,Present,Morning,Office
+E1045,Employee_45,HR,03-11-2024,,,Absent,Evening,Remote
+E1049,Employee_49,Operations,28/02/2024,10:33,20:45,Present,Morning,Remote
+E1019,Employee_19,Operations,2024-01-16,10:21,20:39,Present,Morning,Remote
+E1042,Employee_42,Sales,24/01/2024,,,Absent,Morning,Office
+E1000,Employee_0,HR  ,2024-02-11,,,Absent,Evening,Office
+E1024,Employee_24,Finance,01-05-2024,9:59,16:20,Present,Morning,Remote
+E1024,Employee_24,HR,11/02/2024,10:43,20:7,Work From Home,Morning,Remote
+E1035,Employee_35,Operations,2024-02-02,10:45,18:44,Late,Morning,Remote
+E1048,Employee_48,Sales,03-17-2024,9:46,20:25,Late,Morning,Office
+E1055,Employee_55,IT,2024-01-09,10:22,16:44,Work From Home,Morning,Remote
+E1052,Employee_52,Operations,2024-01-02,,,Absent,Evening,Remote
+E1037,Employee_37,IT,01-24-2024,10:22,18:42,,Morning,Office
+E1056,Employee_56,Sales,13/02/2024,9:10,16:13,Present,Evening,Office
+E1050,Employee_50,Finance,08/03/2024,11:36,17:30,Late,Morning,Remote
+E1006,Employee_6,IT,07/01/2024,9:16,18:42,Present,Morning,Remote
+E1019,Employee_19,HR,25/01/2024,9:12,18:7,Present,Evening,Office
+E1045,Employee_45,IT,16/03/2024,9:55,16:50,Present,Morning,Remote
+E1047,Employee_47,Sales,02-05-2024,,,Absent,Evening,Office
+E1048,Employee_48,Finance,02-07-2024,9:59,19:37,Work From Home,Morning,Remote
+E1055,Employee_55,IT,01-11-2024,9:22,16:55,work from home,Evening,Remote
+E1046,Employee_46,Operations,01-08-2024,,,,Evening,Remote
+E1014,Employee_14,Sales,02-18-2024,,,Absent,Evening,Office
+E1041,Employee_41,HR,2024-01-05,10:26,17:36,Late,Morning,Office
+E1032,Employee_32,HR,08/01/2024,10:30,20:25,Late,Morning,Remote
+E1020,Employee_20,Finance,2024-02-20,10:27,16:9,Work From Home,Evening,Remote
+E1020,Employee_20,Operations,21/01/2024,,,absent,Evening,Remote
+E1011,Employee_11,Finance,2024-01-21,,,Absent,Morning,Remote
+E1003,Employee_3,Sales,2024-01-11,,,Absent,Morning,Remote
+E1049,Employee_49,IT,02-19-2024,10:8,20:51,Present,Evening,Office
+E1017,Employee_17,IT,28/03/2024,9:31,18:50,Present,Evening,Remote
+E1005,Employee_5,Operations,17/02/2024,9:14,18:21,Late,Morning,Office
+E1026,Employee_26,Operations,09/02/2024,11:43,19:49,Late,Morning,Office
+E1026,Employee_26,Operations,2024-02-22,,,Absent,Morning,Office
+E1052,Employee_52,HR,2024-03-10,9:2,16:23,Present,Evening,Remote
+E1014,Employee_14,HR,01-17-2024,,,Absent,Evening,Remote
+E1029,Employee_29,HR,20/03/2024,10:10,20:22,Present,Evening,Office
+E1021,Employee_21,HR,2024-01-04,,,Absent,Evening,Office
+E1006,Employee_6,HR,2024-01-13,9:58,19:37,Work From Home,Morning,Remote
+E1051,Employee_51,Sales,03-10-2024,11:55,18:2,Present,Morning,Office
+E1042,Employee_42,Finance,2024-02-18,,,Absent,Morning,Office
+E1022,Employee_22,Finance,04/01/2024,,,Absent,Morning,Remote
+E1010,Employee_10,IT,06/03/2024,11:37,16:12,Present,Evening,Office
+E1047,Employee_47,Sales,03-03-2024,,,Absent,Morning,Remote
+E1051,Employee_51,Sales,13/01/2024,8:11,18:34,Work From Home,Evening,Office
+E1016,Employee_16,Sales,03-09-2024,,,Absent,Evening,Remote
+E1019,Employee_19,Finance,28/03/2024,10:18,19:47,Late,Evening,Remote
+E1020,Employee_20,Operations,01-28-2024,9:1,20:4,Work From Home,Evening,Office
+E1034,Employee_34,Operations,2024-02-23,8:0,20:58,Present,Morning,Remote
+E1049,Employee_49,Operations,2024-01-28,9:14,18:27,Present,Evening,Remote
+E1005,Employee_5,Finance,2024-02-03,10:29,20:15,Work From Home,Evening,Office
+E1010,Employee_10,Operations,03-27-2024,9:12,19:41,present,Morning,Office
+E1006,Employee_6,HR,2024-03-03,9:9,18:41,,Morning,Remote
+E1046,Employee_46,IT,01-15-2024,11:29,18:13,Work From Home,Evening,Remote
+E1055,Employee_55,Operations,02-18-2024,11:8,20:53,Work From Home,Evening,Remote
+E1049,Employee_49,Sales,31/01/2024,9:7,18:12,Work From Home,Evening,Remote
+E1036,Employee_36,Operations,25/01/2024,11:43,18:56,Present,Morning,Office
+E1014,Employee_14,HR,03-20-2024,,,Absent,Morning,Office
+E1020,Employee_20,Finance,09/01/2024,8:41,20:1,Work From Home,Morning,Office
+E1043,Employee_43,Sales,27/01/2024,9:37,17:40,Present,Evening,Office
+E1001,Employee_1,HR,2024-02-04,10:53,17:50,Work From Home,Evening,Remote
+E1037,Employee_37,IT  ,23/01/2024,10:33,16:13,Late,Evening,Office
+E1016,Employee_16,Sales,13/03/2024,8:3,16:41,Present,Morning,Office
+E1039,Employee_39,IT,2024-02-23,8:57,19:50,Present,Morning,Remote
+E1009,Employee_9,Finance,2024-03-15,8:47,20:29,Work From Home,Morning,Remote
+E1035,Employee_35,Finance,03-01-2024,8:37,20:8,Present,Morning,Office
+E1019,Employee_19,Finance,01/03/2024,8:25,20:37,Work From Home,Morning,Office
+E1002,Employee_2,IT,18/02/2024,9:29,16:49,Work From Home,Evening,Remote
+E1019,Employee_19,HR,01-30-2024,11:58,18:35,Work From Home,Evening,Office
+E1020,Employee_20,Sales,21/03/2024,8:46,20:35,Present,Morning,Remote
+E1003,Employee_3,Sales,02-17-2024,8:53,19:29,Work From Home,Morning,Remote
+E1001,Employee_1,Operations,2024-02-10,,,Absent,Morning,Remote
+E1008,Employee_8,Finance,27/03/2024,10:30,16:25,Late,Morning,Office
+E1001,Employee_1,Operations,01-05-2024,9:48,19:10,Present,Evening,Remote
+E1002,Employee_2,HR,2024-02-04,9:53,20:22,Work From Home,Evening,Office
+E1038,Employee_38,Sales,03-16-2024,8:10,19:51,Late,Morning,Office
+E1016,Employee_16,Finance,04/01/2024,9:43,19:47,Late,Evening,Office
+E1053,Employee_53,Operations,20/02/2024,10:3,16:56,Present,Morning,Office
+E1011,Employee_11,HR,28/01/2024,8:15,17:17,Present,Evening,Remote
+E1031,Employee_31,Operations,01/01/2024,11:4,17:3,Late,Morning,Office
+E1008,Employee_8,Finance,09/02/2024,,,Absent,Evening,Office
+E1058,Employee_58,IT  ,01-02-2024,9:18,18:12,Late,Morning,Remote
+E1025,Employee_25,HR,26/02/2024,9:6,17:49,Present,Morning,Remote
+E1052,Employee_52,IT,03-25-2024,,,Absent,Morning,Office
+E1039,Employee_39,HR,10/03/2024,11:42,20:32,Present,Evening,Remote
+E1045,Employee_45,IT,22/01/2024,10:20,19:40,Late,Evening,Remote
+E1014,Employee_14,HR,2024-01-24,10:21,18:58,Present,Morning,Remote
+E1046,Employee_46,Sales,06/02/2024,9:7,16:38,Late,Evening,Office
+E1023,Employee_23,Operations,2024-01-01,9:22,16:11,,Evening,Remote
+E1004,Employee_4,Finance,2024-01-01,,,Absent,Evening,Office
+E1007,Employee_7,Finance  ,02-25-2024,10:27,17:18,Late,Morning,Office
+E1006,Employee_6,Finance,01-26-2024,10:29,19:56,Work From Home,Evening,Remote
+E1020,Employee_20,Finance,21/03/2024,9:41,19:54,Late,Evening,Office
+E1025,Employee_25,Finance,2024-01-29,11:28,18:34,Late,Evening,Office
+E1001,Employee_1,Sales,06/01/2024,9:6,16:53,Late,Evening,Remote
+E1030,Employee_30,Operations,2024-03-15,10:55,18:15,Work From Home,Morning,Office
+E1014,Employee_14,IT,2024-03-22,9:3,16:31,Late,Evening,Office
+E1004,Employee_4,Sales  ,2024-03-17,8:28,20:58,Late,Evening,Office
+E1038,Employee_38,Sales,02-25-2024,8:31,16:49,Work From Home,Morning,Remote
+E1006,Employee_6,IT,07/01/2024,9:16,18:42,Present,Morning,Remote
+E1004,Employee_4,Operations,2024-03-20,10:59,20:57,Late,Evening,Office
+E1015,Employee_15,HR,01-03-2024,11:22,20:21,Late,Evening,Remote
+E1041,Employee_41,HR,02-07-2024,,,Absent,Morning,Office
+E1059,Employee_59,HR  ,2024-02-13,,,Absent,Evening,Remote
+E1022,Employee_22,Operations,2024-01-15,8:23,18:38,Work From Home,Morning,Office
